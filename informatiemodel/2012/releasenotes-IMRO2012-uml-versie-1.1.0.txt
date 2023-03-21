@@ -1,0 +1,8 @@
+IMRO2012 UML versie 1.1.0 Release notes.
+
+imro2012.xmi - xmi bestand voor import in o.a. enterprise architect maar ook andere uml tools
+imro2012.eap - eap bestand voor direct gebruik in enterprise architect.
+
+Dit het uml bestand dat in enterprise architect is gecreeerd als basis voor het informatiemodel IMRO2012 versie 1.1.0.
+Dit uml bestand is gebruikt voor het genereren van het imro2012.xsd versie 1.1.0 
+Dit uml bestand is het zelfde als en hoort ook bij het document IMRO2012 versie 1.2 definitief
