@@ -6,13 +6,13 @@ Het informatiemodel voor de ruimtelijke ordening is een toepassing van het Basis
 
 ## Structuur van het informatiemodel {#77599823}
 
-De structuur van IMRO is ontleend aan het Basismodel Geo-informatie. Voor de gedetailleerde omschrijving wordt verwezen naar het normdocument NEN 3610:2011 Basismodel Geo-informatie. Voor dit document is het voldoende om de grote lijn te schetsen.
-</br>
+De structuur van IMRO is ontleend aan het Basismodel Geo-informatie. Voor de gedetailleerde omschrijving wordt verwezen naar het normdocument NEN 3610:2011 Basismodel Geo-informatie. Voor dit document is het voldoende om de grote lijn te schetsen.  
+<br/>
 
 <b>Beschrijving van de werkelijkheid</b><br/>
-Binnen veel sectoren in het bedrijfsleven en de overheid wordt er een groot en toenemend belang gehecht aan het delen en gebruiken van elkaars informatie. Geo-informatie vormt hierin de kern van het gemeenschappelijke werkdomein. Dit werkdomein of werkelijkheid kunnen we efficiënt beschrijven door van deze werkelijkheid een abstractie te maken die ons de informatie levert die we nodig hebben. Deze abstractie van de werkelijkheid vormt de basis voor het informatiemodel. In de onderlinge communicatie over en uitwisseling van geo-informatie wordt deze abstractie van de werkelijkheid gebruikt (zie <a href='#figcaption_001'>Figuur 1</a>). Het is dus van wezenlijk belang dat bepaald is wat er met ‘de werkelijkheid’ wordt bedoeld.<br/>
-<figure><img src='media/image1.png' alt='Afbeelding met tekst, diagram, schermopname, Lettertype' style='width: 100%;'></img>
-<figcaption id='figcaption_001'>Het Basismodel Geo-informatie beschrijft een abstractie van de werkelijkheid die wordt vastgelegd in een geo-database</figcaption></figure>
+Binnen veel sectoren in het bedrijfsleven en de overheid wordt er een groot en toenemend belang gehecht aan het delen en gebruiken van elkaars informatie. Geo-informatie vormt hierin de kern van het gemeenschappelijke werkdomein. Dit werkdomein of werkelijkheid kunnen we efficiënt beschrijven door van deze werkelijkheid een abstractie te maken die ons de informatie levert die we nodig hebben. Deze abstractie van de werkelijkheid vormt de basis voor het informatiemodel. In de onderlinge communicatie over en uitwisseling van geo-informatie wordt deze abstractie van de werkelijkheid gebruikt (zie <a href='#fig_001'>Figuur 1</a>). Het is dus van wezenlijk belang dat bepaald is wat er met ‘de werkelijkheid’ wordt bedoeld.<br/>
+<figure id='fig_001'><img src='media/image1.png' alt='Afbeelding met tekst, diagram, schermopname, Lettertype' style='width: 100%;'></img>
+<figcaption>Het Basismodel Geo-informatie beschrijft een abstractie van de werkelijkheid die wordt vastgelegd in een geo-database</figcaption></figure>
 
 Voor het Basismodel Geo-informatie wordt deze werkelijkheid gevormd door alle objecten met een geografische dimensie. Voor het beschrijven van de werkelijkheid staan een aantal begrippen centraal.<br/>
 De werkelijkheid is opgebouwd uit objecten (ISO: real world objects). Eigenschappen van objecten worden beschreven doormiddel van kenmerken. Het model is een representatie van de werkelijkheid. Objecten worden in het model geo-objecten genoemd (ISO: features) en de eigenschappen worden beschreven door attributen. Geo-objecten met gelijke eigenschappen worden in het model gegroepeerd in klassen (ISO: feature type of feature class). Het onderstaande figuur geeft een overzicht.<br/>
