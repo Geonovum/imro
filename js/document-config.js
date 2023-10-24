@@ -11,18 +11,27 @@ var documentConfig =
     "https://docs.geostandaarden.nl/ro/IMRO/"
   ],
   publishDate: "2023-10-24",
+  publishVersion: "1.2.1",
   thisVersion: [
-    "https://geonovum.github.io/ro-IMRO/"
+    "https://geonovum.github.io/IMRO/"
   ],
   previousPublishDate: "2012-04-18",
   prevVersion: [
-    "https://docs.geostandaarden.nl/ro/def-no-IMRO-20120418/"
+    "https://ro-standaarden.geonovum.nl/2012/IMRO/1.2/IMRO2012-v1.2.pdf"
   ],
   previousMaturity: "def",
-  edDraftURI: "https://geonovum.github.io/ro-IMRO/",
+  github: "https://github.com/geonovum/imro/",
+  issueBase: "ro-standaarden@geonovum.nl",
+  authors: [
+    {
+      name: "Paul Janssen",
+      company: "Geonovum",
+      companyURL: "https://www.geonovum.nl/"
+    }
+  ],
   editors: [
     {
-      name: "Monique Scherpenzeel",
+      name: "Monique van Scherpenzeel",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
     }
