@@ -6,8 +6,7 @@ In dit hoofdstuk worden de begrippen toegelicht die gebruikt worden voor de besc
 <b>applicatieschema</b> (application schema)<br/>
 informatiemodel dat wordt beschreven en toegepast
 
-OPMERKING<br/>
-IMRO is met UML beschreven in een applicatieschema.<br/>
+OPMERKING: IMRO is met UML beschreven in een applicatieschema.<br/>
 
 <b>attribuut</b> (feature attribute)<br/>
 kenmerk van een object<br/>
@@ -21,8 +20,7 @@ verzameling van waarden die een attribuut kan aannemen<br/>
 <b>geo-informatie</b> (geo-information, geographic information)<br/>
 gegevens met een directe of indirecte referentie naar een plaats op het aardoppervlak
 
-OPMERKING<br/>
-Geo-informatie is synoniem aan geografische informatie.<br/>
+OPMERKING: Geo-informatie is synoniem aan geografische informatie.<br/>
 
 <b>geo-object</b> (geographic feature type of feature class)<br/>
 abstractie van een fenomeen in de werkelijkheid dat direct of indirect geassocieerd is met een locatie relatief ten opzichte van het aardoppervlak<br/>
@@ -33,8 +31,7 @@ locatie van een ruimtelijk object vastgelegd in een ruimtelijk referentiesysteem
 <b>informatiemodel </b>(conceptual model / conceptual schema)<br/>
 formele definitie van objecten, attributen, relaties en regels in een bepaald domein
 
-OPMERKING<br/>
-Domein is in dit verband: kennisgebied of activiteit gekarakteriseerd door een verzameling van concepten en begrippen<br/>
+OPMERKING: Domein is in dit verband: kennisgebied of activiteit gekarakteriseerd door een verzameling van concepten en begrippen<br/>
 
 <b>interoperabiliteit </b>(interoperability)<br/>
 mogelijkheid van verschillende autonome, heterogene eenheden, systemen of partijen om met elkaar te communiceren en interacteren<br/>
@@ -61,8 +58,7 @@ visualisatie van geografische informatie voor mensen<br/>
 <b>representatie</b> (representation)<br/>
 inhoudelijk vastleggen van de werkelijkheid<br/>
 
-OPMERKING<br/>
-Het informatiemodel is een representatie van de werkelijkheid.<br/>
+OPMERKING: Het informatiemodel is een representatie van de werkelijkheid.<br/>
 
 <b>sectormodel</b><br/>
 model voor beschrijving van de werkelijkheid binnen het domein van een sectoraal beleidsveld<br/>
