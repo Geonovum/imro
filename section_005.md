@@ -7,7 +7,6 @@ Het informatiemodel voor de ruimtelijke ordening is een toepassing van het Basis
 ## Structuur van het informatiemodel {#77599823}
 
 De structuur van IMRO is ontleend aan het Basismodel Geo-informatie. Voor de gedetailleerde omschrijving wordt verwezen naar het normdocument NEN 3610:2011 Basismodel Geo-informatie. Voor dit document is het voldoende om de grote lijn te schetsen.  
-<br/>
 
 <b>Beschrijving van de werkelijkheid</b><br/>
 Binnen veel sectoren in het bedrijfsleven en de overheid wordt er een groot en toenemend belang gehecht aan het delen en gebruiken van elkaars informatie. Geo-informatie vormt hierin de kern van het gemeenschappelijke werkdomein. Dit werkdomein of werkelijkheid kunnen we efficiënt beschrijven door van deze werkelijkheid een abstractie te maken die ons de informatie levert die we nodig hebben. Deze abstractie van de werkelijkheid vormt de basis voor het informatiemodel. In de onderlinge communicatie over en uitwisseling van geo-informatie wordt deze abstractie van de werkelijkheid gebruikt (zie <a href='#fig_001'>Figuur 1</a>). Het is dus van wezenlijk belang dat bepaald is wat er met ‘de werkelijkheid’ wordt bedoeld.<br/>
@@ -20,8 +19,7 @@ De werkelijkheid is opgebouwd uit objecten (ISO: real world objects). Eigenschap
 <figcaption>Representatie van de werkelijkheid</figcaption></figure>
 
 Een geo-object heeft een directe associatie met een locatie doormiddel van coördinaten en of een indirecte associatie doormiddel van een verwijzing naar een adres, een postcode etc.<br/>
-Geo-object is het equivalent voor de ISO (Engelse) term feature. Het Basismodel Geo-informatie is hiermee een ‘feature based’ model in tegenstelling tot een ‘raster based’ model.
-<br/>
+Geo-object is het equivalent voor de ISO (Engelse) term feature. Het Basismodel Geo-informatie is hiermee een ‘feature based’ model in tegenstelling tot een ‘raster based’ model.  
 
 <b>Objectgericht</b><br/>
 Het Basismodel Geo-informatie is objectgericht, dat wil zeggen dat het informatie geeft over individueel te onderscheiden objecten binnen de beschreven werkelijkheid. Het object is de eenheid van informatie. De informatie is per object gegroepeerd en daarom per object opvraagbaar.
