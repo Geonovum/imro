@@ -5,18 +5,18 @@
 In dit rapport wordt het Informatiemodel voor de Ruimtelijke Ordening, IMRO2012, beschreven. De verschillende omgevingsinstrumenten (plannen, visies, besluiten e.d.) worden gepresenteerd, de planobjecten die nodig zijn om de ruimtelijke component van de beleidsinformatie te beschrijven worden gedefinieerd, de relaties tussen de planobjecten en de attributen met bijbehorende domeinwaarden zijn opgenomen.
 
 Dit rapport is onderdeel van set RO Standaarden 2012 en is normstellend voor de codering van omgevingsinstrumenten. Het is van belang voor applicatiebouwers en als referentie voor andere IMRO gerelateerde documenten. IMRO2012 wordt beschreven zonder uit te weiden over de praktische toepassing van het model voor het coderen van digitale omgevingsinstrumenten. Bijvoorbeeld voor bestemmingsplannen of structuurvisies. Alle voor dit toepassingsdoel benodigde informatie vindt u in zogenaamde praktijkrichtlijnen:<br/>
-<ul><li>Praktijkrichtlijn Bestemmingsplannen (PRBP2012) [https://docs.geostandaarden.nl/ro/bp2012/];</li>
-<li>Praktijkrichtlijn Structuurvisies (PRSV2012) [https://docs.geostandaarden.nl/ro/sv2012/];</li>
-<li>Praktijkrichtlijn Gebiedsgerichte Besluiten (PRGB2012) [https://docs.geostandaarden.nl/ro/gb2012/];</li>
-<li>Praktijkrichtlijn Provinciale Verordening (PRPV2012) [https://docs.geostandaarden.nl/ro/pv2012/];</li>
-<li>Praktijkrichtlijn Algemene Maatregel van Bestuur (PRAMvB2012) [https://docs.geostandaarden.nl/ro/amvb2012/];</li>
-<li>Praktijkrichtlijn voor Planteksten (PRPT2012) [https://docs.geostandaarden.nl/ro/pt2012/].</li>
+<ul><li><a href='https://docs.geostandaarden.nl/ro/bp2012/' target='_blank'>Praktijkrichtlijn Bestemmingsplannen (PRBP2012)</a>;</li>
+<li><a href='https://docs.geostandaarden.nl/ro/sv2012/]' target='_blank'>Praktijkrichtlijn Structuurvisies (PRSV2012)</a>;</li>
+<li><a href='https://docs.geostandaarden.nl/ro/gb2012/' target='_blank'>Praktijkrichtlijn Gebiedsgerichte Besluiten (PRGB2012)</a>;</li>
+<li><a href='https://docs.geostandaarden.nl/ro/pv2012/' target='_blank'>Praktijkrichtlijn Provinciale Verordening (PRPV2012)</a>;</li>
+<li><a href='https://docs.geostandaarden.nl/ro/amvb2012/' target='_blank'>Praktijkrichtlijn Algemene Maatregel van Bestuur (PRAMvB2012)</a>;</li>
+<li><a href='https://docs.geostandaarden.nl/ro/pt2012/' target='_blank'>Praktijkrichtlijn voor Planteksten (PRPT2012)</a>.</li>
 </ul>
 
 Naast de praktijkrichtlijnen zijn er nog drietal standaarden toepassing voor ontsluiting en verbeelding van omgevingsinstrumenten:<br/>
-<ul><li>Standaard voor Vergelijkbaarheid Bestemmingsplannen (SVBP2012) met bijbehorende praktijkrichtlijn;</li>
-<li>Standaard Toegankelijkheid Ruimtelijke Instrumenten (STRI2012) met bijbehorende praktijkrichtlijn.</li>
-<li>Informatiemodel Ruimtelijke Ordening voor Planteksten(IMROPT2012).</li>
+<ul><li><a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>SVBP2012</a><a href='https://docs.geostandaarden.nl/ro/bp2012/' target='_blank'>met bijbehorende praktijkrichtlijn</a>;</li>
+<li><a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>STRI2012</a><a href='https://docs.geostandaarden.nl/ro/tri2012' target='_blank'>met bijbehorende praktijkrichtlijn</a>;</li>
+<li><li><a href='https://docs.geostandaarden.nl/ro/imro' target='_blank'>IMRO2012</a><a href='https://docs.geostandaarden.nl/ro/pt2012/' target='_blank'>met bijbehorende praktijkrichtlijn</a>.</li>
 </ul>
 
 Het informatiemodel voor de ruimtelijke ordening is in 2000 in een eerste versie verschenen. Sinds die datum is IMRO in verhoogde mate toegepast in de praktijk. Om een correcte digitale uitwisseling van een ruimtelijk instrument kunnen garanderen is een eenduidige beschrijving van de inhoud noodzakelijk. IMRO2012 is het informatiemodel dat deze eenduidige beschrijving mogelijk maakt.
