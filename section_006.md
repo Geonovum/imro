@@ -15,7 +15,7 @@ In het figuur:<br/>
 </ul>
 
 Bij elke klasse is een tabel opgenomen waarin de definitie en andere informatie wordt gegeven. De tabel heeft de volgende indeling:<br/>
-<table style='width: 100%;'><caption>Klasse indeling</caption>
+<table style='width: 100%;'><caption>Tabel 1 Klasse indeling</caption>
 <colgroup><col id='col1' style='width: 24.389961836475077%;'
 <col id='col2' style='width: 14.953162946686712%;'
 <col id='col3' style='width: 60.656875216838216%;'
@@ -80,7 +80,8 @@ Een toelichting op het doel en gebruik van het attribuut.<br/>
 </tbody>
 </table>
 
-* De asterisk geeft aan dat het attribuut overgeërfd is van een hogere klasse en een specifieke uitwerking heeft voor deze klasse.
+* De asterisk geeft aan dat het attribuut overgeërfd is van een hogere klasse en een specifieke uitwerking heeft voor deze klasse.  
+<br/>
 
 In de UML klassediagrammen worden de klassen afgebeeld en hun onderlinge relaties. In het diagram zijn ook de datatypen aangegeven in het geval dat ze bestaan uit een combinatie van attributen. Bijvoorbeeld het Datatype PlantstatusEnDatum dat bestaat uit een combinatie van twee attributen.<br/>
  De attribuutdomeinen die in de diagrammen genoemd worden zijn opgenomen in <a href='#090B956C'>Hoofdstuk 10</a>.
@@ -178,6 +179,7 @@ Deze klasse is aangepast uit NEN3610. Alleen de attributen die in IMRO gebruikt 
 <b>
 Toelichting Geometrie</b><br/>
 Hoewel een geo-object volgens de definitie altijd op een of andere wijze moet zijn geassocieerd met een geometrie, heeft de klasse GeoObject zelf geen geometrisch attribuut. De reden hiervoor is dat er op dit niveau nog geen keuze valt te maken over hoe het geo-object aan zijn geometrie komt. In IMRO is voor de verschillende klassen wel een geometrisch attribuut gedefinieerd.<br/>
+
 ### PlanologischGebied (uit NEN 3610) {#7F7D9427}
 
 <table style='width: 100%;'><caption></caption>
@@ -397,11 +399,13 @@ Besluitsubvlak_A<br/>
 
 ## IMRO: Het basisprincipe {#3E67BD78}
 
-In de sector ruimtelijke ordening worden diverse soorten omgevingsinstrumenten gemaakt. Voor het IMRO model is het relevant om een onderscheid te maken tussen instrumenten die op gemeentelijk, provinciaal en nationaal niveau gemaakt worden. Voor elk van deze niveaus gelden specifieke instrumenten die elk een aparte toepassing van IMRO impliceren. Een bestemmingsplan kent andere planobjecten dan een provinciale structuurvisie of een Algemene Maatregel van Bestuur. Ook de relaties tussen planobjecten zijn anders en natuurlijk gelden er ook andere attributen bij de verschillende planobjecten. Maar er zijn ook overeenkomsten tussen de verschillende instrumenten.
+In de sector ruimtelijke ordening worden diverse soorten omgevingsinstrumenten gemaakt. Voor het IMRO model is het relevant om een onderscheid te maken tussen instrumenten die op gemeentelijk, provinciaal en nationaal niveau gemaakt worden. Voor elk van deze niveaus gelden specifieke instrumenten die elk een aparte toepassing van IMRO impliceren. Een bestemmingsplan kent andere planobjecten dan een provinciale structuurvisie of een Algemene Maatregel van Bestuur. Ook de relaties tussen planobjecten zijn anders en natuurlijk gelden er ook andere attributen bij de verschillende planobjecten. Maar er zijn ook overeenkomsten tussen de verschillende instrumenten.  
+<br/>
 
-IMRO is het model dat alleen het ruimtelijke deel van een ruimtelijk instrument modelleert. Binnen deze context is het te verklaren dat het plangebied, het gebied dat het hele instrument omvat, als equivalent van het ruimtelijk instrument gezien wordt.
+IMRO is het model dat alleen het ruimtelijke deel van een ruimtelijk instrument modelleert. Binnen deze context is het te verklaren dat het plangebied, het gebied dat het hele instrument omvat, als equivalent van het ruimtelijk instrument gezien wordt. <br/>
 
-Een belangrijke overeenkomst tussen alle instrumenten is dat een plangebied opgebouwd is uit planobjecten. Dit principe wordt ook bij alle specifieke typen instrumenten gevolgd. Elke type instrument (bestemmingsplan, structuurvisie enz) kent vervolgens zijn eigen specifieke planobjecten. IMRO is in die zin een verzameling van verschillende modellen (voor elke type instrument 1 model) in één informatiemodel. Vanwege de leesbaarheid van het model wordt elke type instrument in een apart hoofdstuk beschreven. Het hoofdstuk begint elke keer met een afbeelding van een gedeelte van het UML van het totale IMRO model. Het gehele IMRO model is in principe een optelling van de modellen van alle typen instrumenten. Bij elk UML is wel elke keer de koppeling met de superklassen uit NEN 3610 (GeoObject, PlanologischGebied, Plangebied en Planobject) herhaalt.
+Een belangrijke overeenkomst tussen alle instrumenten is dat een plangebied opgebouwd is uit planobjecten. Dit principe wordt ook bij alle specifieke typen instrumenten gevolgd. Elke type instrument (bestemmingsplan, structuurvisie enz) kent vervolgens zijn eigen specifieke planobjecten. IMRO is in die zin een verzameling van verschillende modellen (voor elke type instrument 1 model) in één informatiemodel. Vanwege de leesbaarheid van het model wordt elke type instrument in een apart hoofdstuk beschreven. Het hoofdstuk begint elke keer met een afbeelding van een gedeelte van het UML van het totale IMRO model. Het gehele IMRO model is in principe een optelling van de modellen van alle typen instrumenten. Bij elk UML is wel elke keer de koppeling met de superklassen uit NEN 3610 (GeoObject, PlanologischGebied, Plangebied en Planobject) herhaalt.  
+<br/>
 
 <b>Overerving tussen superklasse en subklasse</b><br/>
 In een UML klassediagram geldt de afspraak dat een subklasse (specialisatie-klasse) alle eigenschappen erft die op het niveau van de superklasse (generalisatie klasse) gedefinieerd zijn. Dit betekent dat attributen die bij een superklasse gedefinieerd zijn, bij een subklasse niet meer worden herhaald. Zo is bijvoorbeeld het attribuut identificatie bij de klasse GeoObject al gedefinieerd. Door de overerving is het een attribuut dat ook voor de subklassen geldt. Het wordt echter niet meer opgenomen in de afbeelding van de subklasse. Bij het ‘lezen’ van de diagrammen dient hier rekening mee te worden gehouden.
