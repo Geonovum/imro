@@ -2979,7 +2979,8 @@ In GML als Xlink opgenomen.<br/>
 
 ## IMRO voor Rijksstructuurvisie {#4900B493}
 
-Het instrument structuurvisie wordt gekenmerkt door beleidsmatige tekst over ruimtelijk beleid en kaarten met veelal globale aanduidingen. Dit in tegenstelling tot bestemmingsplannen waarin sprake is van een dwingend karakter vastgelegd in voorschriften en bijbehorende kaarten. Structuurvisies worden opgesteld op gemeentelijk -, provinciaal - en Rijksniveau. Hoewel deze instrumenten in hoge mate wat structuur en invulling betreft gelijk zijn maken de verschillen het noodzakelijk om drie aparte modellen te maken. Voor elk model is ook een aparte praktijkrichtlijn geschreven. In deze paragraaf wordt de Rijksstructuurvisie beschreven.
+Het instrument structuurvisie wordt gekenmerkt door beleidsmatige tekst over ruimtelijk beleid en kaarten met veelal globale aanduidingen. Dit in tegenstelling tot bestemmingsplannen waarin sprake is van een dwingend karakter vastgelegd in voorschriften en bijbehorende kaarten. Structuurvisies worden opgesteld op gemeentelijk -, provinciaal - en Rijksniveau. Hoewel deze instrumenten in hoge mate wat structuur en invulling betreft gelijk zijn maken de verschillen het noodzakelijk om drie aparte modellen te maken. Voor elk model is ook een aparte praktijkrichtlijn geschreven. In deze paragraaf wordt de Rijksstructuurvisie beschreven.  
+<br/>
 
 Hieronder staat het model van IMRO voor Rijksstructuurvisies.<br/>
 <figure><img src='media/image10.png' alt='Afbeelding met tekst, schermopname, Lettertype, Rechthoek' style='width: 100%;'></img>
@@ -3557,7 +3558,8 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 
 Een provinciale verordening regelt een aantal zaken die de gemeenten moeten vertalen in bestemmingsplannen. Het gaat om regels voor de inhoud van bestemmingsplannen, maar ook om eventueel daaraan voorafgaande projectbesluiten en beheersverordeningen. Omdat een verordening binnen een bepaalde termijn in een bestemmingsregeling moet worden vertaald, moet het in een verordening opgenomen beleid een zekere mate van concreetheid hebben in inhoud en locatieomschrijving.
 
-Een provinciale verordening is op rijksniveau vergelijkbaar met een Algemene Maatregel van Bestuur. Hiernaast zijn er nog een aantal andere besluittypen die wat structuur betreft hetzelfde zijn. Deze laatste groep wordt in IMRO samengevoegd onder de naam overige gebiedsgerichte besluiten. Hoewel deze instrumenten in hoge mate wat structuur en invulling betreft gelijk zijn maken de verschillen het noodzakelijk om drie aparte modellen te maken. Voor alle drie typen instrumenten is ook een aparte praktijkrichtlijn geschreven. In deze paragraaf wordt het model beschreven van de Provinciale Verordening.
+Een provinciale verordening is op rijksniveau vergelijkbaar met een Algemene Maatregel van Bestuur. Hiernaast zijn er nog een aantal andere besluittypen die wat structuur betreft hetzelfde zijn. Deze laatste groep wordt in IMRO samengevoegd onder de naam overige gebiedsgerichte besluiten. Hoewel deze instrumenten in hoge mate wat structuur en invulling betreft gelijk zijn maken de verschillen het noodzakelijk om drie aparte modellen te maken. Voor alle drie typen instrumenten is ook een aparte praktijkrichtlijn geschreven. In deze paragraaf wordt het model beschreven van de Provinciale Verordening.  
+<br/>
 
 Hieronder staat het model van IMRO voor provinciale verordeningen.<br/>
 <figure><img src='media/image11.png' alt='Afbeelding met tekst, schermopname, Lettertype, Parallel' style='width: 86.59717437190591%;'></img>
@@ -4094,7 +4096,8 @@ In GML als Xlink opgenomen.<br/>
 
 De Algemene Maatregel van Bestuur (AMvB) is een instrument waarmee de Minister regels kan geven omtrent de inhoud van bestemmingsplannen en provinciale inpassingsplannen, daaraan voorafgaande projectbesluiten en beheersverordeningen. Het is daarbij niet altijd noodzakelijk dat er ook een specifiek gebied van het Nederlands grondgebied gedefinieerd wordt. Met betrekking tot dat laatste zullen AMvB’s in twee groepen uiteenvallen: een groep waarin regels gekoppeld zijn aan geografisch geduide gebieden en een groep waarin regels gesteld worden voor het hele land of minder direct aangegeven gebieden.
 
-Een AMvB is wat structuur betreft op provinciaal niveau vergelijkbaar met een Verordening. Hiernaast zijn er nog een aantal andere besluittypen die wat structuur betreft hetzelfde zijn. Deze laatste groep wordt in IMRO samengevoegd onder de naam overige gebiedsgerichte besluiten. Hoewel deze instrumenten in hoge mate wat structuur en invulling betreft gelijk zijn maken de verschillen het noodzakelijk om drie aparte modellen te maken. Voor alle drie typen instrumenten is ook een aparte praktijkrichtlijn geschreven. In deze paragraaf wordt het model beschreven van de AMvB en ministeriële regeling.
+Een AMvB is wat structuur betreft op provinciaal niveau vergelijkbaar met een Verordening. Hiernaast zijn er nog een aantal andere besluittypen die wat structuur betreft hetzelfde zijn. Deze laatste groep wordt in IMRO samengevoegd onder de naam overige gebiedsgerichte besluiten. Hoewel deze instrumenten in hoge mate wat structuur en invulling betreft gelijk zijn maken de verschillen het noodzakelijk om drie aparte modellen te maken. Voor alle drie typen instrumenten is ook een aparte praktijkrichtlijn geschreven. In deze paragraaf wordt het model beschreven van de AMvB en ministeriële regeling.  
+<br/>
 
 Hieronder staat het model van IMRO voor AMvB en ministeriële regeling.<br/>
 <figure><img src='media/image12.png' alt='Afbeelding met tekst, schermopname, Lettertype, Parallel' style='width: 84.3456349300138%;'></img>
@@ -4634,9 +4637,11 @@ Alle omgevingsinstrumenten die in de nieuwe Wet op de Ruimtelijk Ordening onders
 <li>Omgevingsvergunning (voormalig Chw projectuitvoeringsbesluit);</li>
 <li>Reactieve aanwijzing;</li>
 <li>Voorbereidingsbesluit.</li>
-</ul>
+</ul>  
+<br/>
 
-Deze groep van overige gebiedsgerichte besluiten is wat structuur betreft vergelijkbaar met de Provinciale Verordening en de Algemene Maatregel van Bestuur. Hoewel deze instrumenten in hoge mate wat structuur en invulling betreft gelijk zijn maken de verschillen het noodzakelijk om drie aparte modellen te maken. Voor alle drie typen instrumenten is ook een aparte praktijkrichtlijn geschreven. In deze paragraaf wordt het model beschreven voor de zeven hierboven genoemde gebiedsgerichte besluiten.
+Deze groep van overige gebiedsgerichte besluiten is wat structuur betreft vergelijkbaar met de Provinciale Verordening en de Algemene Maatregel van Bestuur. Hoewel deze instrumenten in hoge mate wat structuur en invulling betreft gelijk zijn maken de verschillen het noodzakelijk om drie aparte modellen te maken. Voor alle drie typen instrumenten is ook een aparte praktijkrichtlijn geschreven. In deze paragraaf wordt het model beschreven voor de zeven hierboven genoemde gebiedsgerichte besluiten.  
+<br/>
 
 Hieronder staat het model van IMRO voor gebiedsgerichte besluiten.<br/>
 <figure><img src='media/image13.png' alt='Afbeelding met tekst, schermopname, Lettertype, ontwerp' style='width: 100%;'></img>
