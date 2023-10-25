@@ -1682,7 +1682,7 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 Het instrument structuurvisie wordt gekenmerkt door beleidsmatige tekst over ruimtelijk beleid en kaarten met veelal globale aanduidingen. Dit in tegenstelling tot bestemmingsplannen waarin sprake is van een dwingend karakter vastgelegd in voorschriften en bijbehorende kaarten. Structuurvisies worden opgesteld op gemeentelijk -, provinciaal - en Rijksniveau. Hoewel deze instrumenten in hoge mate wat structuur en invulling betreft gelijk zijn maken de verschillen het noodzakelijk om drie aparte modellen te maken. Voor elk model is ook een aparte praktijkrichtlijn geschreven. In deze paragraaf wordt de gemeentelijke structuurvisie beschreven.
 
 Hieronder staat het model van IMRO voor gemeentelijke structuurvisies.<br/>
-<figure><img src='media/image8.png' alt='Afbeelding met tekst, schermopname, Lettertype, Rechthoek' style='width: 100%;'></img>
+<figure><img src='media/uml_structuurvisie-gem.png' alt='Afbeelding met tekst, schermopname, Lettertype, Rechthoek' style='width: 100%;'></img>
 <figcaption>IMRO voor het beschrijven van een gemeentelijke structuurvisie</figcaption></figure>
 
 De verschillende klassen en relaties worden in de volgende subparagrafen toegelicht. De domeinwaarden die bij de attributen gelden zijn opgenomen in <a href='#090B956C'>Hoofdstuk 10</a>.<br/>
