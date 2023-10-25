@@ -4,7 +4,7 @@
 
 Voor de waarden van de attributen zijn verschillende datatypen te onderscheiden. De volgende indeling geeft de gebruikte datatypen weer.
 
-<table style='width: 100%;'><caption>Indeling datatypen</caption>
+<table style='width: 100%;'><caption>Tabel 3 Indeling datatypen</caption>
 <colgroup><col id='col1' style='width: 28.48101265822785%;'
 <col id='col2' style='width: 71.51898734177216%;'
 </colgroup>
@@ -135,17 +135,21 @@ eigenschappen aanwezig is in elke instantie
 
 <b>ScopedName</b>: Een attribuut met het type ScopedName is vergelijkbaar met een CharacterString attribuut. Alleen is er ook de mogelijkheid om bij de tekst optioneel een scope op te nemen waarbinnen die naam is gedefinieerd. Deze scope bevat dan een verwijzing naar de instantie die de naam heeft afgegeven.<br/>
 Voorbeeld: De officiële straatnaam krijgt als scope een verwijzing naar de gemeente die de straatnaam heeft afgegeven. Eventuele onofficiële namen krijgen dan geen scope.<br/>
-Bij de IMRO coderingen wordt de scope niet ingevuld.
+Bij de IMRO coderingen wordt de scope niet ingevuld.  
+<br/>
 
-<b>Enumeraties</b>: In IMRO is een groot aantal voor-gedefinieerde datatypen als enumeratielijst opgenomen. Dit zijn lijsten van toegestane waarden die een attribuut binnen IMRO kan aannemen. Een enumeratielijst is limitatief en binnen het model niet uitbreidbaar. Niet voor elke attribuut kan een lijst met mogelijke waarden gedefinieerd worden. Dit komt voor omdat het (nu) niet mogelijk of zinvol is om een lijst te maken die binnen de Ruimtelijke Ordening geldt.
+<b>Enumeraties</b>: In IMRO is een groot aantal voor-gedefinieerde datatypen als enumeratielijst opgenomen. Dit zijn lijsten van toegestane waarden die een attribuut binnen IMRO kan aannemen. Een enumeratielijst is limitatief en binnen het model niet uitbreidbaar. Niet voor elke attribuut kan een lijst met mogelijke waarden gedefinieerd worden. Dit komt voor omdat het (nu) niet mogelijk of zinvol is om een lijst te maken die binnen de Ruimtelijke Ordening geldt.  
+<br/>
 
-<b>CodeList</b>: Bij de opgenomen enumeratielijsten is aangegeven of ze van het type CodeList zijn. Als dit het geval is kunnen de lijsten uitgebreid worden met attribuutwaarden die nog niet in het model gedefinieerd zijn. Bij de uitwisseling worden deze waarden voorafgegaan door het woord ‘other’. Zie voorbeeld.
+<b>CodeList</b>: Bij de opgenomen enumeratielijsten is aangegeven of ze van het type CodeList zijn. Als dit het geval is kunnen de lijsten uitgebreid worden met attribuutwaarden die nog niet in het model gedefinieerd zijn. Bij de uitwisseling worden deze waarden voorafgegaan door het woord ‘other’. Zie voorbeeld.  
+<br/>
 
 Een waarde uit de enumeratielijst OmvangWaarde:<br/>
 &lt;imro2012:OmvangWaarde&gt;<span style='color: #00B050;'>aantal parkeerplaatsen</span>&lt;/imro2012:OmvangWaarde&gt;
 
 Een waarde die aan de enumeratielijst OmvangWaardeBestemmingsplan is toegevoegd:<br/>
-&lt;imro2012:OmvangWaarde&gt;<span style='color: #00B050;'>other: aantal parkeermeters</span>&lt;/imro2012:OmvangWaarde&gt;
+&lt;imro2012:OmvangWaarde&gt;<span style='color: #00B050;'>other: aantal parkeermeters</span>&lt;/imro2012:OmvangWaarde&gt;  
+<br/>
 
 <b>Nieuw datatype. Samengesteld attribuut</b>: Wanneer attributen gecombineerd dienen te worden, wordt dit aangegeven door de creatie van een nieuw datatype. Het nieuwe datatype is een klasse van het stereotype &lt;&lt;dataType&gt;&gt; waarvan de attributen gevormd worden door de te combineren attributen. Deze attributen hebben weer hun eigen specifieke datatype. Een voorbeeld is het datatype ‘TekstReferentie’ dat samengesteld is uit een attribuut voor een link naar een tekst een een attribuut om het soort tekst aan te geven.
 
@@ -153,7 +157,8 @@ Een waarde die aan de enumeratielijst OmvangWaardeBestemmingsplan is toegevoegd:
 
 In de volgende paragrafen zijn alle in IMRO voorkomende domeinen van attribuutwaarden opgenomen. Het bijbehorende stereotype, enumeratie of CodeList wordt aangegeven. Bij de naamgeving is in een aantal gevallen rekening gehouden met het type instrument of planobject waarin het domein wordt gebruikt. Dit is alleen gedaan indien voor eenzelfde attribuut bij verschillende planobjecten een andere domeinlijst gebruikt wordt. Bijvoorbeeld Illustratie_BP en Illustratie_GSV.
 
-Voor codelijsten geldt standaard dat ze uitgebreid kunnen worden conform het standaard format ‘other:…….’. Indien een ander format voorgeschreven is, is dat in of bij de lijsten opgenomen.`
+Voor codelijsten geldt standaard dat ze uitgebreid kunnen worden conform het standaard format ‘other:…….’. Indien een ander format voorgeschreven is, is dat in of bij de lijsten opgenomen.  
+<br/>
 
 <b>Bestemmingshoofdgroep_E</b><br/>
 Definitie: Hoofdgroepen waar specifieke bestemmingen in ingedeeld kunnen worden.<br/>
@@ -816,7 +821,7 @@ Idealisatie_3<br/>
 </table>
 
 <b>Illustratie</b><br/>
-Definitie: Verbeelding
+Definitie: Verbeelding.
 
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'
@@ -836,7 +841,7 @@ Illustratie<br/>
 </table>
 
 <b>Illustratie_BP</b><br/>
-Definitie: Verbeelding
+Definitie: Verbeelding.
 
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'
@@ -853,7 +858,7 @@ Illustratie_BP<br/>
 </table>
 
 <b>Illustratie_XGB</b><br/>
-Definitie: Verbeelding
+Definitie: Verbeelding.
 
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'
@@ -1557,7 +1562,7 @@ Overheden_XGB<br/>
 </table>
 
 <b>Planstatus</b><br/>
-Definitie: Status van een ruimtelijk plan
+Definitie: Status van een ruimtelijk plan.
 
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'
@@ -1753,15 +1758,15 @@ Definitie: Ruimtelijk plan of besluit conform de Wro.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #D9D9D9;'>&lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
 <b>RuimtelijkPlanOfBesluit_AMB</b><br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>amvb<br/>
+<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>amvb<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>regeling<br/>
+<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>regeling<br/>
 </td>
 </tr>
 </tbody>
