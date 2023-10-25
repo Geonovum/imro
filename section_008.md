@@ -43,7 +43,7 @@ De volgende constraints zijn bepaald.
 </tr>
 <tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
 <td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::Plangebied<br/>
-inv PlangebiedMax1: Plangebied::allInstances()  size() = 1
+inv PlangebiedMax1: Plangebied::allInstances() -> size() = 1
 
 </td>
 </tr>
@@ -57,7 +57,7 @@ inv PlangebiedMax1: Plangebied::allInstances()  size() = 1
 </tr>
 <tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
 <td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012:: MetadataIMRObestand<br/>
-inv MetadataMax1: MetadataIMRObestand::allInstances()  size() = 1
+inv MetadataMax1: MetadataIMRObestand::allInstances() -> size() = 1
 
 </td>
 </tr>
