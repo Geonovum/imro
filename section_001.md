@@ -20,11 +20,13 @@ Naast de praktijkrichtlijnen zijn er nog drietal standaarden toepassing voor ont
 </ul>
 <br/>
 
-Het informatiemodel voor de ruimtelijke ordening is in 2000 in een eerste versie verschenen. Sinds die datum is IMRO in verhoogde mate toegepast in de praktijk. Om een correcte digitale uitwisseling van een ruimtelijk instrument kunnen garanderen is een eenduidige beschrijving van de inhoud noodzakelijk. IMRO2012 is het informatiemodel dat deze eenduidige beschrijving mogelijk maakt.
+Het informatiemodel voor de ruimtelijke ordening is in 2000 in een eerste versie verschenen. Sinds die datum is IMRO in verhoogde mate toegepast in de praktijk. Om een correcte digitale uitwisseling van een ruimtelijk instrument kunnen garanderen is een eenduidige beschrijving van de inhoud noodzakelijk. IMRO2012 is het informatiemodel dat deze eenduidige beschrijving mogelijk maakt.  
+<br/>
 
 In juli 2008 is de nieuwe Wet op de ruimtelijke ordening (Wro) in werking getreden. Onderdeel van deze wet is dat planologische visies, plannen, besluiten, verordeningen en algemene maatregelen van bestuur digitaal vervaardigd en op elektronische wijze beschikbaar worden gesteld. Daarnaast is ook in de Wet algemene bepalingen omgevingsrecht (Wabo) en in de Crisis- en herstelwet (Chw) een verplichte elektronische beschikbaarstelling opgenomen voor sommige gevallen. Om dit mogelijk te maken zijn de RO standaarden ontwikkeld. IMRO is één van de standaarden uit dit samenhangende pakket.
 
-Het gebruik van de RO Standaarden 2008 heeft ervaringen en inzichten opgeleverd die de standaard kunnen verbeteren. Daarnaast is ook de RO praktijk en wetgeving in beweging wat een effect heeft op de eisen die aan de standaard gesteld worden. Beide processen hebben geleid tot een nieuwe IMRO versie. IMRO2012 is de opvolger van IMRO2008.
+Het gebruik van de RO Standaarden 2008 heeft ervaringen en inzichten opgeleverd die de standaard kunnen verbeteren. Daarnaast is ook de RO praktijk en wetgeving in beweging wat een effect heeft op de eisen die aan de standaard gesteld worden. Beide processen hebben geleid tot een nieuwe IMRO versie. IMRO2012 is de opvolger van IMRO2008.  
+<br/>
 
 Voor de toepassing van IMRO in de verschillende instrumenten zijn de eerder genoemde praktijkrichtlijnen opgesteld. Dit zijn aparte documenten die per instrumenttype uitvoerig en volledig toelichten hoe een digitaal instrument conform IMRO gecodeerd dient te worden.
 
