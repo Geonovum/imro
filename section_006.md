@@ -16,9 +16,9 @@ In het figuur:<br/>
 
 Bij elke klasse is een tabel opgenomen waarin de definitie en andere informatie wordt gegeven. De tabel heeft de volgende indeling:<br/>
 <table style='width: 100%;'><caption>Tabel 1 Klasse indeling</caption>
-<colgroup><col id='col1' style='width: 24.389961836475077%;'
-<col id='col2' style='width: 14.953162946686712%;'
-<col id='col3' style='width: 60.656875216838216%;'
+<colgroup><col id='col1' style='width: 25%;'
+<col id='col2' style='width: 15%;'
+<col id='col3' style='width: 60%;'
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -80,7 +80,7 @@ Een toelichting op het doel en gebruik van het attribuut.<br/>
 </tbody>
 </table>
 
-* De asterisk geeft aan dat het attribuut overgeërfd is van een hogere klasse en een specifieke uitwerking heeft voor deze klasse.  
+\* De asterisk geeft aan dat het attribuut overgeërfd is van een hogere klasse en een specifieke uitwerking heeft voor deze klasse.  
 <br/>
 
 In de UML klassediagrammen worden de klassen afgebeeld en hun onderlinge relaties. In het diagram zijn ook de datatypen aangegeven in het geval dat ze bestaan uit een combinatie van attributen. Bijvoorbeeld het Datatype PlantstatusEnDatum dat bestaat uit een combinatie van twee attributen.<br/>
