@@ -1502,7 +1502,7 @@ Overheden_G<br/>
 </table>
 
 <b>Overheden_P</b><br/>
-Definitie: Administratieve overheid
+Definitie: Administratieve overheid.
 
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'
@@ -1519,7 +1519,7 @@ Overheden_P<br/>
 </table>
 
 <b>Overheden_R</b><br/>
-Definitie: Administratieve overheid
+Definitie: Administratieve overheid.
 
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'
@@ -1536,7 +1536,7 @@ Overheden_R<br/>
 </table>
 
 <b>Overheden_XGB</b><br/>
-Definitie: Administratieve overheid
+Definitie: Administratieve overheid.
 
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'
