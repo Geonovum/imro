@@ -423,7 +423,7 @@ In de volgende paragrafen wordt het model gepresenteerd en worden van alle klass
 Bij het model voor bestemmingsplannen zijn voorzieningen opgenomen voor het uitwisselen van een aantal presentatie-elementen. Dit betreffen informatie over symboolcodes, tekstlabels en bijbehorende plaatsingsinformatie. Deze informatie is opgenomen voor het realiseren van correcte analoge printouts van de gegevens. In de visualisatie of ontsluiting van de digitale gegevens hebben deze voorzieningen geen waarde.
 
 Hieronder staat het model van IMRO voor bestemmingsplannen.<br/>
-<figure><img src='media/image7.png' alt='Afbeelding met tekst, schermopname, Rechthoek, ontwerp' style='width: 100%;'></img>
+<figure><img src='media/uml_bestemmingsplan.png' alt='Afbeelding met tekst, schermopname, Rechthoek, ontwerp' style='width: 100%;'></img>
 <figcaption>IMRO voor het beschrijven van een Bestemmingsplan</figcaption></figure>
 
 De verschillende klassen en relaties worden in de volgende subparagrafen toegelicht. De domeinwaarden die bij de attributen gelden zijn opgenomen in <a href='#090B956C'>Hoofdstuk 10</a>.<br/>
