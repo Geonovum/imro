@@ -19,15 +19,15 @@ De werkelijkheid is opgebouwd uit objecten (ISO: real world objects). Eigenschap
 <figure><img src='media/image2.png' alt='Afbeelding met tekst, schermopname, Lettertype, nummer' style='width: 100%;'></img>
 <figcaption>Representatie van de werkelijkheid</figcaption></figure>
 
-Een geo-object heeft een directe associatie met een locatie doormiddel van coördinaten en of een indirecte associatie doormiddel van een verwijzing naar een adres, een postcode etc.<br/>
-Geo-object is het equivalent voor de ISO (Engelse) term feature. Het Basismodel Geo-informatie is hiermee een ‘feature based’ model in tegenstelling tot een ‘raster based’ model.  
+Een geo-object heeft een directe associatie met een locatie doormiddel van coördinaten en of een indirecte associatie doormiddel van een verwijzing naar een adres, een postcode etc.. Geo-object is het equivalent voor de ISO (Engelse) term feature. Het Basismodel Geo-informatie is hiermee een ‘feature based’ model in tegenstelling tot een ‘raster based’ model.  
+<br/>  
 
 <b>Objectgericht</b><br/>
-Het Basismodel Geo-informatie is objectgericht, dat wil zeggen dat het informatie geeft over individueel te onderscheiden objecten binnen de beschreven werkelijkheid. Het object is de eenheid van informatie. De informatie is per object gegroepeerd en daarom per object opvraagbaar.
+Het Basismodel Geo-informatie is objectgericht, dat wil zeggen dat het informatie geeft over individueel te onderscheiden objecten binnen de beschreven werkelijkheid. Het object is de eenheid van informatie. De informatie is per object gegroepeerd en daarom per object opvraagbaar.  
 <br/>
 
 <b>Groepering in objectklassen</b><br/>
-De in de werkelijkheid voorkomende geo-objecten worden in het Basismodel Geo-informatie op hoofdlijn ingedeeld op basis van gelijke eigenschappen. Voor een deel is hiervoor de verschijningsvorm gebruikt en voor een deel is een functionele indeling gevolgd. Op basis van deze twee eigenschappen worden geo-objecten gegroepeerd in klassen. De objecten uit de ruimtelijke ordening vallen daarbij onder de klasse Planologische gebied met de definitie: Niet-tastbaar begrensd gebied waaraan een bepaalde (toekomstige) bestemming, functionele en / of bestuurlijke ruimtelijke ontwikkeling is gekoppeld.
+De in de werkelijkheid voorkomende geo-objecten worden in het Basismodel Geo-informatie op hoofdlijn ingedeeld op basis van gelijke eigenschappen. Voor een deel is hiervoor de verschijningsvorm gebruikt en voor een deel is een functionele indeling gevolgd. Op basis van deze twee eigenschappen worden geo-objecten gegroepeerd in klassen. De objecten uit de ruimtelijke ordening vallen daarbij onder de klasse Planologische gebied met de definitie: Niet-tastbaar begrensd gebied waaraan een bepaalde (toekomstige) bestemming, functionele en / of bestuurlijke ruimtelijke ontwikkeling is gekoppeld.  
 <br/>
 
 <b>Attributen, attribuutwaarden en domeinwaarden.</b><br/>
@@ -39,7 +39,7 @@ IMRO is een verdere uitwerking van de geo-objectklassen uit het Basismodel die r
 <figure><img src='media/image3.png' alt='Afbeelding met tekst, Lettertype, schermopname, Rechthoek' style='width: 19.39673149260868%;'></img>
 <figcaption>Het informatiemodel IMRO is een specialisatie van het informatiemodel NEN 3610</figcaption></figure>
 
-In het Basismodel zijn alle klassen abstract. In  is dit weergegeven door een cursief lettertype voor het informatiemodel NEN 3610. Dit betekent dat van de klassen uit het Basismodel geen instanties gemaakt kunnen worden, dat wil zeggen dat geen individuele geo-objecten uit een klasse beschreven kunnen worden. Dit kan pas in de sectormodellen. In dit geval IMRO. Bijvoorbeeld een geo-object ‘bestemmingsplangebied Amersfoort’ kan pas beschreven worden als instantie van de klasse Plangebied uit IMRO en niet als instantie van de klasse Plangebied uit het Basismodel.<br/>
+In het Basismodel zijn alle klassen abstract. In  is dit weergegeven door een cursief lettertype voor het informatiemodel NEN 3610. Dit betekent dat van de klassen uit het Basismodel geen instanties gemaakt kunnen worden, dat wil zeggen dat geen individuele geo-objecten uit een klasse beschreven kunnen worden. Dit kan pas in de sectormodellen. In dit geval IMRO. Bijvoorbeeld een geo-object ‘bestemmingsplangebied Amersfoort’ kan pas beschreven worden als instantie van de klasse Plangebied uit IMRO en niet als instantie van de klasse Plangebied uit het Basismodel.<br/>  
 
 Alle objecten die in omgevingsinstrumenten voorkomen behoren tot de geo-objectklasse PlanologischGebied van het Basismodel. Deze klasse is het supertype waar alle IMRO klassen een verdere specialisatie van zijn. De geo-objectklasse PlanologischGebied met de subklassen Planobject en Plangebied vormen als het ware het aangrijpingspunt tussen het Basismodel Geo-informatie en IMRO.
 
