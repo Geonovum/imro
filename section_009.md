@@ -4,7 +4,7 @@ Metadata zijn gegevens over gegevens. Bepaalde metadata zijn in het GML bestand 
 <figure><img src='media/image15.png' alt='Afbeelding met tekst, schermopname, Lettertype, nummer' style='width: 58.886074936776986%;'></img>
 <figcaption>Metadata in het GML bestand</figcaption></figure>
 
-<table style='width: 100%;'><caption>Klasse MetadataIMRObestand</caption>
+<table style='width: 100%;'><caption>Tabel 2 Klasse MetadataIMRObestand</caption>
 <colgroup><col id='col1' style='width: 23.61437688948606%;'
 <col id='col2' style='width: 6.550218340611353%;'
 <col id='col3' style='width: 69.83540476990258%;'
