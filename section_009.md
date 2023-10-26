@@ -1,7 +1,7 @@
 # Metadata {#5B919E61}
 
 Metadata zijn gegevens over gegevens. Bepaalde metadata zijn in het GML bestand van de gegevensset opgenomen. Onderstaand diagram en tabel geven de gegevens weer die als metadata in het GML bestand in de klasse MetadataIMRObestand zijn opgenomen.<br/>
-<figure><img src='media/image15.png' alt='Afbeelding met tekst, schermopname, Lettertype, nummer' style='width: 58.886074936776986%;'></img>
+<figure><img src='media/MetadataIMROBestand.png' alt='Afbeelding met tekst, schermopname, Lettertype, nummer' style='width: 58.886074936776986%;'></img>
 <figcaption>Metadata in het GML bestand</figcaption></figure>
 
 <table style='width: 100%;'><caption>Tabel 2 Klasse MetadataIMRObestand</caption>
