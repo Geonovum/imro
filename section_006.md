@@ -90,7 +90,7 @@ In de UML klassediagrammen worden de klassen afgebeeld en hun onderlinge relatie
 
 In het diagram is afgebeeld dat IMRO via de NEN 3610 klassen Plangebied en Planobject en hun superklasse PlanologischGebied aan elkaar gekoppeld zijn. Dit is het ‘aangrijpingspunt’ waar IMRO aan het Basismodel gekoppeld is. De IMRO klasse GeoObject is een aangepaste versie van de NEN 3610 klasse GeoObject. Alleen de attributen die voor IMRO van toepassing zijn, zijn overgenomen.<br/>
 Van de klassen van het Basismodel die ook voor IMRO gelden is de beschrijving opgenomen in deze paragraaf.<br/>
-<figure><img src='media/image5.png' alt='Afbeelding met tekst, schermopname, Lettertype, ontwerp' style='width: 100%;'></img>
+<figure><img src='media/IMRO-NEN3610.png' alt='Afbeelding met tekst, schermopname, Lettertype, ontwerp' style='width: 100%;'></img>
 <figcaption>UML-klassediagram van de relatie tussen IMRO en het Basismodel Geo-informatie</figcaption></figure>
 
 ### GeoObject (aangepast uit NEN 3610) {#7F7D93F5}
@@ -411,7 +411,7 @@ Een belangrijke overeenkomst tussen alle instrumenten is dat een plangebied opge
 In een UML klassediagram geldt de afspraak dat een subklasse (specialisatie-klasse) alle eigenschappen erft die op het niveau van de superklasse (generalisatie klasse) gedefinieerd zijn. Dit betekent dat attributen die bij een superklasse gedefinieerd zijn, bij een subklasse niet meer worden herhaald. Zo is bijvoorbeeld het attribuut identificatie bij de klasse GeoObject al gedefinieerd. Door de overerving is het een attribuut dat ook voor de subklassen geldt. Het wordt echter niet meer opgenomen in de afbeelding van de subklasse. Bij het ‘lezen’ van de diagrammen dient hier rekening mee te worden gehouden.
 
 Het volgende figuur toont het UML klassediagram waarin alle omgevingsinstrumenten voorkomen. De instrumenten worden in de rechterkolom getypeerd door hun overeenkomstige plan- of besluitgebieden en in de linkerkolom de daarbijhorende planobjecten.<br/>
-<figure><img src='media/image6.png' alt='Afbeelding met schermopname, ontwerp, kunst' style='width: 70.44562456707457%;'></img>
+<figure><img src='media/ROPlan.png' alt='Afbeelding met schermopname, ontwerp, kunst' style='width: 70.44562456707457%;'></img>
 <figcaption>Overzicht van alle in IMRO onderscheiden omgevingsinstrumenten met bijbehorende planobjecten</figcaption></figure>
 
 ## IMRO voor Bestemmingsplan {#2AFEA1FD}
@@ -423,7 +423,7 @@ In de volgende paragrafen wordt het model gepresenteerd en worden van alle klass
 Bij het model voor bestemmingsplannen zijn voorzieningen opgenomen voor het uitwisselen van een aantal presentatie-elementen. Dit betreffen informatie over symboolcodes, tekstlabels en bijbehorende plaatsingsinformatie. Deze informatie is opgenomen voor het realiseren van correcte analoge printouts van de gegevens. In de visualisatie of ontsluiting van de digitale gegevens hebben deze voorzieningen geen waarde.
 
 Hieronder staat het model van IMRO voor bestemmingsplannen.<br/>
-<figure><img src='media/uml_bestemmingsplan.png' alt='Afbeelding met tekst, schermopname, Rechthoek, ontwerp' style='width: 100%;'></img>
+<figure><img src='media/Bestemmingsplan.png' alt='Afbeelding met tekst, schermopname, Rechthoek, ontwerp' style='width: 100%;'></img>
 <figcaption>IMRO voor het beschrijven van een Bestemmingsplan</figcaption></figure>
 
 De verschillende klassen en relaties worden in de volgende subparagrafen toegelicht. De domeinwaarden die bij de attributen gelden zijn opgenomen in <a href='#090B956C'>Hoofdstuk 10</a>.<br/>
@@ -1682,7 +1682,7 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 Het instrument structuurvisie wordt gekenmerkt door beleidsmatige tekst over ruimtelijk beleid en kaarten met veelal globale aanduidingen. Dit in tegenstelling tot bestemmingsplannen waarin sprake is van een dwingend karakter vastgelegd in voorschriften en bijbehorende kaarten. Structuurvisies worden opgesteld op gemeentelijk -, provinciaal - en Rijksniveau. Hoewel deze instrumenten in hoge mate wat structuur en invulling betreft gelijk zijn maken de verschillen het noodzakelijk om drie aparte modellen te maken. Voor elk model is ook een aparte praktijkrichtlijn geschreven. In deze paragraaf wordt de gemeentelijke structuurvisie beschreven.
 
 Hieronder staat het model van IMRO voor gemeentelijke structuurvisies.<br/>
-<figure><img src='media/uml_structuurvisie-gem.png' alt='Afbeelding met tekst, schermopname, Lettertype, Rechthoek' style='width: 100%;'></img>
+<figure><img src='media/Structuurvisie_G.png' alt='Afbeelding met tekst, schermopname, Lettertype, Rechthoek' style='width: 100%;'></img>
 <figcaption>IMRO voor het beschrijven van een gemeentelijke structuurvisie</figcaption></figure>
 
 De verschillende klassen en relaties worden in de volgende subparagrafen toegelicht. De domeinwaarden die bij de attributen gelden zijn opgenomen in <a href='#090B956C'>Hoofdstuk 10</a>.<br/>
@@ -2257,7 +2257,7 @@ In GML als Xlink opgenomen.<br/>
 Het instrument structuurvisie wordt gekenmerkt door beleidsmatige tekst over ruimtelijk beleid en kaarten met veelal globale aanduidingen. Dit in tegenstelling tot bestemmingsplannen waarin sprake is van een dwingend karakter vastgelegd in voorschriften en bijbehorende kaarten. Structuurvisies worden opgesteld op gemeentelijk -, provinciaal - en Rijksniveau. Hoewel deze instrumenten in hoge mate wat structuur en invulling betreft gelijk zijn maken de verschillen het noodzakelijk om drie aparte modellen te maken. Voor elk model is ook een aparte praktijkrichtlijn geschreven. In deze paragraaf wordt de provinciale structuurvisie beschreven.
 
 Hieronder staat het model van IMRO voor provinciale structuurvisies.<br/>
-<figure><img src='media/image9.png' alt='Afbeelding met tekst, schermopname, Afdrukken, Parallel' style='width: 88.15592405601805%;'></img>
+<figure><img src='media/Structuurvisie_P.png' alt='Afbeelding met tekst, schermopname, Afdrukken, Parallel' style='width: 88.15592405601805%;'></img>
 <figcaption>IMRO voor het beschrijven van een provinciale structuurvisie</figcaption></figure>
 
 De verschillende klassen en relaties worden in de volgende subparagrafen toegelicht. De domeinwaarden die bij de attributen gelden zijn opgenomen in <a href='#090B956C'>Hoofdstuk 10</a>.<br/>
@@ -2983,7 +2983,7 @@ Het instrument structuurvisie wordt gekenmerkt door beleidsmatige tekst over rui
 <br/>
 
 Hieronder staat het model van IMRO voor Rijksstructuurvisies.<br/>
-<figure><img src='media/image10.png' alt='Afbeelding met tekst, schermopname, Lettertype, Rechthoek' style='width: 100%;'></img>
+<figure><img src='media/Structuurvisie_R.png' alt='Afbeelding met tekst, schermopname, Lettertype, Rechthoek' style='width: 100%;'></img>
 <figcaption>IMRO voor het beschrijven van een Rijksstructuurvisie</figcaption></figure>
 
 De verschillende klassen en relaties worden in de volgende subparagrafen toegelicht. De domeinwaarden die bij de attributen gelden zijn opgenomen in <a href='#090B956C'>Hoofdstuk 10</a>.<br/>
@@ -3562,7 +3562,7 @@ Een provinciale verordening is op rijksniveau vergelijkbaar met een Algemene Maa
 <br/>
 
 Hieronder staat het model van IMRO voor provinciale verordeningen.<br/>
-<figure><img src='media/image11.png' alt='Afbeelding met tekst, schermopname, Lettertype, Parallel' style='width: 86.59717437190591%;'></img>
+<figure><img src='media/GebiedsgerichtBesluit_P.png' alt='Afbeelding met tekst, schermopname, Lettertype, Parallel' style='width: 86.59717437190591%;'></img>
 <figcaption>IMRO voor het beschrijven van een provinciale verordening</figcaption></figure>
 
 De verschillende klassen en relaties worden in de volgende subparagrafen toegelicht. De domeinwaarden die bij de attributen gelden zijn opgenomen in <a href='#090B956C'>Hoofdstuk 10</a>.<br/>
@@ -4100,7 +4100,7 @@ Een AMvB is wat structuur betreft op provinciaal niveau vergelijkbaar met een Ve
 <br/>
 
 Hieronder staat het model van IMRO voor AMvB en ministeriële regeling.<br/>
-<figure><img src='media/image12.png' alt='Afbeelding met tekst, schermopname, Lettertype, Parallel' style='width: 84.3456349300138%;'></img>
+<figure><img src='media/GebiedsgerichtBesluit_A.png' alt='Afbeelding met tekst, schermopname, Lettertype, Parallel' style='width: 84.3456349300138%;'></img>
 <figcaption>IMRO voor het beschrijven van de Algemene Maatregel van Bestuur</figcaption></figure>
 
 De verschillende klassen en relaties worden in de volgende subparagrafen toegelicht. De domeinwaarden die bij de attributen gelden zijn opgenomen in <a href='#090B956C'>Hoofdstuk 10</a>.<br/>
@@ -4644,7 +4644,7 @@ Deze groep van overige gebiedsgerichte besluiten is wat structuur betreft vergel
 <br/>
 
 Hieronder staat het model van IMRO voor gebiedsgerichte besluiten.<br/>
-<figure><img src='media/image13.png' alt='Afbeelding met tekst, schermopname, Lettertype, ontwerp' style='width: 100%;'></img>
+<figure><img src='media/GebiedsgerichtBesluit_X.png' alt='Afbeelding met tekst, schermopname, Lettertype, ontwerp' style='width: 100%;'></img>
 <figcaption>IMRO voor het beschrijven van overige gebiedsgerichte besluiten</figcaption></figure>
 
 De verschillende klassen en relaties worden in de volgende subparagrafen toegelicht. De domeinwaarden die bij de attributen gelden zijn opgenomen in <a href='#090B956C'>Hoofdstuk 10</a>.<br/>
