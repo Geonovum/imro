@@ -4385,7 +4385,8 @@ In GML als Xlink opgenomen.<br/>
 <td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
-<li>Maximaal 32 karakters. Toegestane tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.versie: [0..1]: wordt niet gebruikt</li>
+<li>Maximaal 32 karakters. Toegestane tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.</li>
+<li>versie: [0..1]: wordt niet gebruikt</li>
 </ul>
 
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
@@ -4930,7 +4931,8 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 <td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
-<li>Maximaal 32 karakters. Toegestane tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.versie: [0..1]: wordt niet gebruikt</li>
+<li>Maximaal 32 karakters. Toegestane tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.</li>
+<li>versie: [0..1]: wordt niet gebruikt</li>
 </ul>
 
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
@@ -5045,7 +5047,8 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 <td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
-<li>Maximaal 32 karakters. Toegestane tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.versie: [0..1]: wordt niet gebruikt</li>
+<li>Maximaal 32 karakters. Toegestane tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.</li>
+<li>versie: [0..1]: wordt niet gebruikt</li>
 </ul>
 
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
