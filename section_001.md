@@ -13,10 +13,10 @@ Dit rapport is onderdeel van set RO Standaarden 2012 en is normstellend voor de 
 <li><a href='https://docs.geostandaarden.nl/ro/pt2012/' target='_blank'>Praktijkrichtlijn voor Planteksten (PRPT2012)</a>.</li>
 </ul><br/>
 
-Naast de praktijkrichtlijnen zijn er nog drietal standaarden toepassing voor ontsluiting en verbeelding van omgevingsinstrumenten:<br/>
+Naast de praktijkrichtlijnen zijn er nog drie standaarden van toepassing voor de ontsluiting en verbeelding van omgevingsinstrumenten:<br/>
 <ul><li><a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>SVBP2012</a> met bijbehorende <a href='https://docs.geostandaarden.nl/ro/bp2012/' target='_blank'>praktijkrichtlijn</a>;</li>
 <li><a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>STRI2012</a> met bijbehorende <a href='https://docs.geostandaarden.nl/ro/tri2012' target='_blank'>praktijkrichtlijn</a>;</li>
-<li><a href='https://docs.geostandaarden.nl/ro/imro' target='_blank'>IMRO2012</a> met bijbehorende <a href='https://docs.geostandaarden.nl/ro/pt2012/' target='_blank'>praktijkrichtlijn</a>.</li>
+<li><a href='https://docs.geostandaarden.nl/ro/imropt' target='_blank'>IMROPT2012</a> met bijbehorende <a href='https://docs.geostandaarden.nl/ro/pt2012/' target='_blank'>praktijkrichtlijn</a>.</li>
 </ul>
 <br/>
 
