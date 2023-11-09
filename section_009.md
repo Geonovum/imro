@@ -5,9 +5,9 @@ Metadata zijn gegevens over gegevens. Bepaalde metadata zijn in het GML bestand 
 <figcaption>Metadata in het GML bestand</figcaption></figure>
 
 <table style='width: 100%;'><caption>Tabel 2 Klasse MetadataIMRObestand</caption>
-<colgroup><col id='col1' style='width: 23.61437688948606%;'
-<col id='col2' style='width: 6.550218340611353%;'
-<col id='col3' style='width: 69.83540476990258%;'
+<colgroup><col id='col1' style='width: 23.61437688948606%;'>
+<col id='col2' style='width: 6.550218340611353%;'>
+<col id='col3' style='width: 69.83540476990258%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>

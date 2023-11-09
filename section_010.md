@@ -5,8 +5,8 @@
 Voor de waarden van de attributen zijn verschillende datatypen te onderscheiden. De volgende indeling geeft de gebruikte datatypen weer.
 
 <table style='width: 100%;'><caption>Tabel 3 Indeling datatypen</caption>
-<colgroup><col id='col1' style='width: 28.48101265822785%;'
-<col id='col2' style='width: 71.51898734177216%;'
+<colgroup><col id='col1' style='width: 28.48101265822785%;'>
+<col id='col2' style='width: 71.51898734177216%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Datatype</span><br/>
 </th>
@@ -165,7 +165,7 @@ Definitie: Hoofdgroepen waar specifieke bestemmingen in ingedeeld kunnen worden.
 Bron: SVBP2012.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
 Bestemmingshoofdgroep_E<br/>
@@ -249,7 +249,7 @@ Definitie: Hoofdgroepen waar specifieke dubbelbestemmingen in ingedeeld kunnen w
 Bron: SVBP2012.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
 Bestemmingshoofdgroep_D<br/>
@@ -272,7 +272,7 @@ Bestemmingshoofdgroep_D<br/>
 Definitie: Samenvoeging van Bestemmingshoofdgroep_E en Bestemmingshoofdgroep_D in één lijst.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
 Bestemmingshoofdgroep_ED<br/>
@@ -291,7 +291,7 @@ Bron: SVBP2012.<br/>
 Opmerking: Een aantal waarden zijn conform een bepaald format vrij intevullen. De vrij intevullen tekst is met .. aangegeven.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
 &lt;&lt;CodeList&gt;&gt;<br/>
@@ -385,7 +385,7 @@ Definitie: Naamgeving voor figuren in een bestemmingsplan.<br/>
 Bron: SVBP2012.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
 &lt;&lt;CodeList&gt;&gt;<br/>
@@ -440,7 +440,7 @@ Definitie: Naamgeving voor gebiedsaanduidingen in een bestemmingsplan.<br/>
 Bron: SVBP2012.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
 &lt;&lt;CodeList&gt;&gt;<br/>
@@ -726,7 +726,7 @@ Definitie: Rangschikking voor gebiedsaanduidingen in een bestemmingsplan. De ran
 Bron: SVBP2012.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
 Gebiedsaanduidinggroep<br/>
@@ -764,7 +764,7 @@ Gebiedsaanduidinggroep<br/>
 Definitie: Manier waarop de geometrie ruimtelijk geïnterpreteerd moet worden.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
 Idealisatie_1<br/>
@@ -781,7 +781,7 @@ Idealisatie_1<br/>
 Definitie: Manier waarop de geometrie ruimtelijk geïnterpreteerd moet worden.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
 Idealisatie_2<br/>
@@ -801,7 +801,7 @@ Idealisatie_2<br/>
 Definitie: Manier waarop de geometrie ruimtelijk geïnterpreteerd moet worden.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
 Idealisatie_3<br/>
@@ -824,7 +824,7 @@ Idealisatie_3<br/>
 Definitie: Verbeelding.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
 Illustratie<br/>
@@ -844,7 +844,7 @@ Illustratie<br/>
 Definitie: Verbeelding.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
 Illustratie_BP<br/>
@@ -861,7 +861,7 @@ Illustratie_BP<br/>
 Definitie: Verbeelding.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
 Illustratie_XGB<br/>
@@ -878,7 +878,7 @@ Illustratie_XGB<br/>
 Definitie: Juridisch instrument binnen de Wro, Wabo en Chw.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
 &lt;&lt;CodeList&gt;&gt;<br/>
@@ -923,7 +923,7 @@ Instrument_GSV<br/>
 Definitie: Juridisch instrument binnen de Wro.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
 &lt;&lt;CodeList&gt;&gt;<br/>
@@ -965,7 +965,7 @@ Instrument_PSV<br/>
 Definitie: Juridisch instrument binnen de Wro.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
 &lt;&lt;CodeList&gt;&gt;<br/>
@@ -1019,7 +1019,7 @@ Instrument_RSV<br/>
 Definitie: Instantie, overheid of maatschappelijke partij tot welke het in de beleidstekst beschreven aspect zich richt.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
 Normadressant_AMB<br/>
@@ -1075,7 +1075,7 @@ Normadressant_AMB<br/>
 Definitie: Instantie, overheid of maatschappelijke partij tot welke het in de beleidstekst beschreven aspect zich richt.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
 Normadressant_PV<br/>
@@ -1110,7 +1110,7 @@ Normadressant_PV<br/>
 Definitie: Instantie, overheid of maatschappelijke partij tot welke het in de beleidstekst beschreven aspect zich richt.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
 Normadressant_XGB<br/>
@@ -1157,7 +1157,7 @@ Normadressant_XGB<br/>
 Definitie: Meetbare parameter.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
 &lt;&lt;CodeList&gt;&gt;<br/>
@@ -1432,7 +1432,7 @@ Definitie: naamgeving van de gebruikte ondergrond bij het instrument.
 Opmerking: wanneer niet gebruik is gemaakt van een ondergrond uit het domein dient de naam van de ondergrond ingevuld te worden als vrije tekst.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
 &lt;&lt;CodeList&gt;&gt;<br/>
@@ -1459,7 +1459,7 @@ Ondergronden<br/>
 Definitie: Administratieve overheid.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
 Overheden_BP<br/>
@@ -1485,7 +1485,7 @@ Overheden_BP<br/>
 Definitie: Administratieve overheid.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
 Overheden_G<br/>
@@ -1505,7 +1505,7 @@ Overheden_G<br/>
 Definitie: Administratieve overheid.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
 Overheden_P<br/>
@@ -1522,7 +1522,7 @@ Overheden_P<br/>
 Definitie: Administratieve overheid.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
 Overheden_R<br/>
@@ -1539,7 +1539,7 @@ Overheden_R<br/>
 Definitie: Administratieve overheid.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
 Overheden_XGB<br/>
@@ -1565,7 +1565,7 @@ Overheden_XGB<br/>
 Definitie: Status van een ruimtelijk plan.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
 Planstatus<br/>
@@ -1594,7 +1594,7 @@ Planstatus<br/>
 Definitie: Benaming van rol van en relatie met een extern plan of besluit.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
 RolExternPlan_AMB<br/>
@@ -1623,7 +1623,7 @@ RolExternPlan_AMB<br/>
 Definitie: Benaming van rol van en relatie met een extern plan.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
 RolExternPlan_BP<br/>
@@ -1646,7 +1646,7 @@ RolExternPlan_BP<br/>
 Definitie: Benaming van rol van en relatie met een extern plan.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
 RolExternPlanPG_SV<br/>
@@ -1678,7 +1678,7 @@ RolExternPlanPG_SV<br/>
 Definitie: Benaming van rol van en relatie met een extern plan.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
 RolExternPlan_PV<br/>
@@ -1701,7 +1701,7 @@ RolExternPlan_PV<br/>
 Definitie: Benaming van rol van en relatie met een extern plan.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
 RolExternPlan_SV<br/>
@@ -1727,7 +1727,7 @@ RolExternPlan_SV<br/>
 Definitie: Benaming van rol van en relatie met een extern plan.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
 RolExternPlan_XGB<br/>
@@ -1756,7 +1756,7 @@ RolExternPlan_XGB<br/>
 Definitie: Ruimtelijk plan of besluit conform de Wro.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
 <b>RuimtelijkPlanOfBesluit_AMB</b><br/>
@@ -1776,7 +1776,7 @@ Definitie: Ruimtelijk plan of besluit conform de Wro.
 Definitie: Ruimtelijk plan of besluit conform de Wro.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
 RuimtelijkPlanOfBesluit_BP<br/>
@@ -1805,7 +1805,7 @@ RuimtelijkPlanOfBesluit_BP<br/>
 Definitie: Ruimtelijk plan of besluit conform de Wro.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
 RuimtelijkPlanOfBesluit_PV<br/>
@@ -1822,7 +1822,7 @@ RuimtelijkPlanOfBesluit_PV<br/>
 Definitie: Ruimtelijk plan of besluit conform de Wro.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
 RuimtelijkPlanOfBesluit_SV<br/>
@@ -1839,7 +1839,7 @@ RuimtelijkPlanOfBesluit_SV<br/>
 Definitie: Ruimtelijk plan of besluit conform de Wro.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
 RuimtelijkPlanOfBesluit_XGB<br/>
@@ -1874,7 +1874,7 @@ RuimtelijkPlanOfBesluit_XGB<br/>
 Definitie: <span style='color: #000000;'>Objecten waar een plangebied uit is samengesteld.</span>
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
 RuimtelijkPlanObject<br/>
@@ -1951,7 +1951,7 @@ RuimtelijkPlanObject<br/>
 Definitie: Soort tekst of tekstdocument in de context van het ruimtelijke plan.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
 TeksttypeBG_AMB<br/>
@@ -1983,7 +1983,7 @@ TeksttypeBG_AMB<br/>
 Definitie: Soort tekst of tekstdocument in de context van het ruimtelijke plan.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
 Teksttype_AMB<br/>
@@ -2015,7 +2015,7 @@ Teksttype_AMB<br/>
 Definitie: Soort tekst of tekstdocument in de context van het ruimtelijke plan.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
 TeksttypeBG_PV<br/>
@@ -2047,7 +2047,7 @@ TeksttypeBG_PV<br/>
 Definitie: Soort tekst of tekstdocument in de context van het ruimtelijke plan.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
 Teksttype_PV<br/>
@@ -2079,7 +2079,7 @@ Teksttype_PV<br/>
 Definitie: Soort tekst of tekstdocument in de context van het ruimtelijke plan.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
 TeksttypeBG_XGB<br/>
@@ -2111,7 +2111,7 @@ TeksttypeBG_XGB<br/>
 Definitie: Soort tekst of tekstdocument in de context van het ruimtelijke plan.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
 Teksttype_XGB<br/>
@@ -2143,7 +2143,7 @@ Teksttype_XGB<br/>
 Definitie: Soort tekst of tekstdocument in de context van het ruimtelijke plan.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
 TeksttypePG_BP<br/>
@@ -2169,7 +2169,7 @@ TeksttypePG_BP<br/>
 Definitie: Soort tekst of tekstdocument in de context van het ruimtelijke plan.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
 Teksttype_BP<br/>
@@ -2186,7 +2186,7 @@ Teksttype_BP<br/>
 Definitie: Soort tekst of tekstdocument in de context van het ruimtelijke plan.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
 TeksttypePG_SV<br/>
@@ -2209,7 +2209,7 @@ TeksttypePG_SV<br/>
 Definitie: Soort tekst of tekstdocument in de context van het ruimtelijke plan.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
 Teksttype_SV<br/>
@@ -2229,7 +2229,7 @@ Teksttype_SV<br/>
 Definitie: Soort tekst of tekstdocument in de context van het ruimtelijke plan.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
 Teksttype_PSV<br/>
@@ -2252,7 +2252,7 @@ Teksttype_PSV<br/>
 Definitie: Soort tekst of tekstdocument in de context van het ruimtelijke plan.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
 TeksttypeV_PSV<br/>

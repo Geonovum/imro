@@ -16,9 +16,9 @@ In het figuur:<br/>
 
 Bij elke klasse is een tabel opgenomen waarin de definitie en andere informatie wordt gegeven. De tabel heeft de volgende indeling:<br/>
 <table style='width: 100%;'><caption>Tabel 1 Klasse indeling</caption>
-<colgroup><col id='col1' style='width: 25%;'
-<col id='col2' style='width: 15%;'
-<col id='col3' style='width: 60%;'
+<colgroup><col id='col1' style='width: 25%;'>
+<col id='col2' style='width: 15%;'>
+<col id='col3' style='width: 60%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -96,9 +96,9 @@ Van de klassen van het Basismodel die ook voor IMRO gelden is de beschrijving op
 ### GeoObject (aangepast uit NEN 3610) {#7F7D93F5}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 16.791950965652827%;'
-<col id='col2' style='width: 6.349022782467909%;'
-<col id='col3' style='width: 76.85902625187927%;'
+<colgroup><col id='col1' style='width: 16.791950965652827%;'>
+<col id='col2' style='width: 6.349022782467909%;'>
+<col id='col3' style='width: 76.85902625187927%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'>
 Klasse<br/>
@@ -183,8 +183,8 @@ Hoewel een geo-object volgens de definitie altijd op een of andere wijze moet zi
 ### PlanologischGebied (uit NEN 3610) {#7F7D9427}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 24.389961836475077%;'
-<col id='col2' style='width: 75.61003816352492%;'
+<colgroup><col id='col1' style='width: 24.389961836475077%;'>
+<col id='col2' style='width: 75.61003816352492%;'>
 </colgroup>
 <tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </td>
@@ -244,8 +244,8 @@ Hoewel een geo-object volgens de definitie altijd op een of andere wijze moet zi
 ### Plangebied {#7F7D944C}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 24.389961836475077%;'
-<col id='col2' style='width: 75.61003816352492%;'
+<colgroup><col id='col1' style='width: 24.389961836475077%;'>
+<col id='col2' style='width: 75.61003816352492%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -313,9 +313,9 @@ Besluitgebied_A (Algemene Maatregel van Bestuur)<br/>
 ### Planobject {#7F7D9478}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 24.389961836475077%;'
-<col id='col2' style='width: 6.765352145252688%;'
-<col id='col3' style='width: 68.84468601827224%;'
+<colgroup><col id='col1' style='width: 24.389961836475077%;'>
+<col id='col2' style='width: 6.765352145252688%;'>
+<col id='col3' style='width: 68.84468601827224%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -430,9 +430,9 @@ De verschillende klassen en relaties worden in de volgende subparagrafen toegeli
 ### Bestemmingsplangebied {#0DD49B91}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 24.155193992490613%;'
-<col id='col2' style='width: 6.439868016839231%;'
-<col id='col3' style='width: 69.40493799067016%;'
+<colgroup><col id='col1' style='width: 24.155193992490613%;'>
+<col id='col2' style='width: 6.439868016839231%;'>
+<col id='col3' style='width: 69.40493799067016%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -642,9 +642,9 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 ### Bestemmingsvlak {#0A0233FA}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 25.70258277392195%;'
-<col id='col2' style='width: 6.439868016839231%;'
-<col id='col3' style='width: 67.85754920923883%;'
+<colgroup><col id='col1' style='width: 25.70258277392195%;'>
+<col id='col2' style='width: 6.439868016839231%;'>
+<col id='col3' style='width: 67.85754920923883%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>Klasse<br/>
 </th>
@@ -787,9 +787,9 @@ Dubbelbestemming: Een bestemming die (een) andere bestemming(en) willekeurig ove
 ### Aanduiding {#22DE54FF}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 24.200705427238596%;'
-<col id='col2' style='width: 6.451245875526227%;'
-<col id='col3' style='width: 69.34804869723517%;'
+<colgroup><col id='col1' style='width: 24.200705427238596%;'>
+<col id='col2' style='width: 6.451245875526227%;'>
+<col id='col3' style='width: 69.34804869723517%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -856,9 +856,9 @@ Dubbelbestemming: Een bestemming die (een) andere bestemming(en) willekeurig ove
 ### Bouwvlak {#7F7D960B}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 24.155193992490613%;'
-<col id='col2' style='width: 6.439868016839231%;'
-<col id='col3' style='width: 69.40493799067016%;'
+<colgroup><col id='col1' style='width: 24.155193992490613%;'>
+<col id='col2' style='width: 6.439868016839231%;'>
+<col id='col3' style='width: 69.40493799067016%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -968,9 +968,9 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 ### Functieaanduiding {#768EC072}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 24.155193992490613%;'
-<col id='col2' style='width: 6.439868016839231%;'
-<col id='col3' style='width: 69.40493799067016%;'
+<colgroup><col id='col1' style='width: 24.155193992490613%;'>
+<col id='col2' style='width: 6.439868016839231%;'>
+<col id='col3' style='width: 69.40493799067016%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -1102,9 +1102,9 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 ### Bouwaanduiding {#1F5EA14F}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 24.155193992490613%;'
-<col id='col2' style='width: 6.439868016839231%;'
-<col id='col3' style='width: 69.40493799067016%;'
+<colgroup><col id='col1' style='width: 24.155193992490613%;'>
+<col id='col2' style='width: 6.439868016839231%;'>
+<col id='col3' style='width: 69.40493799067016%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -1236,9 +1236,9 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 ### Maatvoering {#120DAC60}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 24.155193992490613%;'
-<col id='col2' style='width: 8.04414609170554%;'
-<col id='col3' style='width: 67.80065991580383%;'
+<colgroup><col id='col1' style='width: 24.155193992490613%;'>
+<col id='col2' style='width: 8.04414609170554%;'>
+<col id='col3' style='width: 67.80065991580383%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -1384,9 +1384,9 @@ Een maatvoering of een set aan maatvoeringen kan op een analoge kaart afgebeeld 
 ### Figuur {#7F7D9741}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 24.155193992490613%;'
-<col id='col2' style='width: 6.439868016839231%;'
-<col id='col3' style='width: 69.40493799067016%;'
+<colgroup><col id='col1' style='width: 24.155193992490613%;'>
+<col id='col2' style='width: 6.439868016839231%;'>
+<col id='col3' style='width: 69.40493799067016%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -1533,9 +1533,9 @@ Voor de geometrie van de figuren wordt de lijn opgenomen die de locatie van het 
 ### Gebiedsaanduiding {#7F7D9798}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 24.155193992490613%;'
-<col id='col2' style='width: 6.439868016839231%;'
-<col id='col3' style='width: 69.40493799067016%;'
+<colgroup><col id='col1' style='width: 24.155193992490613%;'>
+<col id='col2' style='width: 6.439868016839231%;'>
+<col id='col3' style='width: 69.40493799067016%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -1689,9 +1689,9 @@ De verschillende klassen en relaties worden in de volgende subparagrafen toegeli
 ### Structuurvisieplangebied_G {#5CC37568}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 24.155193992490613%;'
-<col id='col2' style='width: 6.439868016839231%;'
-<col id='col3' style='width: 69.40493799067016%;'
+<colgroup><col id='col1' style='width: 24.155193992490613%;'>
+<col id='col2' style='width: 6.439868016839231%;'>
+<col id='col3' style='width: 69.40493799067016%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -1913,9 +1913,9 @@ In GML als Xlink opgenomen.<br/>
 ### Structuurvisiegebied_G {#371015CA}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 24.155193992490613%;'
-<col id='col2' style='width: 6.439868016839231%;'
-<col id='col3' style='width: 69.40493799067016%;'
+<colgroup><col id='col1' style='width: 24.155193992490613%;'>
+<col id='col2' style='width: 6.439868016839231%;'>
+<col id='col3' style='width: 69.40493799067016%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -2084,9 +2084,9 @@ In GML als Xlink opgenomen.<br/>
 ### Structuurvisiecomplex_G {#47D66434}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 22.681623931623932%;'
-<col id='col2' style='width: 6.047008547008547%;'
-<col id='col3' style='width: 71.27136752136752%;'
+<colgroup><col id='col1' style='width: 22.681623931623932%;'>
+<col id='col2' style='width: 6.047008547008547%;'>
+<col id='col3' style='width: 71.27136752136752%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -2264,9 +2264,9 @@ De verschillende klassen en relaties worden in de volgende subparagrafen toegeli
 ### Structuurvisieplangebied_P {#12977316}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 23.7711342514836%;'
-<col id='col2' style='width: 6.33747620647184%;'
-<col id='col3' style='width: 69.89138954204456%;'
+<colgroup><col id='col1' style='width: 23.7711342514836%;'>
+<col id='col2' style='width: 6.33747620647184%;'>
+<col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -2485,9 +2485,9 @@ In GML als Xlink opgenomen.<br/>
 ### Structuurvisiegebied_P {#7F7D9A20}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 23.7711342514836%;'
-<col id='col2' style='width: 6.33747620647184%;'
-<col id='col3' style='width: 69.89138954204456%;'
+<colgroup><col id='col1' style='width: 23.7711342514836%;'>
+<col id='col2' style='width: 6.33747620647184%;'>
+<col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -2658,9 +2658,9 @@ In GML als Xlink opgenomen.<br/>
 ### Structuurvisiecomplex_P {#6BE096D3}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 23.7711342514836%;'
-<col id='col2' style='width: 6.33747620647184%;'
-<col id='col3' style='width: 69.89138954204456%;'
+<colgroup><col id='col1' style='width: 23.7711342514836%;'>
+<col id='col2' style='width: 6.33747620647184%;'>
+<col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -2832,9 +2832,9 @@ In GML als Xlink opgenomen.<br/>
 ### Structuurvisieverklaring_P {#68A830FF}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 23.7711342514836%;'
-<col id='col2' style='width: 6.33747620647184%;'
-<col id='col3' style='width: 69.89138954204456%;'
+<colgroup><col id='col1' style='width: 23.7711342514836%;'>
+<col id='col2' style='width: 6.33747620647184%;'>
+<col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -2990,9 +2990,9 @@ De verschillende klassen en relaties worden in de volgende subparagrafen toegeli
 ### Structuurvisieplangebied_R {#7F7D9B76}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 23.7711342514836%;'
-<col id='col2' style='width: 6.33747620647184%;'
-<col id='col3' style='width: 69.89138954204456%;'
+<colgroup><col id='col1' style='width: 23.7711342514836%;'>
+<col id='col2' style='width: 6.33747620647184%;'>
+<col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -3210,9 +3210,9 @@ In GML als Xlink opgenomen.<br/>
 ### Structuurvisiegebied_R {#7F7D9BF9}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 23.7711342514836%;'
-<col id='col2' style='width: 6.33747620647184%;'
-<col id='col3' style='width: 69.89138954204456%;'
+<colgroup><col id='col1' style='width: 23.7711342514836%;'>
+<col id='col2' style='width: 6.33747620647184%;'>
+<col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -3383,9 +3383,9 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 ### Structuurvisiecomplex_R {#39AD0077}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 23.7711342514836%;'
-<col id='col2' style='width: 6.33747620647184%;'
-<col id='col3' style='width: 69.89138954204456%;'
+<colgroup><col id='col1' style='width: 23.7711342514836%;'>
+<col id='col2' style='width: 6.33747620647184%;'>
+<col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -3569,9 +3569,9 @@ De verschillende klassen en relaties worden in de volgende subparagrafen toegeli
 ### Besluitgebied_P {#6F06F28A}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 23.7711342514836%;'
-<col id='col2' style='width: 6.33747620647184%;'
-<col id='col3' style='width: 69.89138954204456%;'
+<colgroup><col id='col1' style='width: 23.7711342514836%;'>
+<col id='col2' style='width: 6.33747620647184%;'>
+<col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -3799,9 +3799,9 @@ In GML als Xlink opgenomen.<br/>
 ### Besluitvlak_P {#7C3EE3E9}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 23.7711342514836%;'
-<col id='col2' style='width: 6.33747620647184%;'
-<col id='col3' style='width: 69.89138954204456%;'
+<colgroup><col id='col1' style='width: 23.7711342514836%;'>
+<col id='col2' style='width: 6.33747620647184%;'>
+<col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -3946,9 +3946,9 @@ In GML als Xlink opgenomen.<br/>
 ### Besluitsubvlak_P {#7BE3007B}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 23.7711342514836%;'
-<col id='col2' style='width: 6.33747620647184%;'
-<col id='col3' style='width: 69.89138954204456%;'
+<colgroup><col id='col1' style='width: 23.7711342514836%;'>
+<col id='col2' style='width: 6.33747620647184%;'>
+<col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -4107,9 +4107,9 @@ De verschillende klassen en relaties worden in de volgende subparagrafen toegeli
 ### Besluitgebied_A {#7F7D9E59}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 23.7711342514836%;'
-<col id='col2' style='width: 6.33747620647184%;'
-<col id='col3' style='width: 69.89138954204456%;'
+<colgroup><col id='col1' style='width: 23.7711342514836%;'>
+<col id='col2' style='width: 6.33747620647184%;'>
+<col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -4335,9 +4335,9 @@ In GML als Xlink opgenomen.<br/>
 ### Besluitvlak_A {#7F7D9EE1}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 23.7711342514836%;'
-<col id='col2' style='width: 6.33747620647184%;'
-<col id='col3' style='width: 69.89138954204456%;'
+<colgroup><col id='col1' style='width: 23.7711342514836%;'>
+<col id='col2' style='width: 6.33747620647184%;'>
+<col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -4482,9 +4482,9 @@ In GML als Xlink opgenomen.<br/>
 ### Besluitsubvlak_A {#7F7D9F38}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 23.7711342514836%;'
-<col id='col2' style='width: 6.33747620647184%;'
-<col id='col3' style='width: 69.89138954204456%;'
+<colgroup><col id='col1' style='width: 23.7711342514836%;'>
+<col id='col2' style='width: 6.33747620647184%;'>
+<col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -4652,9 +4652,9 @@ De verschillende klassen en relaties worden in de volgende subparagrafen toegeli
 ### Besluitgebied_X {#759384A2}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 23.7711342514836%;'
-<col id='col2' style='width: 6.33747620647184%;'
-<col id='col3' style='width: 69.89138954204456%;'
+<colgroup><col id='col1' style='width: 23.7711342514836%;'>
+<col id='col2' style='width: 6.33747620647184%;'>
+<col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -4881,9 +4881,9 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 ### Besluitvlak_X {#7F7DA04E}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 23.7711342514836%;'
-<col id='col2' style='width: 6.33747620647184%;'
-<col id='col3' style='width: 69.89138954204456%;'
+<colgroup><col id='col1' style='width: 23.7711342514836%;'>
+<col id='col2' style='width: 6.33747620647184%;'>
+<col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>
@@ -4997,9 +4997,9 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 ### Besluitsubvlak_X {#7F7DA092}
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 23.7711342514836%;'
-<col id='col2' style='width: 6.33747620647184%;'
-<col id='col3' style='width: 69.89138954204456%;'
+<colgroup><col id='col1' style='width: 23.7711342514836%;'>
+<col id='col2' style='width: 6.33747620647184%;'>
+<col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
 </th>

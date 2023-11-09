@@ -28,8 +28,8 @@ De constraints zijn uitgewerkt bij de objectklasse waarop ze van toepassing zijn
 De volgende constraints zijn bepaald.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 9.202523090786213%;'
-<col id='col2' style='width: 90.7974769092138%;'
+<colgroup><col id='col1' style='width: 9.202523090786213%;'>
+<col id='col2' style='width: 90.7974769092138%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'>Ruimtelijk Plan Algemeen
 

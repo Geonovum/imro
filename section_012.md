@@ -3,8 +3,8 @@
 Voor het beschrijven van het model wordt gebruik gemaakt van de grafische modelleertaal UML (Unified Modelling Language). UML vindt zijn oorsprong in de objectoriëntatie en is door de Object management Groep (OMG) ontwikkeld als een standaard voor het beschrijven van objectgeoriënteerde modellen. Het UML klassediagram is één van de mogelijkheden die UML biedt. Dit onderdeel wordt in dit document gebruikt voor het beschrijven van IMRO. Hieronder volgt een beknopte samenvatting van de belangrijkste begrippen en notaties die gebruikt worden in een UML klassediagram.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 40.05955107650023%;'
-<col id='col2' style='width: 59.940448923499765%;'
+<colgroup><col id='col1' style='width: 40.05955107650023%;'>
+<col id='col2' style='width: 59.940448923499765%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>Begrip Nederlands (Engels)<br/>
 </th>
