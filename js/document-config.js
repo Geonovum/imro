@@ -2,18 +2,18 @@ var documentConfig =
 {
   title: "Informatiemodel Ruimtelijke Ordening 2012 (IMRO) versie 1.2.1",
   subtitle: "Bijlage 4 behorende bij de Regeling standaarden ruimtelijke ordening",
-  shortName: "IMRO",
+  shortName: "imro",
   pubDomain: "ro",
   specStatus: "wv",
   specType: "no",
   license: "cc-by-nd",
   latestVersion: [
-    "https://docs.geostandaarden.nl/ro/IMRO/"
+    "https://docs.geostandaarden.nl/ro/imro/"
   ],
-  publishDate: "2023-10-24",
+  publishDate: "2023-11-01",
   publishVersion: "1.2.1",
   thisVersion: [
-    "https://geonovum.github.io/IMRO/"
+    "https://geonovum.github.io/imro/"
   ],
   previousPublishDate: "2012-04-18",
   prevVersion: [
