@@ -31,77 +31,77 @@ De volgende constraints zijn bepaald.
 <colgroup><col id='col1' style='width: 9.202523090786213%;'>
 <col id='col2' style='width: 90.7974769092138%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'>Ruimtelijk Plan Algemeen
+<thead valign='top'><tr><th align='left' colspan='2'>Ruimtelijk Plan Algemeen
 
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>a1</b><br/>
+<tbody valign='top'><tr><td align='left'><b>a1</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Minimaal en maximaal 1 object plangebied per bestand</b><br/>
+<td align='left'><b>Minimaal en maximaal 1 object plangebied per bestand</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::Plangebied<br/>
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012::Plangebied<br/>
 inv PlangebiedMax1: Plangebied::allInstances() -> size() = 1
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>a2</b><br/>
+<tr><td align='left'><b>a2</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Minimaal en maximaal 1 object MetadataImroBestand</b><br/>
+<td align='left'><b>Minimaal en maximaal 1 object MetadataImroBestand</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012:: MetadataIMRObestand<br/>
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012:: MetadataIMRObestand<br/>
 inv MetadataMax1: MetadataIMRObestand::allInstances() -> size() = 1
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>a3</b><br/>
+<tr><td align='left'><b>a3</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Het attribuut namespace heeft altijd de waarde NL.IMRO</b><br/>
+<td align='left'><b>Het attribuut namespace heeft altijd de waarde NL.IMRO</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::NEN3610ID<br/>
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012::NEN3610ID<br/>
 inv ObjectNamespace: self.namespace = ‘NL.IMRO’
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>a4</b><br/>
+<tr><td align='left'><b>a4</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Maximale lengte van de lokaalID van een plangebied is 23 tekens.</b><br/>
+<td align='left'><b>Maximale lengte van de lokaalID van een plangebied is 23 tekens.</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::Plangebied<br/>
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012::Plangebied<br/>
 inv PlangebiedLokaalIDMaxChar: self.identificatie.NEN3610ID.lokaalID -&gt; size() &lt; 24
 
 toelichting: format = [0-9]{4}\.[A-Za-z0-9]{1,18}
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>a5</b><br/>
+<tr><td align='left'><b>a5</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Attribuut versie bestaat verplicht uit 4 alfanumerieke tekens.</b><br/>
+<td align='left'><b>Attribuut versie bestaat verplicht uit 4 alfanumerieke tekens.</b><br/>
 <span style='background-color: yellow;'> </span><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::Plangebied<br/>
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012::Plangebied<br/>
 inv PlangebiedVersieAantalEnTypeChar:let allowedChar: Set = Set{'A'..'Z', 'a'..'z', '0'..'9'}<br/>
 in self.identificatie.NEN3610ID.versie-&gt;forAll (char | allowedChar-&gt;exists( char ))and
 
@@ -110,16 +110,16 @@ self.identificatie.NEN3610ID.versie -&gt; size() = 4
 toelichting: format = [A-Za-z0-9]{4}<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>a7</b><br/>
+<tr><td align='left'><b>a7</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Maximale lengte van de lokaalID van een planobject is 32 tekens en toegestane tekens.</b><br/>
+<td align='left'><b>Maximale lengte van de lokaalID van een planobject is 32 tekens en toegestane tekens.</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::Planobject<br/>
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012::Planobject<br/>
 inv PlanobjectLokaalIDMaxCharEnTypeTekens:
 
 let allowedChar: Set = Set{'A'..'Z', 'a'..'z', '0'..'9', '_', '-' '.', ','}<br/>
@@ -131,80 +131,80 @@ self.identificatie.NEN3610ID.lokaalID -&gt; size() &lt; 33
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>a8</b><br/>
+<tr><td align='left'><b>a8</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Plangebieden hebben verplicht het attribuut versie in de NEN3610ID</b><br/>
+<td align='left'><b>Plangebieden hebben verplicht het attribuut versie in de NEN3610ID</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::Plangebied<br/>
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012::Plangebied<br/>
 inv PlangebiedVersieVerplicht: self.identificatie.NEN3610ID.versie -&gt; notEmpty()
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>a9</b><br/>
+<tr><td align='left'><b>a9</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Planobjecten hebben geen versie attribuut in de NEN3610ID</b><br/>
+<td align='left'><b>Planobjecten hebben geen versie attribuut in de NEN3610ID</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::Planobject<br/>
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012::Planobject<br/>
 inv PlanobjectGeenVersie: self.identificatie.NEN3610ID.versie -&gt; isEmpty()
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>a10</b><br/>
+<tr><td align='left'><b>a10</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>CBS-code bronhouder verwerkt in identificatiecode.</b><br/>
+<td align='left'><b>CBS-code bronhouder verwerkt in identificatiecode.</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::Plangebied<br/>
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012::Plangebied<br/>
 inv PlangebiedIdnCBSCode: self.identificatie.NEN3610ID.lokaalID.substring(1,4) = self.overheidsCode
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>a11</b><br/>
+<tr><td align='left'><b>a11</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Coordinaatreferentiesysteem is verplicht Rijksdriehoeksstelsel</b><br/>
+<td align='left'><b>Coordinaatreferentiesysteem is verplicht Rijksdriehoeksstelsel</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::MetadataIMROBestand<br/>
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012::MetadataIMROBestand<br/>
 inv EPSGCode: self.codeReferentiesysteem = ‘28992’
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><b>Bestemmingsplan</b>
+<tr><td align='left' colspan='2'><b>Bestemmingsplan</b>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Bestemmingsplangebied</b><br/>
+<tr><td align='left'></td>
+<td align='left'><b>Bestemmingsplangebied</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>b1</b><br/>
+<tr><td align='left'><b>b1</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format voor verwijzing naar tekst</b><br/>
+<td align='left'><b>Format voor verwijzing naar tekst</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inv TypeTekstEnBestandsnaamPG_BP:
+<tr><td align='left'></td>
+<td align='left'>Inv TypeTekstEnBestandsnaamPG_BP:
 
 Context: IMRO2012::Bestemmingsplangebied
 
@@ -264,16 +264,16 @@ implies
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>b2</b><br/>
+<tr><td align='left'><b>b2</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format voor verwijzing vaststellingsbesluit</b><br/>
+<td align='left'><b>Format voor verwijzing vaststellingsbesluit</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inv FormatVerwijzingBesluit:
+<tr><td align='left'></td>
+<td align='left'>Inv FormatVerwijzingBesluit:
 
 Context: IMRO2012::Bestemmingsplangebied
 
@@ -286,16 +286,16 @@ and
 self.verwijzingNaarVaststellingsbesluit.substring(1,aantalKarakters + 3) = 'vb_' + planID<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>b4</b><br/>
+<tr><td align='left'><b>b4</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Attribuut besluitnummer en verwijzingNaarVaststellingsbesluit alleen toegestaan en verplicht indien planstatus vastgesteld </b><br/>
+<td align='left'><b>Attribuut besluitnummer en verwijzingNaarVaststellingsbesluit alleen toegestaan en verplicht indien planstatus vastgesteld </b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Context: IMRO2012::Bestemmingsplangebied<br/>
+<tr><td align='left'></td>
+<td align='left'>Context: IMRO2012::Bestemmingsplangebied<br/>
 Inv BesluitnummerVerplichtBP:<br/>
 if self.planstatusInfo.planstatus = Planstatus::vastgesteld<br/>
  then self.besluitnummer -&gt; notEmpty()and self.verwijzingNaarVaststellingsbesluit -&gt; notEmpty()<br/>
@@ -304,17 +304,17 @@ endif
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>bb1</b><br/>
+<tr><td align='left'><b>bb1</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Relatie tussen attribuut beleidsmatigVerantwoordelijkeOverheid en attributen naamOverheid en locatieNaam.</b>
+<td align='left'><b>Relatie tussen attribuut beleidsmatigVerantwoordelijkeOverheid en attributen naamOverheid en locatieNaam.</b>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Context: IMRO2012::Bestemmingsplangebied<br/>
+<tr><td align='left'></td>
+<td align='left'>Context: IMRO2012::Bestemmingsplangebied<br/>
 Inv locatieNaamVerplicht_naamOverheid:
 
 */gemeente/*<br/>
@@ -344,16 +344,16 @@ self.locatieNaam -&gt; notEmpty()
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>bb2</b><br/>
+<tr><td align='left'><b>bb2</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Attribuut verwijzingNaarExternPlanInfo verplicht bij uitwerkingsplan, wijzigingsplan.</b><br/>
+<td align='left'><b>Attribuut verwijzingNaarExternPlanInfo verplicht bij uitwerkingsplan, wijzigingsplan.</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Context: IMRO2012::Bestemmingsplangebied<br/>
+<tr><td align='left'></td>
+<td align='left'>Context: IMRO2012::Bestemmingsplangebied<br/>
 inv ExternPlanInfoVerplicht:<br/>
 self.typePlan = RuimtelijkPlanOfBesluit_BP::uitwerkingsplan or<br/>
 self.typePlan = RuimtelijkPlanOfBesluit_BP::wijzigingsplan<br/>
@@ -362,16 +362,16 @@ self.verwijzingNaarExternPlanInfo -&gt; notEmpty()
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>bb3</b><br/>
+<tr><td align='left'><b>bb3</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Indien verwijzingNorm een waarde PRABPK2012 heeft dan is bij maatvoering opname van de symboolcode verplicht en is de symboolcodelijst gesloten.</b><br/>
+<td align='left'><b>Indien verwijzingNorm een waarde PRABPK2012 heeft dan is bij maatvoering opname van de symboolcode verplicht en is de symboolcodelijst gesloten.</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Context: IMRO2012::Maatvoering<br/>
+<tr><td align='left'></td>
+<td align='left'>Context: IMRO2012::Maatvoering<br/>
 inv GebruikPRABPK2012:<br/>
 def: normen : set = self.plangebied.Bestemmingsplangebied -&gt;collect (verwijzingNorm)<br/>
 and
@@ -384,23 +384,23 @@ and<br/>
 self.MaatvoeringInfo.symboolcode.substring(1,7) &lt;&gt; ‘other:_’<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Bestemmingsvlak</b><br/>
+<tr><td align='left'></td>
+<td align='left'><b>Bestemmingsvlak</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>b7</b><br/>
+<tr><td align='left'><b>b7</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format voor verwijzing naar tekst</b><br/>
+<td align='left'><b>Format voor verwijzing naar tekst</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::Bestemmingsvlak
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012::Bestemmingsvlak
 
 Inv TypeTekstEnBestandsnaamBP:<br/>
 def: namespace : String = self.identificatie.NEN3610ID.namespace<br/>
@@ -426,16 +426,16 @@ self.verwijzingNaarTekstInfo.TekstReferentie_BP.verwijzingNaarTekst.substring(1,
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>b9</b><br/>
+<tr><td align='left'><b>b9</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Een Enkelbestemming kent andere hoofdgroepen dan een Dubbelbestemming</b><br/>
+<td align='left'><b>Een Enkelbestemming kent andere hoofdgroepen dan een Dubbelbestemming</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::Enkelbestemming<br/>
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012::Enkelbestemming<br/>
 inv EnkelHoofdgroep: self.bestemmingshoofdgroep &lt;&gt; Bestemminghoofdgroep_ED::leiding and<br/>
 self.bestemmingshoofdgroep &lt;&gt; Bestemminghoofdgroep_ED::waarde and<br/>
 self.bestemmingshoofdgroep &lt;&gt; Bestemminghoofdgroep_ED::waterstaat
@@ -447,55 +447,55 @@ self.bestemmingshoofdgroep = Bestemminghoofdgroep_ED::waterstaat
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>b10</b><br/>
+<tr><td align='left'><b>b10</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Bestemmingsvlak verwijst naar een bestaand plangebied id</b><br/>
+<td align='left'><b>Bestemmingsvlak verwijst naar een bestaand plangebied id</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Geen OCL constraint
+<tr><td align='left'></td>
+<td align='left'>Geen OCL constraint
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>b11</b><br/>
+<tr><td align='left'><b>b11</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Aanduiding verwijst naar een bestaand plangebied id</b><br/>
+<td align='left'><b>Aanduiding verwijst naar een bestaand plangebied id</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Geen OCL constraint
+<tr><td align='left'></td>
+<td align='left'>Geen OCL constraint
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>b12</b><br/>
+<tr><td align='left'><b>b12</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Aanduiding verwijst naar een bestaand bestemmingsvlak id</b><br/>
+<td align='left'><b>Aanduiding verwijst naar een bestaand bestemmingsvlak id</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Geen OCL constraint
+<tr><td align='left'></td>
+<td align='left'>Geen OCL constraint
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>b13</b><br/>
+<tr><td align='left'><b>b13</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Bouwvlak verwijst altijd naar een bestemmingsvlak maar is optioneel</b><b> bij plantype wijzigingsplan, inpassingsplan of indien het dient ter vervanging van een extern plan.</b><br/>
+<td align='left'><b>Bouwvlak verwijst altijd naar een bestemmingsvlak maar is optioneel</b><b> bij plantype wijzigingsplan, inpassingsplan of indien het dient ter vervanging van een extern plan.</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::Bouwvlak
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012::Bouwvlak
 
 inv AssociatieBouwvlakBestvlak:<br/>
 def: terVervangingExternPlanInfo: Boolean = (self.plangebied.BestemmingsplanGebied. verwijzingNaarExternPlanInfo.rolExternPlan_BP = RolExternPlan_BP::ter vervanging van extern plan)
@@ -506,31 +506,31 @@ self.plangebied.Bestemmingsplangebied.typePlan &lt;&gt; RuimtelijkPlanOfBesluit_
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>b14</b><br/>
+<tr><td align='left'><b>b14</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Naam bouwvlak is altijd bouwvlak</b><br/>
+<td align='left'><b>Naam bouwvlak is altijd bouwvlak</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2013::Bouwvlak<br/>
+<tr><td align='left'></td>
+<td align='left'>context IMRO2013::Bouwvlak<br/>
 inv Bouwvlaknaam: self.naam = ‘bouwvlak’
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>b15</b><br/>
+<tr><td align='left'><b>b15</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Functieaanduiding kan niet verwijzen naar aanduiding van het type bouwvlak, functieaanduiding, bouwaanduiding, maatvoering, figuur.</b>
+<td align='left'><b>Functieaanduiding kan niet verwijzen naar aanduiding van het type bouwvlak, functieaanduiding, bouwaanduiding, maatvoering, figuur.</b>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::Functieaanduiding<br/>
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012::Functieaanduiding<br/>
 inv AssociatieFunctieaanduidingNiet:<br/>
 not(self.aanduiding.oclIsTypeOf(Bouwvlak))<br/>
 and<br/>
@@ -544,16 +544,16 @@ not(self.aanduiding.oclIsTypeOf(Figuur)
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>b16</b><br/>
+<tr><td align='left'><b>b16</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Bouwaanduiding kan niet verwijzen naar aanduiding van het type functieaanduiding, bouwaanduiding, maatvoering, figuur</b><br/>
+<td align='left'><b>Bouwaanduiding kan niet verwijzen naar aanduiding van het type functieaanduiding, bouwaanduiding, maatvoering, figuur</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::Bouwaanduiding<br/>
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012::Bouwaanduiding<br/>
 inv AssociatieBouwaanduidingNiet:<br/>
 not(self.aanduiding.oclIsTypeOf(Functieaanduiding))<br/>
 and<br/>
@@ -565,16 +565,16 @@ not(self.aanduiding.oclIsTypeOf(Figuur)
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>b17</b><br/>
+<tr><td align='left'><b>b17</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Maatvoering kan niet verwijzen naar aanduiding van het type functieaanduiding, bouwaanduiding, maatvoering, figuur</b><br/>
+<td align='left'><b>Maatvoering kan niet verwijzen naar aanduiding van het type functieaanduiding, bouwaanduiding, maatvoering, figuur</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::Maatvoering<br/>
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012::Maatvoering<br/>
 inv AssociatieMaatvoeringNiet:<br/>
 not(self.aanduiding.oclIsTypeOf(Functieaanduiding))<br/>
 and<br/>
@@ -586,16 +586,16 @@ not(self.aanduiding.oclIsTypeOf(Figuur)
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>b18</b><br/>
+<tr><td align='left'><b>b18</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Figuur kan niet verwijzen naar aanduiding van het type functieaanduiding, bouwaanduiding, maatvoering, figuur</b><br/>
+<td align='left'><b>Figuur kan niet verwijzen naar aanduiding van het type functieaanduiding, bouwaanduiding, maatvoering, figuur</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::Figuur<br/>
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012::Figuur<br/>
 inv AssociatieFiguurNiet:<br/>
 not(self.aanduiding.oclIsTypeOf(Functieaanduiding))<br/>
 and<br/>
@@ -607,16 +607,16 @@ not(self.aanduiding.oclIsTypeOf(Figuur)
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>b19</b><br/>
+<tr><td align='left'><b>b19</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Functieaanduiding verwijst altijd naar een bestemmingsvlak of een gebiedsaanduiding maar is optioneel</b><b> bij plantype wijzigingsplan en inpassingsplan of indien het dient ter vervanging van een extern plan.</b><br/>
+<td align='left'><b>Functieaanduiding verwijst altijd naar een bestemmingsvlak of een gebiedsaanduiding maar is optioneel</b><b> bij plantype wijzigingsplan en inpassingsplan of indien het dient ter vervanging van een extern plan.</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::Functieaanduiding<br/>
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012::Functieaanduiding<br/>
 inv FunctieaanduidingVoorBestOfAanduiding:<br/>
 def: terVervangingExternPlanInfo: Boolean = (self.plangebied.BestemmingsplanGebied. verwijzingNaarExternPlanInfo.rolExternPlan_BP = RolExternPlan_BP::ter vervanging van extern plan)
 
@@ -634,16 +634,16 @@ not (self.aanduiding.oclIsTypeOf(Gebiedsaanduiding) and self.bestemmingsvlak -&g
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>b20</b><br/>
+<tr><td align='left'><b>b20</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Bouwaanduiding verwijst altijd naar een bestemmingsvlak, bouwvlak of een gebiedsaanduiding maar is optioneel</b><b> bij plantype wijzigingsplan en inpassingsplan of indien het dient ter vervanging van een extern plan .</b><br/>
+<td align='left'><b>Bouwaanduiding verwijst altijd naar een bestemmingsvlak, bouwvlak of een gebiedsaanduiding maar is optioneel</b><b> bij plantype wijzigingsplan en inpassingsplan of indien het dient ter vervanging van een extern plan .</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::Bouwaanduiding<br/>
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012::Bouwaanduiding<br/>
 inv BouwaanduidingVoorBestOfAanduiding:<br/>
 def: terVervangingExternPlanInfo: Boolean = (self.plangebied.BestemmingsplanGebied. verwijzingNaarExternPlanInfo.rolExternPlan_BP = RolExternPlan_BP::ter vervanging van extern plan)
 
@@ -661,16 +661,16 @@ not (((self.aanduiding.oclIsTypeOf(Bouwvlak) or self.aanduiding.oclIsTypeOf(Gebi
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>b21</b><br/>
+<tr><td align='left'><b>b21</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Maatvoering verwijst altijd naar een bestemmingsvlak , een bouwvlak of een gebiedsaanduiding maar is optioneel</b><b> bij plantype wijzigingsplan en inpassingsplan of indien het dient ter vervanging van een extern plan..</b><br/>
+<td align='left'><b>Maatvoering verwijst altijd naar een bestemmingsvlak , een bouwvlak of een gebiedsaanduiding maar is optioneel</b><b> bij plantype wijzigingsplan en inpassingsplan of indien het dient ter vervanging van een extern plan..</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::Maatvoering<br/>
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012::Maatvoering<br/>
 inv MaatvoeringVoorBestOfAanduiding:<br/>
 def: terVervangingExternPlanInfo: Boolean = (self.plangebied.BestemmingsplanGebied. verwijzingNaarExternPlanInfo.rolExternPlan_BP = RolExternPlan_BP::ter vervanging van extern plan)
 
@@ -688,16 +688,16 @@ not (((self.aanduiding.oclIsTypeOf(Bouwvlak) or self.aanduiding.oclIsTypeOf(Gebi
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>b22</b><br/>
+<tr><td align='left'><b>b22</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Figuur verwijst altijd naar een bestemmingsvlak of een bouwvlak of een gebiedsaanduiding maar is optioneel</b><b> bij plantype wijzigingsplan en inpassingsplan of indien het dient ter vervanging van een extern plan.</b><br/>
+<td align='left'><b>Figuur verwijst altijd naar een bestemmingsvlak of een bouwvlak of een gebiedsaanduiding maar is optioneel</b><b> bij plantype wijzigingsplan en inpassingsplan of indien het dient ter vervanging van een extern plan.</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::Figuur<br/>
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012::Figuur<br/>
 inv FiguurVoorBestOfAanduiding:<br/>
 def: terVervangingExternPlanInfo: Boolean = (self.plangebied.BestemmingsplanGebied. verwijzingNaarExternPlanInfo.rolExternPlan_BP = RolExternPlan_BP::ter vervanging van extern plan)
 
@@ -717,16 +717,16 @@ else<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>b23</b><br/>
+<tr><td align='left'><b>b23</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format illustratie verwijzing</b><br/>
+<td align='left'><b>Format illustratie verwijzing</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::Figuur<br/>
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012::Figuur<br/>
 Inv Illustratieverwijzing:
 
 def: namespace : String = self.identificatie.NEN3610ID.namespace<br/>
@@ -741,36 +741,36 @@ and
 self.verwijzingNaarTekstInfo.IllustratieReferentie_BP.verwijzingNaarIllustratie.substring(1,aantalKarakters + 2) = 'i_' + planID<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>b24</b><br/>
+<tr><td align='left'><b>b24</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Alle aanduidingen, behalve het object Figuur, kunnen maximaal naar 1 bestemmingsvlak verwijzen.</b><br/>
+<td align='left'><b>Alle aanduidingen, behalve het object Figuur, kunnen maximaal naar 1 bestemmingsvlak verwijzen.</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::Aanduiding<br/>
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012::Aanduiding<br/>
 inv verwijzingNaarBestemming:<br/>
 not(self.oclIsTypeOf(Figuur)) implies<br/>
 self.bestemmingsvlak-&gt;size()&lt; 2
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Gebiedsaanduiding</b><br/>
+<tr><td align='left'></td>
+<td align='left'><b>Gebiedsaanduiding</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>b26</b><br/>
+<tr><td align='left'><b>b26</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format voor verwijzing naar tekst bij, functieaanduiding, bouwaanduiding, maatvoering, figuur en gebiedsaanduiding.</b><br/>
+<td align='left'><b>Format voor verwijzing naar tekst bij, functieaanduiding, bouwaanduiding, maatvoering, figuur en gebiedsaanduiding.</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::Functieaanduiding<br/>
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012::Functieaanduiding<br/>
 context IMRO2012::Bouwaanduiding<br/>
 context IMRO2012::Maatvoering<br/>
 context IMRO2012::Figuur<br/>
@@ -797,29 +797,29 @@ self.verwijzingNaarTekstInfo.TekstReferentie_BP.verwijzingNaarTekst.substring(1,
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><b>Structuurvisie</b>
+<tr><td align='left' colspan='2'><b>Structuurvisie</b>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Structuurvisieplangebied</b><br/>
+<tr><td align='left'></td>
+<td align='left'><b>Structuurvisieplangebied</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>c2</b>
+<tr><td align='left'><b>c2</b>
 
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format voor verwijzing naar tekst</b>
+<td align='left'><b>Format voor verwijzing naar tekst</b>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>voor _G _ P en _R gelijk.</b>
+<tr><td align='left'></td>
+<td align='left'><b>voor _G _ P en _R gelijk.</b>
 
 Context: IMRO2012::Structuurvisieplangebied_G<br/>
 Context: IMRO2012::Structuurvisieplangebied_P<br/>
@@ -872,16 +872,16 @@ self.verwijzingNaarTekstInfo.TekstReferentiePG_SV.verwijzingNaarTekst.substring(
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>c3</b><br/>
+<tr><td align='left'><b>c3</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format voor verwijzing vaststellingsbesluit</b><br/>
+<td align='left'><b>Format voor verwijzing vaststellingsbesluit</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>voor _G _ P en _R gelijk.</b>
+<tr><td align='left'></td>
+<td align='left'><b>voor _G _ P en _R gelijk.</b>
 
 Context: IMRO2012::Structuurvisieplangebied_G<br/>
 Context: IMRO2012::Structuurvisieplangebied_P<br/>
@@ -891,16 +891,16 @@ Context: IMRO2012::Structuurvisieplangebied_R
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>c4</b><br/>
+<tr><td align='left'><b>c4</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format voor verwijzing naar illustratie</b><br/>
+<td align='left'><b>Format voor verwijzing naar illustratie</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>voor _G _ P en _R gelijk.</b>
+<tr><td align='left'></td>
+<td align='left'><b>voor _G _ P en _R gelijk.</b>
 
 Context: IMRO2012::Structuurvisieplangebied_G<br/>
 Context: IMRO2012::Structuurvisieplangebied_P<br/>
@@ -919,16 +919,16 @@ and
 self.verwijzingNaarTekstInfo.IllustratieReferentiePG.verwijzingNaarIllustratie.substring(1,aantalKarakters + 2) = 'i_' + planID<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>c5</b><br/>
+<tr><td align='left'><b>c5</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Attribuut besluitnummer en verwijzingNaarVaststellingsbesluit alleen toegestaan en verplicht indien planstatus = vastgesteld</b><br/>
+<td align='left'><b>Attribuut besluitnummer en verwijzingNaarVaststellingsbesluit alleen toegestaan en verplicht indien planstatus = vastgesteld</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Context: IMRO2012::Structuurvisieplangebied_G<br/>
+<tr><td align='left'></td>
+<td align='left'>Context: IMRO2012::Structuurvisieplangebied_G<br/>
 Inv BesluitnummerVerplichtGSV:<br/>
 if self.PlanstatusEnDatum.planstatus = Planstatus::vastgesteld<br/>
  then self.besluitnummer -&gt; notEmpty()and self.verwijzingNaarVaststellingsbesluit -&gt; notEmpty()<br/>
@@ -951,17 +951,17 @@ endif
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Structuurvisiegebieden en complexen</b><br/>
+<tr><td align='left'></td>
+<td align='left'><b>Structuurvisiegebieden en complexen</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>c7</b><br/>
+<tr><td align='left'><b>c7</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format voor verwijzing naar tekst</b><br/>
+<td align='left'><b>Format voor verwijzing naar tekst</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>verschillend voor _G _P en _R</b>
+<tr><td align='left'></td>
+<td align='left'><b>verschillend voor _G _P en _R</b>
 
 <b>_G</b><br/>
 <b>gebied_G, complex_G</b><br/>
@@ -1067,16 +1067,16 @@ Context: IMRO2012:: Structuurvisiecomplex_R
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>c8</b><br/>
+<tr><td align='left'><b>c8</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format voor verwijzing naar illustratie</b><br/>
+<td align='left'><b>Format voor verwijzing naar illustratie</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>voor _G en _R gelijk.</b>
+<tr><td align='left'></td>
+<td align='left'><b>voor _G en _R gelijk.</b>
 
 gebied_G, complex_G, gebied_R, complex_R
 
@@ -1117,73 +1117,73 @@ self.verwijzingNaarTekstInfo.IllustratieReferentie_PSV.verwijzingNaarIllustratie
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Algemene test regels voor verwijzingen</b><br/>
+<tr><td align='left'></td>
+<td align='left'><b>Algemene test regels voor verwijzingen</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>c9</b><br/>
+<tr><td align='left'><b>c9</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Structuurvisiegebied verwijst naar een bestaand plangebied id</b><br/>
+<td align='left'><b>Structuurvisiegebied verwijst naar een bestaand plangebied id</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Geen OCL constraint
+<tr><td align='left'></td>
+<td align='left'>Geen OCL constraint
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>c10</b><br/>
+<tr><td align='left'><b>c10</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Structuurvisiecomplex verwijst naar een bestaand plangebied id</b><br/>
+<td align='left'><b>Structuurvisiecomplex verwijst naar een bestaand plangebied id</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Geen OCL constraint
+<tr><td align='left'></td>
+<td align='left'>Geen OCL constraint
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>c11</b><br/>
+<tr><td align='left'><b>c11</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Structuurvisieverklaring verwijst naar een bestaand plangebied id</b><br/>
+<td align='left'><b>Structuurvisieverklaring verwijst naar een bestaand plangebied id</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Geen OCL constraint
+<tr><td align='left'></td>
+<td align='left'>Geen OCL constraint
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>c12</b><br/>
+<tr><td align='left'><b>c12</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Structuurvisiecomplex verwijst naar een bestaand planobject id</b><br/>
+<td align='left'><b>Structuurvisiecomplex verwijst naar een bestaand planobject id</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Geen OCL constraint
+<tr><td align='left'></td>
+<td align='left'>Geen OCL constraint
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>c13</b><br/>
+<tr><td align='left'><b>c13</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Structuurvisiegebied_R en Structuurvisiecomplex_R</b><br/>
+<td align='left'><b>Structuurvisiegebied_R en Structuurvisiecomplex_R</b><br/>
 <b>Het object heeft verplicht een geometrie indien het object naar een kaart illustratie verwijst.</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Context: IMRO2012::Structuurvisiegebied_R<br/>
+<tr><td align='left'></td>
+<td align='left'>Context: IMRO2012::Structuurvisiegebied_R<br/>
 Context: IMRO2012::Structuurvisiecomplex_R<br/>
 Inv GeometrieVerplichtGebiedRSV:<br/>
 self.verwijzingNaarIllustratieInfo.IllustratieReferentie.typeIllustratie = Illustratie::kaart implies<br/>
@@ -1191,16 +1191,16 @@ self.begrenzing -&gt; notEmpty()
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>c14</b><br/>
+<tr><td align='left'><b>c14</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>CartografieInfo, indien gebruikt is er altijd een kaart met nummer 1. Nummer 0 mag niet voorkomen. Het nummer is altijd een positief, geheel getal.</b><br/>
+<td align='left'><b>CartografieInfo, indien gebruikt is er altijd een kaart met nummer 1. Nummer 0 mag niet voorkomen. Het nummer is altijd een positief, geheel getal.</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>/* geldt voor het datatype CartografieInfo. Wordt gebruikt bij:<br/>
+<tr><td align='left'></td>
+<td align='left'>/* geldt voor het datatype CartografieInfo. Wordt gebruikt bij:<br/>
 Structuurvisiegebied_G,<br/>
 Structuurvisiecomplex_G,<br/>
 Structuurvisiegebied_P,<br/>
@@ -1227,25 +1227,25 @@ self.kaartnummer = self.kaartnummer.abs()
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><b>Gebiedsgerichte besluiten</b>
+<tr><td align='left' colspan='2'><b>Gebiedsgerichte besluiten</b>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Provinciale Verordening</b>
+<tr><td align='left'></td>
+<td align='left'><b>Provinciale Verordening</b>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e2</b><br/>
+<tr><td align='left'><b>e2</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format voor verwijzing naar tekst</b><br/>
+<td align='left'><b>Format voor verwijzing naar tekst</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Context: IMRO2012::Besluitgebied_P
+<tr><td align='left'></td>
+<td align='left'>Context: IMRO2012::Besluitgebied_P
 
 Inv TypeTekstEnBestandsnaamBG_PV:
 
@@ -1312,16 +1312,16 @@ self.verwijzingNaarTekstInfo.TekstReferentieBG_PV.verwijzingNaarTekst.substring(
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e3</b><br/>
+<tr><td align='left'><b>e3</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format voor verwijzing vaststellingsbesluit</b><br/>
+<td align='left'><b>Format voor verwijzing vaststellingsbesluit</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Context: IMRO2012::Besluitgebied_P<br/>
+<tr><td align='left'></td>
+<td align='left'>Context: IMRO2012::Besluitgebied_P<br/>
 Context: IMRO2012::Besluitgebied_A<br/>
 Context: IMRO2012::Besluitgebied_X
 
@@ -1329,16 +1329,16 @@ Context: IMRO2012::Besluitgebied_X
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e4</b><br/>
+<tr><td align='left'><b>e4</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format voor verwijzing naar illustratie</b><br/>
+<td align='left'><b>Format voor verwijzing naar illustratie</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::Besluitgebied_P <br/>
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012::Besluitgebied_P <br/>
 Inv Illustratieverwijzing:
 
 def: namespace : String = self.identificatie.NEN3610ID.namespace<br/>
@@ -1353,16 +1353,16 @@ self.verwijzingNaarTekstInfo.IllustratieReferentiePG.verwijzingNaarIllustratie.s
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e5</b><br/>
+<tr><td align='left'><b>e5</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Attribuut besluitnummer en verwijzingNaarVaststellingsbesluit alleen toegestaan en verplicht indien planstatus = vastgesteld</b><br/>
+<td align='left'><b>Attribuut besluitnummer en verwijzingNaarVaststellingsbesluit alleen toegestaan en verplicht indien planstatus = vastgesteld</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Context: IMRO2012::Besluitgebied_P<br/>
+<tr><td align='left'></td>
+<td align='left'>Context: IMRO2012::Besluitgebied_P<br/>
 Inv BesluitnummerVerplichtPV:<br/>
 if self.planstatusInfo.planstatus = Planstatus::vastgesteld<br/>
  then self.besluitnummer -&gt; notEmpty()and self.verwijzingNaarVaststellingsbesluit -&gt; notEmpty()<br/>
@@ -1371,14 +1371,14 @@ endif
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e6</b><br/>
+<tr><td align='left'><b>e6</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Attribuut locatieNaam is verplicht indien attribuut beleidsmatigVerantwoordelijkeOverheid = proviciale - of nationale overheid</b>
+<td align='left'><b>Attribuut locatieNaam is verplicht indien attribuut beleidsmatigVerantwoordelijkeOverheid = proviciale - of nationale overheid</b>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Context: IMRO2012::Besluitgebied_P<br/>
+<tr><td align='left'></td>
+<td align='left'>Context: IMRO2012::Besluitgebied_P<br/>
 Inv LocatienaamVerplichtP:<br/>
 self.beleidsmatigVerantwoordelijkeOverheid = Overheden_P::provinciale overheid or<br/>
 self.beleidsmatigVerantwoordelijkeOverheid = Overheden_P::nationale overheid<br/>
@@ -1388,20 +1388,20 @@ self.locatieNaam -&gt; notEmpty()
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Besluitvlak_P</b><br/>
+<tr><td align='left'></td>
+<td align='left'><b>Besluitvlak_P</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e7</b><br/>
+<tr><td align='left'><b>e7</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format voor verwijzing naar tekst</b><br/>
+<td align='left'><b>Format voor verwijzing naar tekst</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Context: IMRO2012::Besluitvlak_P
+<tr><td align='left'></td>
+<td align='left'>Context: IMRO2012::Besluitvlak_P
 
 Inv TypeTekstEnBestandsnaam_PV:
 
@@ -1470,68 +1470,68 @@ verwijzingNaarTekstInfo.TekstReferentie_PV.verwijzingTekst.substring(1,aantalKar
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e8</b><br/>
+<tr><td align='left'><b>e8</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format illustratieverwijzing</b><br/>
+<td align='left'><b>Format illustratieverwijzing</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>gelijk aan structuurvisiegebied_G
+<tr><td align='left'></td>
+<td align='left'>gelijk aan structuurvisiegebied_G
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Besluitsubvlak_P</b><br/>
+<tr><td align='left'></td>
+<td align='left'><b>Besluitsubvlak_P</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e9</b><br/>
+<tr><td align='left'><b>e9</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format voor verwijzing naar tekst</b><br/>
+<td align='left'><b>Format voor verwijzing naar tekst</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Context: IMRO2012::Besluitsubvlak_P
+<tr><td align='left'></td>
+<td align='left'>Context: IMRO2012::Besluitsubvlak_P
 
 <b>rest is gelijk aan Besluitvlak_P</b>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e10</b><br/>
+<tr><td align='left'><b>e10</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format illustratieverwijzing</b><br/>
+<td align='left'><b>Format illustratieverwijzing</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Context: IMRO2012::Besluitsubvlak_P
+<tr><td align='left'></td>
+<td align='left'>Context: IMRO2012::Besluitsubvlak_P
 
 <b>rest is gelijk aan aan structuurvisiegebied_G</b>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>AMvB</b>
+<tr><td align='left'></td>
+<td align='left'><b>AMvB</b>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e11</b><br/>
+<tr><td align='left'><b>e11</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format voor verwijzing naar tekst</b><br/>
+<td align='left'><b>Format voor verwijzing naar tekst</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context: Besluitgebied_A<br/>
+<tr><td align='left'></td>
+<td align='left'>context: Besluitgebied_A<br/>
 Inv TypeTekstEnBestandsnaamBG_AMB:
 
 def: namespace : String = identificatie.NEN3610ID.namespace<br/>
@@ -1600,31 +1600,31 @@ or
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e12</b><br/>
+<tr><td align='left'><b>e12</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format voor verwijzing naar illustratie</b><br/>
+<td align='left'><b>Format voor verwijzing naar illustratie</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::Besluitgebied_A
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012::Besluitgebied_A
 
 <b>gelijk aan structuurvisiegebied_G</b>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e13</b><br/>
+<tr><td align='left'><b>e13</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Attribuut besluitnummer en verwijzingNaarVaststellingsbesluit alleen toegestaan en verplicht planstatus = vastgesteld</b><br/>
+<td align='left'><b>Attribuut besluitnummer en verwijzingNaarVaststellingsbesluit alleen toegestaan en verplicht planstatus = vastgesteld</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Context: IMRO2012::Besluitgebied_A<br/>
+<tr><td align='left'></td>
+<td align='left'>Context: IMRO2012::Besluitgebied_A<br/>
 Inv BesluitnummerVerplicht:<br/>
 if self.planstatusInfo.planstatus = Planstatus::vastgesteld<br/>
  then self.besluitnummer -&gt; notEmpty()and self.verwijzingNaarVaststellingsbesluit -&gt; notEmpty()<br/>
@@ -1633,20 +1633,20 @@ endif
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Besluitvlak_A</b><br/>
+<tr><td align='left'></td>
+<td align='left'><b>Besluitvlak_A</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e14</b><br/>
+<tr><td align='left'><b>e14</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format verwijzing naar tekst</b><br/>
+<td align='left'><b>Format verwijzing naar tekst</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inv TypeTekstEnBestandsnaam_AMB:
+<tr><td align='left'></td>
+<td align='left'>Inv TypeTekstEnBestandsnaam_AMB:
 
 def: namespace : String = identificatie.NEN3610ID.namespace<br/>
 def: lokaalID : String = identificatie.NEN3610ID.lokaalID<br/>
@@ -1716,68 +1716,68 @@ or<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e15</b><br/>
+<tr><td align='left'><b>e15</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format verwijzing illustratie</b><br/>
+<td align='left'><b>Format verwijzing illustratie</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Context: IMRO2012::Besluitvlak_A
+<tr><td align='left'></td>
+<td align='left'>Context: IMRO2012::Besluitvlak_A
 
 idem aan structuurvisieplangebied_G
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Besluitsubvlak_A</b><br/>
+<tr><td align='left'></td>
+<td align='left'><b>Besluitsubvlak_A</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e16</b><br/>
+<tr><td align='left'><b>e16</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format verwijzing naar tekst</b><br/>
+<td align='left'><b>Format verwijzing naar tekst</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Context: IMRO2012::Besluitsubvlak_A
+<tr><td align='left'></td>
+<td align='left'>Context: IMRO2012::Besluitsubvlak_A
 
 gelijk aan Besluitvlak_A
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format verwijzing naar illustratie</b><br/>
+<tr><td align='left'></td>
+<td align='left'><b>Format verwijzing naar illustratie</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Context: IMRO2012::Besluitsubvlak_A<br/>
+<tr><td align='left'></td>
+<td align='left'>Context: IMRO2012::Besluitsubvlak_A<br/>
 gelijk aan Besluitvlak_A
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Overige gebiedsgerichte besluiten</b>
+<tr><td align='left'></td>
+<td align='left'><b>Overige gebiedsgerichte besluiten</b>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e17</b><br/>
+<tr><td align='left'><b>e17</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format voor verwijzing naar tekst</b><br/>
+<td align='left'><b>Format voor verwijzing naar tekst</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Context: IMRO2012::Besluitgebied_X<br/>
+<tr><td align='left'></td>
+<td align='left'>Context: IMRO2012::Besluitgebied_X<br/>
 Inv TypeTekstEnBestandsnaamBG_XGB:
 
 def: namespace : String = identificatie.NEN3610ID.namespace<br/>
@@ -1846,16 +1846,16 @@ or<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>ee1</b><br/>
+<tr><td align='left'><b>ee1</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Relatie tussen besluittype en teksttype</b><br/>
+<td align='left'><b>Relatie tussen besluittype en teksttype</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Context: IMRO2012::Besluitgebied_X
+<tr><td align='left'></td>
+<td align='left'>Context: IMRO2012::Besluitgebied_X
 
 Inv RelatieBesluitEnTeksttype:<br/>
 def: Teksttypen: Bag = self.verwijzingNaarTekstInfo.TekstReferentieBG_XGB -&gt; collect (typeTekst)<br/>
@@ -1914,16 +1914,16 @@ Teksttypen-&gt;Count( ‘bijlage bij toelichting’ ) &lt;= 1)
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e18</b><br/>
+<tr><td align='left'><b>e18</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format verwijzing naar illustratie</b><br/>
+<td align='left'><b>Format verwijzing naar illustratie</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2012::Besluitgebied_X <br/>
+<tr><td align='left'></td>
+<td align='left'>context IMRO2012::Besluitgebied_X <br/>
 Inv Illustratieverwijzing:
 
 def: namespace : String = self.identificatie.NEN3610ID.namespace<br/>
@@ -1938,16 +1938,16 @@ self.verwijzingNaarTekstInfo.IllustratieReferentie_XGB.verwijzingNaarIllustratie
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e19</b><br/>
+<tr><td align='left'><b>e19</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Attribuut besluitnummer en verwijzingNaarVaststellingsbesluit alleen toegestaan en verplicht planstatus = vastgesteld</b><br/>
+<td align='left'><b>Attribuut besluitnummer en verwijzingNaarVaststellingsbesluit alleen toegestaan en verplicht planstatus = vastgesteld</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Context: IMRO2012::Besluitgebied_X<br/>
+<tr><td align='left'></td>
+<td align='left'>Context: IMRO2012::Besluitgebied_X<br/>
 Inv BesluitnummerVerplichtXGB:<br/>
 if self.planstatusInfo.planstatus = Planstatus::vastgesteld<br/>
  then self.besluitnummer -&gt; notEmpty()and self.verwijzingNaarVaststellingsbesluit -&gt; notEmpty()<br/>
@@ -1956,17 +1956,17 @@ endif
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e20</b><br/>
+<tr><td align='left'><b>e20</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Relatie tussen attribuut beleidsmatigVerantwoordelijkeOverheid en attributen naamOverheid en locatieNaam.</b>
+<td align='left'><b>Relatie tussen attribuut beleidsmatigVerantwoordelijkeOverheid en attributen naamOverheid en locatieNaam.</b>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inv locatieNaamVerplicht_naamOverheid:
+<tr><td align='left'></td>
+<td align='left'>Inv locatieNaamVerplicht_naamOverheid:
 
 */gemeente/*<br/>
 */naamOverheid 1 maal/*<br/>
@@ -1992,20 +1992,20 @@ self.locatieNaam -&gt; notEmpty()
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Besluitvlak_X</b><br/>
+<tr><td align='left'></td>
+<td align='left'><b>Besluitvlak_X</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e21</b><br/>
+<tr><td align='left'><b>e21</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format voor verwijzing naar tekst</b><br/>
+<td align='left'><b>Format voor verwijzing naar tekst</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Context: IMRO2012::Besluitvlak_X
+<tr><td align='left'></td>
+<td align='left'>Context: IMRO2012::Besluitvlak_X
 
 Inv TypeTekstEnBestandsnaam_XGB:
 
@@ -2075,104 +2075,104 @@ or<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Besluitsubvlak_X</b><br/>
+<tr><td align='left'></td>
+<td align='left'><b>Besluitsubvlak_X</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e22</b><br/>
+<tr><td align='left'><b>e22</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Format voor verwijzing naar tekst</b><br/>
+<td align='left'><b>Format voor verwijzing naar tekst</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Context: IMRO2012::Besluitsubvlak_X
+<tr><td align='left'></td>
+<td align='left'>Context: IMRO2012::Besluitsubvlak_X
 
 rest gelijk aan Besluitvlak_X
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Algemene test regels voor verwijzingen</b><br/>
+<tr><td align='left'></td>
+<td align='left'><b>Algemene test regels voor verwijzingen</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e23</b><br/>
+<tr><td align='left'><b>e23</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Besluitgebied </b><b>verwijst naar een bestaand plangebied id</b><br/>
+<td align='left'><b>Besluitgebied </b><b>verwijst naar een bestaand plangebied id</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Geen OCL constraint
+<tr><td align='left'></td>
+<td align='left'>Geen OCL constraint
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e24</b><br/>
+<tr><td align='left'><b>e24</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Besluitvlak verwijst naar een bestaand plangebied id</b><br/>
+<td align='left'><b>Besluitvlak verwijst naar een bestaand plangebied id</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Geen OCL constraint
+<tr><td align='left'></td>
+<td align='left'>Geen OCL constraint
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e25</b><br/>
+<tr><td align='left'><b>e25</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Besluitsubvlak verwijst naar een bestaand plangebied id</b><br/>
+<td align='left'><b>Besluitsubvlak verwijst naar een bestaand plangebied id</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Geen OCL constraint
+<tr><td align='left'></td>
+<td align='left'>Geen OCL constraint
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e26</b><br/>
+<tr><td align='left'><b>e26</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Besluitsubvlak verwijst naar een bestaand Besluitvlak id</b><br/>
+<td align='left'><b>Besluitsubvlak verwijst naar een bestaand Besluitvlak id</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Geen OCL constraint
+<tr><td align='left'></td>
+<td align='left'>Geen OCL constraint
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e27</b><br/>
+<tr><td align='left'><b>e27</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Besluitsubvlak verwijst naar een bestaand Besluitsubvlak id</b><br/>
+<td align='left'><b>Besluitsubvlak verwijst naar een bestaand Besluitsubvlak id</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Geen OCL constraint
+<tr><td align='left'></td>
+<td align='left'>Geen OCL constraint
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>e28</b><br/>
+<tr><td align='left'><b>e28</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Besluitsubvlak verwijst naar besluitvlak of Besluitsubvlak</b><br/>
+<td align='left'><b>Besluitsubvlak verwijst naar besluitvlak of Besluitsubvlak</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Context: IMRO2012::Besluitsubvlak_P<br/>
+<tr><td align='left'></td>
+<td align='left'>Context: IMRO2012::Besluitsubvlak_P<br/>
 Context: IMRO2012::Besluitsubvlak_A<br/>
 Context: IMRO2012::Besluitsubvlak_X
 
@@ -2185,27 +2185,27 @@ not(self.besluitvlak -&gt; notEmpty() and self.besluitsubvlak -&gt; notEmpty())
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><b>MetadataIMRObestand</b>
+<tr><td align='left' colspan='2'><b>MetadataIMRObestand</b>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>f1</b><br/>
+<tr><td align='left'><b>f1</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Attribuut codeReferentiesysteem heeft altijd waarde 28992 (Rijksdriehoekstelsel)</b><br/>
+<td align='left'><b>Attribuut codeReferentiesysteem heeft altijd waarde 28992 (Rijksdriehoekstelsel)</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>context IMRO2013:: MetadataIMRObestand
+<tr><td align='left'></td>
+<td align='left'>context IMRO2013:: MetadataIMRObestand
 
 inv Rijksdriehoekstelsel: self.codeReferentiesysteem = ‘28992’
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
 </tbody>
 </table>

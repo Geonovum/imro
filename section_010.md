@@ -8,127 +8,69 @@ Voor de waarden van de attributen zijn verschillende datatypen te onderscheiden.
 <colgroup><col id='col1' style='width: 28.48101265822785%;'>
 <col id='col2' style='width: 71.51898734177216%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Datatype</span><br/>
+<thead valign='top'><tr><th align='left'><span style='color: #auto;'>Datatype</span><br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Omschrijving</span><br/>
+<th align='left'><span style='color: #auto;'>Omschrijving</span><br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>        Standaard
-
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Characterstring, Integer, etc.
-
-</td>
+<tbody valign='top'><tr><td align='left'>Standaard</td>
+<td align='left'>Characterstring, Integer, etc.</td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>        ScopedName
-
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'>ScopedName</td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Geometrie
-
-</td>
+<tr><td align='left' colspan='2'>Geometrie</td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>        GM_Point
-
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Punt object
-
-</td>
+<tr><td align='left'>GM_Point</td>
+<td align='left'>Punt object</td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>        GM_Curve
-
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Lijn object
-
-</td>
+<tr><td align='left'>GM_Curve</td>
+<td align='left'>Lijn object</td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>        GM_Surface
-
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Vlak object
-
-</td>
+<tr><td align='left'>GM_Surface</td>
+<td align='left'>Vlak object</td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>        GM_MultiPoint
-
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Meerdere punten in één geometrie
-
-</td>
+<tr><td align='left'>GM_MultiPoint</td>
+<td align='left'>Meerdere punten in één geometrie</td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>        GM_MultiCurve
-
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Meerdere lijnen in één geometrie
-
-</td>
+<tr><td align='left'>GM_MultiCurve</td>
+<td align='left'>Meerdere lijnen in één geometrie</td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>        GM_MultiSurface
-
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Meerdere vlakken in één geometrie
-
-</td>
+<tr><td align='left'>GM_MultiSurface</td>
+<td align='left'>Meerdere vlakken in één geometrie</td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Domeinlijsten
-
-</td>
+<tr><td align='left' colspan='2'>Domeinlijsten</td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>        &lt;&lt;enumeration&gt;&gt;
-
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Opsommend limitatief.
-
-</td>
+<tr><td align='left'>&lt;&lt;enumeration&gt;&gt;</td>
+<td align='left'>Opsommend limitatief.</td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>        &lt;&lt;CodeList&gt;&gt;
-
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Opsommend uitbreidbaar.
-
-</td>
+<tr><td align='left'>&lt;&lt;CodeList&gt;&gt;</td>
+<td align='left'>Opsommend uitbreidbaar.</td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Stereotypen
-
-</td>
+<tr><td align='left' colspan='2'>Stereotypen</td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>        &lt;&lt;featureType&gt;&gt;
+<tr><td align='left'>&lt;&lt;featureType&gt;&gt;</td>
+<td align='left'>geo-object [NEN-EN-ISO 19136]. Objecttype gebruikt voor het
 
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>geo-object [NEN-EN-ISO 19136]. Objecttype gebruikt voor het
-
-representeren van geo-informatie
-
-</td>
+representeren van geo-informatie</td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>        &lt;&lt;dataType&gt;&gt;
-
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>gestructureerd datatype zonder identiteit<br/>
+<tr><td align='left'>&lt;&lt;dataType&gt;&gt;</td>
+<td align='left'>gestructureerd datatype zonder identiteit<br/>
 [ISO/TS 19103:2005]<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>        &lt;&lt;union&gt;&gt;
-
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>gestructureerd datatype zonder identiteit waarvan precies één van de<br/>
+<tr><td align='left'>&lt;&lt;union&gt;&gt;</td>
+<td align='left'>gestructureerd datatype zonder identiteit waarvan precies één van de<br/>
 eigenschappen aanwezig is in elke instantie
 
-[ISO/TS 19103:2005]
-
-</td>
+[ISO/TS 19103:2005]</td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>        &lt;&lt;identificatie&gt;&gt; 
-
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>attribuut voor unieke identificatie volgens NEN 3610
-
-</td>
+<tr><td align='left'>&lt;&lt;identificatie&gt;&gt; </td>
+<td align='left'>attribuut voor unieke identificatie volgens NEN 3610</td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
 </tr>
 </tbody>
 </table>
@@ -167,78 +109,78 @@ Bron: SVBP2012.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt;enumeration&gt;&gt;<br/>
 Bestemmingshoofdgroep_E<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>agrarisch<br/>
+<tbody valign='top'><tr><td align='left'>agrarisch<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>agrarisch met waarden<br/>
+<tr><td align='left'>agrarisch met waarden<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bedrijf<br/>
+<tr><td align='left'>bedrijf<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bedrijventerrein<br/>
+<tr><td align='left'>bedrijventerrein<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bos<br/>
+<tr><td align='left'>bos<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>centrum<br/>
+<tr><td align='left'>centrum<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>cultuur en ontspanning<br/>
+<tr><td align='left'>cultuur en ontspanning<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>detailhandel<br/>
+<tr><td align='left'>detailhandel<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>dienstverlening<br/>
+<tr><td align='left'>dienstverlening<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>gemengd<br/>
+<tr><td align='left'>gemengd<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>groen<br/>
+<tr><td align='left'>groen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>horeca<br/>
+<tr><td align='left'>horeca<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>kantoor<br/>
+<tr><td align='left'>kantoor<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maatschappelijk<br/>
+<tr><td align='left'>maatschappelijk<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>natuur<br/>
+<tr><td align='left'>natuur<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>overig<br/>
+<tr><td align='left'>overig<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>recreatie<br/>
+<tr><td align='left'>recreatie<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>sport<br/>
+<tr><td align='left'>sport<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>tuin<br/>
+<tr><td align='left'>tuin<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verkeer<br/>
+<tr><td align='left'>verkeer<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>water<br/>
+<tr><td align='left'>water<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>wonen<br/>
+<tr><td align='left'>wonen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>woongebied<br/>
+<tr><td align='left'>woongebied<br/>
 </td>
 </tr>
 </tbody>
@@ -251,18 +193,18 @@ Bron: SVBP2012.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt;enumeration&gt;&gt;<br/>
 Bestemmingshoofdgroep_D<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>leiding<br/>
+<tbody valign='top'><tr><td align='left'>leiding<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>waarde<br/>
+<tr><td align='left'>waarde<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>waterstaat<br/>
+<tr><td align='left'>waterstaat<br/>
 </td>
 </tr>
 </tbody>
@@ -274,12 +216,12 @@ Definitie: Samenvoeging van Bestemmingshoofdgroep_E en Bestemmingshoofdgroep_D i
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt;enumeration&gt;&gt;<br/>
 Bestemmingshoofdgroep_ED<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Voor inhoud zie Bestemmingshoofdgroep_E en Bestemmingshoofdgroep_D<br/>
+<tbody valign='top'><tr><td align='left'>Voor inhoud zie Bestemmingshoofdgroep_E en Bestemmingshoofdgroep_D<br/>
 </td>
 </tr>
 </tbody>
@@ -293,88 +235,88 @@ Opmerking: Een aantal waarden zijn conform een bepaald format vrij intevullen. D
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt;enumeration&gt;&gt;<br/>
 &lt;&lt;CodeList&gt;&gt;<br/>
 Bouwaanduidingen<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>aaneengebouwd<br/>
+<tbody valign='top'><tr><td align='left'>aaneengebouwd<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>antennemast<br/>
+<tr><td align='left'>antennemast<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bijgebouwen<br/>
+<tr><td align='left'>bijgebouwen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>gestapeld<br/>
+<tr><td align='left'>gestapeld<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>kap<br/>
+<tr><td align='left'>kap<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>karakteristiek<br/>
+<tr><td align='left'>karakteristiek<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>nokrichting<br/>
+<tr><td align='left'>nokrichting<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>onderdoorgang<br/>
+<tr><td align='left'>onderdoorgang<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>plat dak<br/>
+<tr><td align='left'>plat dak<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>twee-aaneen<br/>
+<tr><td align='left'>twee-aaneen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vrijstaand<br/>
+<tr><td align='left'>vrijstaand<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Bouwaanduidingen voor uitgesloten aspecten:</i><br/>
+<tr><td align='left'><i>Bouwaanduidingen voor uitgesloten aspecten:</i><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>aaneengebouwd uitgesloten<br/>
+<tr><td align='left'>aaneengebouwd uitgesloten<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>antennemast uitgesloten<br/>
+<tr><td align='left'>antennemast uitgesloten<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bijgebouwen uitgesloten<br/>
+<tr><td align='left'>bijgebouwen uitgesloten<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>gestapeld uitgesloten<br/>
+<tr><td align='left'>gestapeld uitgesloten<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>kap uitgesloten<br/>
+<tr><td align='left'>kap uitgesloten<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>karakteristiek uitgesloten<br/>
+<tr><td align='left'>karakteristiek uitgesloten<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>nokrichting uitgesloten<br/>
+<tr><td align='left'>nokrichting uitgesloten<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>onderdoorgang uitgesloten<br/>
+<tr><td align='left'>onderdoorgang uitgesloten<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>plat dak uitgesloten<br/>
+<tr><td align='left'>plat dak uitgesloten<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>twee-aaneen uitgesloten<br/>
+<tr><td align='left'>twee-aaneen uitgesloten<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vrijstaand uitgesloten<br/>
+<tr><td align='left'>vrijstaand uitgesloten<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Bouwaanduidingen die aangevuld moeten worden in het waardeveld van het attribuut naam:</i><br/>
+<tr><td align='left'><i>Bouwaanduidingen die aangevuld moeten worden in het waardeveld van het attribuut naam:</i><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>specifieke bouwaanduiding - ..<br/>
+<tr><td align='left'>specifieke bouwaanduiding - ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>specifieke bouwaanduiding uitgesloten - ..<br/>
+<tr><td align='left'>specifieke bouwaanduiding uitgesloten - ..<br/>
 </td>
 </tr>
 </tbody>
@@ -387,49 +329,49 @@ Bron: SVBP2012.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt;enumeration&gt;&gt;<br/>
 &lt;&lt;CodeList&gt;&gt;<br/>
 Figuren<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>as van de weg<br/>
+<tbody valign='top'><tr><td align='left'>as van de weg<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>dwarsprofiel<br/>
+<tr><td align='left'>dwarsprofiel<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>gevellijn<br/>
+<tr><td align='left'>gevellijn<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>hartlijn leiding - brandstof<br/>
+<tr><td align='left'>hartlijn leiding - brandstof<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>hartlijn leiding - gas<br/>
+<tr><td align='left'>hartlijn leiding - gas<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>hartlijn leiding - hoogspanning<br/>
+<tr><td align='left'>hartlijn leiding - hoogspanning<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>hartlijn leiding - hoogspanningsverbinding<br/>
+<tr><td align='left'>hartlijn leiding - hoogspanningsverbinding<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>hartlijn leiding - olie<br/>
+<tr><td align='left'>hartlijn leiding - olie<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>hartlijn leiding - riool <br/>
+<tr><td align='left'>hartlijn leiding - riool <br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>hartlijn leiding - water <br/>
+<tr><td align='left'>hartlijn leiding - water <br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>relatie<br/>
+<tr><td align='left'>relatie<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Figuur waarvan de naam aangevuld moeten worden in het waardeveld van het attribuut naam:</i><br/>
+<tr><td align='left'><i>Figuur waarvan de naam aangevuld moeten worden in het waardeveld van het attribuut naam:</i><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>hartlijn leiding - ..<br/>
+<tr><td align='left'>hartlijn leiding - ..<br/>
 </td>
 </tr>
 </tbody>
@@ -442,280 +384,280 @@ Bron: SVBP2012.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt;enumeration&gt;&gt;<br/>
 &lt;&lt;CodeList&gt;&gt;<br/>
 Gebiedsaanduidingen<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>geluidzone<br/>
+<tbody valign='top'><tr><td align='left'>geluidzone<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>geluidzone - ..<br/>
+<tr><td align='left'>geluidzone - ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>geluidzone - industrie<br/>
+<tr><td align='left'>geluidzone - industrie<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>geluidzone - industrie ..<br/>
+<tr><td align='left'>geluidzone - industrie ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>geluidzone - spoor<br/>
+<tr><td align='left'>geluidzone - spoor<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>geluidzone - spoor ..<br/>
+<tr><td align='left'>geluidzone - spoor ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>geluidzone - weg<br/>
+<tr><td align='left'>geluidzone - weg<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>geluidzone - weg ..<br/>
+<tr><td align='left'>geluidzone - weg ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>luchtvaartverkeerzone<br/>
+<tr><td align='left'>luchtvaartverkeerzone<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>luchtvaartverkeerzone - ..<br/>
+<tr><td align='left'>luchtvaartverkeerzone - ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>milieuzone<br/>
+<tr><td align='left'>milieuzone<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>milieuzone - ..<br/>
+<tr><td align='left'>milieuzone - ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>milieuzone - bodembeschermingsgebied<br/>
+<tr><td align='left'>milieuzone - bodembeschermingsgebied<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>milieuzone - bodembeschermingsgebied ..<br/>
+<tr><td align='left'>milieuzone - bodembeschermingsgebied ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>milieuzone - geluidsgevoelige functie<br/>
+<tr><td align='left'>milieuzone - geluidsgevoelige functie<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>milieuzone - geluidsgevoelige functie ..<br/>
+<tr><td align='left'>milieuzone - geluidsgevoelige functie ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>milieuzone - geurzone<br/>
+<tr><td align='left'>milieuzone - geurzone<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>milieuzone - geurzone ..<br/>
+<tr><td align='left'>milieuzone - geurzone ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>milieuzone - grondwaterbeschermingsgebied<br/>
+<tr><td align='left'>milieuzone - grondwaterbeschermingsgebied<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>milieuzone - grondwaterbeschermingsgebied ..<br/>
+<tr><td align='left'>milieuzone - grondwaterbeschermingsgebied ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>milieuzone - stiltegebied<br/>
+<tr><td align='left'>milieuzone - stiltegebied<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>milieuzone - stiltegebied ..<br/>
+<tr><td align='left'>milieuzone - stiltegebied ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>milieuzone - waterwingebied<br/>
+<tr><td align='left'>milieuzone - waterwingebied<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>milieuzone - waterwingebied ..<br/>
+<tr><td align='left'>milieuzone - waterwingebied ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>milieuzone - zones wet milieubeheer<br/>
+<tr><td align='left'>milieuzone - zones wet milieubeheer<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>milieuzone - zones wet milieubeheer ..<br/>
+<tr><td align='left'>milieuzone - zones wet milieubeheer ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>overige zone<br/>
+<tr><td align='left'>overige zone<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>overige zone - ..<br/>
+<tr><td align='left'>overige zone - ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>reconstructiewetzone<br/>
+<tr><td align='left'>reconstructiewetzone<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>reconstructiewetzone - ..<br/>
+<tr><td align='left'>reconstructiewetzone - ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>reconstructiewetzone - extensiveringsgebied<br/>
+<tr><td align='left'>reconstructiewetzone - extensiveringsgebied<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>reconstructiewetzone - extensiveringsgebied ..<br/>
+<tr><td align='left'>reconstructiewetzone - extensiveringsgebied ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>reconstructiewetzone - landbouwontwikkelingsgebied<br/>
+<tr><td align='left'>reconstructiewetzone - landbouwontwikkelingsgebied<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>reconstructiewetzone - landbouwontwikkelingsgebied ..<br/>
+<tr><td align='left'>reconstructiewetzone - landbouwontwikkelingsgebied ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>reconstructiewetzone - verwevingsgebied<br/>
+<tr><td align='left'>reconstructiewetzone - verwevingsgebied<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>reconstructiewetzone - verwevingsgebied ..<br/>
+<tr><td align='left'>reconstructiewetzone - verwevingsgebied ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>veiligheidszone<br/>
+<tr><td align='left'>veiligheidszone<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>veiligheidszone - ..<br/>
+<tr><td align='left'>veiligheidszone - ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>veiligheidszone - bevi<br/>
+<tr><td align='left'>veiligheidszone - bevi<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>veiligheidszone - bevi ..<br/>
+<tr><td align='left'>veiligheidszone - bevi ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>veiligheidszone - leiding<br/>
+<tr><td align='left'>veiligheidszone - leiding<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>veiligheidszone - leiding ..<br/>
+<tr><td align='left'>veiligheidszone - leiding ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>veiligheidszone - lpg<br/>
+<tr><td align='left'>veiligheidszone - lpg<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>veiligheidszone - lpg ..<br/>
+<tr><td align='left'>veiligheidszone - lpg ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>veiligheidszone - munitie<br/>
+<tr><td align='left'>veiligheidszone - munitie<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>veiligheidszone - munitie ..<br/>
+<tr><td align='left'>veiligheidszone - munitie ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>veiligheidszone - vervoer gevaarlijke stoffen<br/>
+<tr><td align='left'>veiligheidszone - vervoer gevaarlijke stoffen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>veiligheidszone - vervoer gevaarlijke stoffen ..<br/>
+<tr><td align='left'>veiligheidszone - vervoer gevaarlijke stoffen ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>veiligheidszone - vuurwerk<br/>
+<tr><td align='left'>veiligheidszone - vuurwerk<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>veiligheidszone - vuurwerk ..<br/>
+<tr><td align='left'>veiligheidszone - vuurwerk ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>veiligheidszone - windturbine<br/>
+<tr><td align='left'>veiligheidszone - windturbine<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>veiligheidszone - windturbine ..<br/>
+<tr><td align='left'>veiligheidszone - windturbine ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vrijwaringszone<br/>
+<tr><td align='left'>vrijwaringszone<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vrijwaringszone - ..<br/>
+<tr><td align='left'>vrijwaringszone - ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vrijwaringszone - buisleidingenstraat<br/>
+<tr><td align='left'>vrijwaringszone - buisleidingenstraat<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vrijwaringszone - buisleidingenstraat ..<br/>
+<tr><td align='left'>vrijwaringszone - buisleidingenstraat ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vrijwaringszone - dijk<br/>
+<tr><td align='left'>vrijwaringszone - dijk<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vrijwaringszone - dijk ..<br/>
+<tr><td align='left'>vrijwaringszone - dijk ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vrijwaringszone - duin<br/>
+<tr><td align='left'>vrijwaringszone - duin<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vrijwaringszone - duin ..<br/>
+<tr><td align='left'>vrijwaringszone - duin ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vrijwaringszone - molenbiotoop<br/>
+<tr><td align='left'>vrijwaringszone - molenbiotoop<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vrijwaringszone - molenbiotoop ..<br/>
+<tr><td align='left'>vrijwaringszone - molenbiotoop ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vrijwaringszone - radar<br/>
+<tr><td align='left'>vrijwaringszone - radar<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vrijwaringszone - radar ..<br/>
+<tr><td align='left'>vrijwaringszone - radar ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vrijwaringszone - spoor<br/>
+<tr><td align='left'>vrijwaringszone - spoor<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vrijwaringszone - spoor ..<br/>
+<tr><td align='left'>vrijwaringszone - spoor ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vrijwaringszone - straalpad<br/>
+<tr><td align='left'>vrijwaringszone - straalpad<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vrijwaringszone - straalpad ..<br/>
+<tr><td align='left'>vrijwaringszone - straalpad ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vrijwaringszone - vaarweg<br/>
+<tr><td align='left'>vrijwaringszone - vaarweg<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vrijwaringszone - vaarweg ..<br/>
+<tr><td align='left'>vrijwaringszone - vaarweg ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vrijwaringszone - weg<br/>
+<tr><td align='left'>vrijwaringszone - weg<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vrijwaringszone – weg ..<br/>
+<tr><td align='left'>vrijwaringszone – weg ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>wetgevingzone<br/>
+<tr><td align='left'>wetgevingzone<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>wetgevingzone - ..<br/>
+<tr><td align='left'>wetgevingzone - ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>wetgevingzone - moderniseringsgebied<br/>
+<tr><td align='left'>wetgevingzone - moderniseringsgebied<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>wetgevingzone - moderniseringsgebied ..<br/>
+<tr><td align='left'>wetgevingzone - moderniseringsgebied ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>wetgevingzone - afwijkingsgebied<br/>
+<tr><td align='left'>wetgevingzone - afwijkingsgebied<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>wetgevingzone - afwijkingsgebied ..<br/>
+<tr><td align='left'>wetgevingzone - afwijkingsgebied ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>wetgevingzone - verwezenlijking in de naaste toekomst<br/>
+<tr><td align='left'>wetgevingzone - verwezenlijking in de naaste toekomst<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>wetgevingzone - verwezenlijking in de naaste toekomst ..<br/>
+<tr><td align='left'>wetgevingzone - verwezenlijking in de naaste toekomst ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>wetgevingzone - wijzigingsgebied<br/>
+<tr><td align='left'>wetgevingzone - wijzigingsgebied<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>wetgevingzone - wijzigingsgebied ..<br/>
+<tr><td align='left'>wetgevingzone - wijzigingsgebied ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>wetgevingzone – wet geluidhinder<br/>
+<tr><td align='left'>wetgevingzone – wet geluidhinder<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>wetgevingzone – wet geluidhinder ..<br/>
+<tr><td align='left'>wetgevingzone – wet geluidhinder ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>wetgevingzone – natura 2000 <br/>
+<tr><td align='left'>wetgevingzone – natura 2000 <br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>wetgevingzone – natura 2000 ..<br/>
+<tr><td align='left'>wetgevingzone – natura 2000 ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>wetgevingzone – tracéwet<br/>
+<tr><td align='left'>wetgevingzone – tracéwet<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>wetgevingzone – tracéwet ..<br/>
+<tr><td align='left'>wetgevingzone – tracéwet ..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>wetgevingzone – waterwet<br/>
+<tr><td align='left'>wetgevingzone – waterwet<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>wetgevingzone – waterwet ..<br/>
+<tr><td align='left'>wetgevingzone – waterwet ..<br/>
 </td>
 </tr>
 </tbody>
@@ -728,33 +670,33 @@ Bron: SVBP2012.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt;enumeration&gt;&gt;<br/>
 Gebiedsaanduidinggroep<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>geluidzone<br/>
+<tbody valign='top'><tr><td align='left'>geluidzone<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>luchtvaartverkeerzone<br/>
+<tr><td align='left'>luchtvaartverkeerzone<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>milieuzone<br/>
+<tr><td align='left'>milieuzone<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>reconstructiewetzone<br/>
+<tr><td align='left'>reconstructiewetzone<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>veiligheidszone<br/>
+<tr><td align='left'>veiligheidszone<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vrijwaringszone<br/>
+<tr><td align='left'>vrijwaringszone<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>wetgevingzone<br/>
+<tr><td align='left'>wetgevingzone<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>overige zone<br/>
+<tr><td align='left'>overige zone<br/>
 </td>
 </tr>
 </tbody>
@@ -766,12 +708,12 @@ Definitie: Manier waarop de geometrie ruimtelijk geïnterpreteerd moet worden.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt; enumeration&gt;&gt;<br/>
 Idealisatie_1<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>exact<br/>
+<tbody valign='top'><tr><td align='left'>exact<br/>
 </td>
 </tr>
 </tbody>
@@ -783,15 +725,15 @@ Definitie: Manier waarop de geometrie ruimtelijk geïnterpreteerd moet worden.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'> &lt;&lt; enumeration&gt;&gt;<br/>
 Idealisatie_2<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>exact<br/>
+<tbody valign='top'><tr><td align='left'>exact<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>indicatief<br/>
+<tr><td align='left'>indicatief<br/>
 </td>
 </tr>
 </tbody>
@@ -803,18 +745,18 @@ Definitie: Manier waarop de geometrie ruimtelijk geïnterpreteerd moet worden.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt; enumeration&gt;&gt;<br/>
 Idealisatie_3<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>exact<br/>
+<tbody valign='top'><tr><td align='left'>exact<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>indicatief<br/>
+<tr><td align='left'>indicatief<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>cartografisch figuur<br/>
+<tr><td align='left'>cartografisch figuur<br/>
 </td>
 </tr>
 </tbody>
@@ -826,15 +768,15 @@ Definitie: Verbeelding.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'> &lt;&lt; enumeration&gt;&gt;<br/>
 Illustratie<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>afbeelding<br/>
+<tbody valign='top'><tr><td align='left'>afbeelding<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>kaart<br/>
+<tr><td align='left'>kaart<br/>
 </td>
 </tr>
 </tbody>
@@ -846,12 +788,12 @@ Definitie: Verbeelding.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt;enumeration&gt;&gt;<br/>
 Illustratie_BP<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>afbeelding<br/>
+<tbody valign='top'><tr><td align='left'>afbeelding<br/>
 </td>
 </tr>
 </tbody>
@@ -863,12 +805,12 @@ Definitie: Verbeelding.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'> &lt;&lt; enumeration&gt;&gt;<br/>
 Illustratie_XGB<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>kaart<br/>
+<tbody valign='top'><tr><td align='left'>kaart<br/>
 </td>
 </tr>
 </tbody>
@@ -880,40 +822,40 @@ Definitie: Juridisch instrument binnen de Wro, Wabo en Chw.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'> &lt;&lt; enumeration&gt;&gt;<br/>
 &lt;&lt;CodeList&gt;&gt;<br/>
 Instrument_GSV<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>beheersverordening<br/>
+<tbody valign='top'><tr><td align='left'>beheersverordening<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bestemmingsplan<br/>
+<tr><td align='left'>bestemmingsplan<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>coördinatieregeling<br/>
+<tr><td align='left'>coördinatieregeling<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>inpassingsplan<br/>
+<tr><td align='left'>inpassingsplan<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>omgevingsvergunning <br/>
+<tr><td align='left'>omgevingsvergunning <br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>proactieve aanwijzing<br/>
+<tr><td align='left'>proactieve aanwijzing<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>reactieve aanwijzing<br/>
+<tr><td align='left'>reactieve aanwijzing<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verordening<br/>
+<tr><td align='left'>verordening<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>voorbereidingsbesluit<br/>
+<tr><td align='left'>voorbereidingsbesluit<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>zienswijze<br/>
+<tr><td align='left'>zienswijze<br/>
 </td>
 </tr>
 </tbody>
@@ -925,37 +867,37 @@ Definitie: Juridisch instrument binnen de Wro.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'> &lt;&lt; enumeration&gt;&gt;<br/>
 &lt;&lt;CodeList&gt;&gt;<br/>
 Instrument_PSV<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bestuurlijke afspraken (convenanten)<br/>
+<tbody valign='top'><tr><td align='left'>bestuurlijke afspraken (convenanten)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>coördinatieregeling<br/>
+<tr><td align='left'>coördinatieregeling<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>inpassingsplan<br/>
+<tr><td align='left'>inpassingsplan<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>omgevingsvergunning <br/>
+<tr><td align='left'>omgevingsvergunning <br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>proactieve aanwijzing<br/>
+<tr><td align='left'>proactieve aanwijzing<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>reactieve aanwijzing<br/>
+<tr><td align='left'>reactieve aanwijzing<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verordening<br/>
+<tr><td align='left'>verordening<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vooroverleg<br/>
+<tr><td align='left'>vooroverleg<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>zienswijze<br/>
+<tr><td align='left'>zienswijze<br/>
 </td>
 </tr>
 </tbody>
@@ -967,49 +909,49 @@ Definitie: Juridisch instrument binnen de Wro.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'> &lt;&lt; enumeration&gt;&gt;<br/>
 &lt;&lt;CodeList&gt;&gt;<br/>
 Instrument_RSV<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>amvb<br/>
+<tbody valign='top'><tr><td align='left'>amvb<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>beheersverordening<br/>
+<tr><td align='left'>beheersverordening<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bestemmingsplan<br/>
+<tr><td align='left'>bestemmingsplan<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bestuurlijke afspraken<br/>
+<tr><td align='left'>bestuurlijke afspraken<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>coördinatieregeling<br/>
+<tr><td align='left'>coördinatieregeling<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>inpassingsplan<br/>
+<tr><td align='left'>inpassingsplan<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>omgevingsvergunning <br/>
+<tr><td align='left'>omgevingsvergunning <br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>proactieve aanwijzing<br/>
+<tr><td align='left'>proactieve aanwijzing<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>reactieve aanwijzing<br/>
+<tr><td align='left'>reactieve aanwijzing<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verordening<br/>
+<tr><td align='left'>verordening<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>voorbereidingsbesluit<br/>
+<tr><td align='left'>voorbereidingsbesluit<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vooroverleg<br/>
+<tr><td align='left'>vooroverleg<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>zienswijze<br/>
+<tr><td align='left'>zienswijze<br/>
 </td>
 </tr>
 </tbody>
@@ -1021,51 +963,51 @@ Definitie: Instantie, overheid of maatschappelijke partij tot welke het in de be
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'> &lt;&lt; enumeration&gt;&gt;<br/>
 Normadressant_AMB<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bevoegd gezag<br/>
+<tbody valign='top'><tr><td align='left'>bevoegd gezag<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>burgemeester en wethouders<br/>
+<tr><td align='left'>burgemeester en wethouders<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>burgers<br/>
+<tr><td align='left'>burgers<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>gedeputeerde staten<br/>
+<tr><td align='left'>gedeputeerde staten<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>gemeentelijke bestuursorganen<br/>
+<tr><td align='left'>gemeentelijke bestuursorganen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>gemeenteraad<br/>
+<tr><td align='left'>gemeenteraad<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>provinciale bestuursorganen<br/>
+<tr><td align='left'>provinciale bestuursorganen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>provinciale staten<br/>
+<tr><td align='left'>provinciale staten<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>regionale bestuursorganen<br/>
+<tr><td align='left'>regionale bestuursorganen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>onze Minister<br/>
+<tr><td align='left'>onze Minister<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>onze Minister die het mede aangaat<br/>
+<tr><td align='left'>onze Minister die het mede aangaat<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>rijksbestuursorganen<br/>
+<tr><td align='left'>rijksbestuursorganen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>waterschappen<br/>
+<tr><td align='left'>waterschappen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>niet nader aangeduid<br/>
+<tr><td align='left'>niet nader aangeduid<br/>
 </td>
 </tr>
 </tbody>
@@ -1077,30 +1019,30 @@ Definitie: Instantie, overheid of maatschappelijke partij tot welke het in de be
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'> &lt;&lt; enumeration&gt;&gt;<br/>
 Normadressant_PV<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bevoegd gezag<br/>
+<tbody valign='top'><tr><td align='left'>bevoegd gezag<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>burgemeester en wethouders<br/>
+<tr><td align='left'>burgemeester en wethouders<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>gedeputeerde staten<br/>
+<tr><td align='left'>gedeputeerde staten<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>gemeentelijke bestuursorganen<br/>
+<tr><td align='left'>gemeentelijke bestuursorganen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>gemeenteraad<br/>
+<tr><td align='left'>gemeenteraad<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>regionale bestuursorganen<br/>
+<tr><td align='left'>regionale bestuursorganen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>niet nader aangeduid<br/>
+<tr><td align='left'>niet nader aangeduid<br/>
 </td>
 </tr>
 </tbody>
@@ -1112,42 +1054,42 @@ Definitie: Instantie, overheid of maatschappelijke partij tot welke het in de be
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'> &lt;&lt; enumeration&gt;&gt;<br/>
 Normadressant_XGB<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bevoegd gezag<br/>
+<tbody valign='top'><tr><td align='left'>bevoegd gezag<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>burgemeester en wethouders<br/>
+<tr><td align='left'>burgemeester en wethouders<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>burgers<br/>
+<tr><td align='left'>burgers<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>gedeputeerde staten<br/>
+<tr><td align='left'>gedeputeerde staten<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>gemeentelijke bestuursorganen<br/>
+<tr><td align='left'>gemeentelijke bestuursorganen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>gemeenteraad<br/>
+<tr><td align='left'>gemeenteraad<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>provinciale bestuursorganen<br/>
+<tr><td align='left'>provinciale bestuursorganen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>provinciale staten<br/>
+<tr><td align='left'>provinciale staten<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>regionale bestuursorganen <br/>
+<tr><td align='left'>regionale bestuursorganen <br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>rijksbestuursorganen<br/>
+<tr><td align='left'>rijksbestuursorganen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>niet nader aangeduid<br/>
+<tr><td align='left'>niet nader aangeduid<br/>
 </td>
 </tr>
 </tbody>
@@ -1159,268 +1101,268 @@ Definitie: Meetbare parameter.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt;enumeration&gt;&gt;<br/>
 &lt;&lt;CodeList&gt;&gt;<br/>
 OmvangWaarde<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>aantal<br/>
+<tbody valign='top'><tr><td align='left'>aantal<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>aantal bedrijven<br/>
+<tr><td align='left'>aantal bedrijven<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum aantal bedrijven<br/>
+<tr><td align='left'>maximum aantal bedrijven<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum aantal bedrijven<br/>
+<tr><td align='left'>minimum aantal bedrijven<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>aantal bezoekers <br/>
+<tr><td align='left'>aantal bezoekers <br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum aantal bezoekers<br/>
+<tr><td align='left'>maximum aantal bezoekers<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum aantal bezoekers<br/>
+<tr><td align='left'>minimum aantal bezoekers<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>aantal bouwlagen<br/>
+<tr><td align='left'>aantal bouwlagen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum aantal bouwlagen<br/>
+<tr><td align='left'>maximum aantal bouwlagen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum aantal bouwlagen<br/>
+<tr><td align='left'>minimum aantal bouwlagen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>aantal gebouwen<br/>
+<tr><td align='left'>aantal gebouwen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum aantal gebouwen<br/>
+<tr><td align='left'>maximum aantal gebouwen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum aantal gebouwen<br/>
+<tr><td align='left'>minimum aantal gebouwen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>aantal parkeerplaatsen<br/>
+<tr><td align='left'>aantal parkeerplaatsen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum aantal parkeerplaatsen<br/>
+<tr><td align='left'>maximum aantal parkeerplaatsen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum aantal parkeerplaatsen<br/>
+<tr><td align='left'>minimum aantal parkeerplaatsen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>aantal rijstroken<br/>
+<tr><td align='left'>aantal rijstroken<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum aantal rijstroken<br/>
+<tr><td align='left'>maximum aantal rijstroken<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum aantal rijstroken<br/>
+<tr><td align='left'>minimum aantal rijstroken<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>aantal sporen<br/>
+<tr><td align='left'>aantal sporen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum aantal sporen<br/>
+<tr><td align='left'>maximum aantal sporen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum aantal sporen<br/>
+<tr><td align='left'>minimum aantal sporen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>aantal winkels<br/>
+<tr><td align='left'>aantal winkels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum aantal winkels<br/>
+<tr><td align='left'>maximum aantal winkels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum aantal winkels<br/>
+<tr><td align='left'>minimum aantal winkels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>aantal wooneenheden<br/>
+<tr><td align='left'>aantal wooneenheden<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum aantal wooneenheden<br/>
+<tr><td align='left'>maximum aantal wooneenheden<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum aantal wooneenheden<br/>
+<tr><td align='left'>minimum aantal wooneenheden<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maatvoering<br/>
+<tr><td align='left'>maatvoering<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bebouwd oppervlak (m2)<br/>
+<tr><td align='left'>bebouwd oppervlak (m2)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum bebouwd oppervlak (m2)<br/>
+<tr><td align='left'>maximum bebouwd oppervlak (m2)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum bebouwd oppervlak (m2)<br/>
+<tr><td align='left'>minimum bebouwd oppervlak (m2)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>breedte (m)<br/>
+<tr><td align='left'>breedte (m)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum breedte (m)<br/>
+<tr><td align='left'>maximum breedte (m)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum breedte (m)<br/>
+<tr><td align='left'>minimum breedte (m)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>dakhelling (graden)<br/>
+<tr><td align='left'>dakhelling (graden)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum dakhelling (graden)<br/>
+<tr><td align='left'>maximum dakhelling (graden)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum dakhelling (graden)<br/>
+<tr><td align='left'>minimum dakhelling (graden)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>diepte (m)<br/>
+<tr><td align='left'>diepte (m)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum diepte (m)<br/>
+<tr><td align='left'>maximum diepte (m)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum diepte (m)<br/>
+<tr><td align='left'>minimum diepte (m)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>hoogte (m)<br/>
+<tr><td align='left'>hoogte (m)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum hoogte (m)<br/>
+<tr><td align='left'>maximum hoogte (m)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum hoogte (m)<br/>
+<tr><td align='left'>minimum hoogte (m)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bouwhoogte (m)<br/>
+<tr><td align='left'>bouwhoogte (m)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum bouwhoogte (m)<br/>
+<tr><td align='left'>maximum bouwhoogte (m)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum bouwhoogte (m)<br/>
+<tr><td align='left'>minimum bouwhoogte (m)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>goothoogte (m)<br/>
+<tr><td align='left'>goothoogte (m)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum goothoogte (m)<br/>
+<tr><td align='left'>maximum goothoogte (m)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum goothoogte (m)<br/>
+<tr><td align='left'>minimum goothoogte (m)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>hoogteligging vlak (m)<br/>
+<tr><td align='left'>hoogteligging vlak (m)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum hoogteligging vlak (m)<br/>
+<tr><td align='left'>maximum hoogteligging vlak (m)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum hoogteligging vlak (m)<br/>
+<tr><td align='left'>minimum hoogteligging vlak (m)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>lengte (m)<br/>
+<tr><td align='left'>lengte (m)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum lengte (m)<br/>
+<tr><td align='left'>maximum lengte (m)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum lengte (m)<br/>
+<tr><td align='left'>minimum lengte (m)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>oppervlakte (m2)<br/>
+<tr><td align='left'>oppervlakte (m2)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum oppervlakte (m2)<br/>
+<tr><td align='left'>maximum oppervlakte (m2)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum oppervlakte (m2)<br/>
+<tr><td align='left'>minimum oppervlakte (m2)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vloeroppervlakte (m2)<br/>
+<tr><td align='left'>vloeroppervlakte (m2)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vloeroppervlakte, bruto (m2)<br/>
+<tr><td align='left'>vloeroppervlakte, bruto (m2)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vloeroppervlakte, netto (m2)<br/>
+<tr><td align='left'>vloeroppervlakte, netto (m2)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vloeroppervlakte; bvo (m2)<br/>
+<tr><td align='left'>vloeroppervlakte; bvo (m2)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vloeroppervlakte; vvo (m2)<br/>
+<tr><td align='left'>vloeroppervlakte; vvo (m2)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum vloeroppervlakte (m2)<br/>
+<tr><td align='left'>maximum vloeroppervlakte (m2)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum vloeroppervlakte; bruto (m2)<br/>
+<tr><td align='left'>maximum vloeroppervlakte; bruto (m2)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum vloeroppervlakte; netto (m2)<br/>
+<tr><td align='left'>maximum vloeroppervlakte; netto (m2)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum vloeroppervlakte; bvo (m2)<br/>
+<tr><td align='left'>maximum vloeroppervlakte; bvo (m2)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum vloeroppervlakte; vvo (m2)<br/>
+<tr><td align='left'>maximum vloeroppervlakte; vvo (m2)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum vloeroppervlakte (m2)<br/>
+<tr><td align='left'>minimum vloeroppervlakte (m2)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum vloeroppervlakte; bruto (m2)<br/>
+<tr><td align='left'>minimum vloeroppervlakte; bruto (m2)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum vloeroppervlakte; netto (m2)<br/>
+<tr><td align='left'>minimum vloeroppervlakte; netto (m2)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum vloeroppervlakte; bvo (m2)<br/>
+<tr><td align='left'>minimum vloeroppervlakte; bvo (m2)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum vloeroppervlakte; vvo (m2)<br/>
+<tr><td align='left'>minimum vloeroppervlakte; vvo (m2)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>volume (m3)<br/>
+<tr><td align='left'>volume (m3)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum volume (m3)<br/>
+<tr><td align='left'>maximum volume (m3)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum volume (m3)<br/>
+<tr><td align='left'>minimum volume (m3)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bebouwingspercentage (%)<br/>
+<tr><td align='left'>bebouwingspercentage (%)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum bebouwingspercentage (%)<br/>
+<tr><td align='left'>maximum bebouwingspercentage (%)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum bebouwingspercentage (%)<br/>
+<tr><td align='left'>minimum bebouwingspercentage (%)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>aantal aaneen te bouwen wooneenheden<br/>
+<tr><td align='left'>aantal aaneen te bouwen wooneenheden<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum aantal aaneen te bouwen wooneenheden<br/>
+<tr><td align='left'>maximum aantal aaneen te bouwen wooneenheden<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum aantal aaneen te bouwen wooneenheden<br/>
+<tr><td align='left'>minimum aantal aaneen te bouwen wooneenheden<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verticale bouwdiepte (m)<br/>
+<tr><td align='left'>verticale bouwdiepte (m)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maximum verticale bouwdiepte (m)<br/>
+<tr><td align='left'>maximum verticale bouwdiepte (m)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>minimum verticale bouwdiepte (m)<br/>
+<tr><td align='left'>minimum verticale bouwdiepte (m)<br/>
 </td>
 </tr>
 </tbody>
@@ -1434,22 +1376,22 @@ Opmerking: wanneer niet gebruik is gemaakt van een ondergrond uit het domein die
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'> &lt;&lt; enumeration&gt;&gt;<br/>
 &lt;&lt;CodeList&gt;&gt;<br/>
 Ondergronden<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>grootschalige basiskaart (GBK)<br/>
+<tbody valign='top'><tr><td align='left'>grootschalige basiskaart (GBK)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>basisregistratie grootschalige topografie (BGT)<br/>
+<tr><td align='left'>basisregistratie grootschalige topografie (BGT)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>basisregistratie topografie (BRT)<br/>
+<tr><td align='left'>basisregistratie topografie (BRT)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>basisregistratie kadaster (BRK)<br/>
+<tr><td align='left'>basisregistratie kadaster (BRK)<br/>
 </td>
 </tr>
 </tbody>
@@ -1461,21 +1403,21 @@ Definitie: Administratieve overheid.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt;enumeration&gt;&gt;<br/>
 Overheden_BP<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>gemeentelijke overheid<br/>
+<tbody valign='top'><tr><td align='left'>gemeentelijke overheid<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>deelgemeente/stadsdeel<br/>
+<tr><td align='left'>deelgemeente/stadsdeel<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>provinciale overheid<br/>
+<tr><td align='left'>provinciale overheid<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>nationale overheid<br/>
+<tr><td align='left'>nationale overheid<br/>
 </td>
 </tr>
 </tbody>
@@ -1487,15 +1429,15 @@ Definitie: Administratieve overheid.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'> &lt;&lt; enumeration&gt;&gt;<br/>
 Overheden_G<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>gemeentelijke overheid<br/>
+<tbody valign='top'><tr><td align='left'>gemeentelijke overheid<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>deelgemeente/stadsdeel<br/>
+<tr><td align='left'>deelgemeente/stadsdeel<br/>
 </td>
 </tr>
 </tbody>
@@ -1507,12 +1449,12 @@ Definitie: Administratieve overheid.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'> &lt;&lt; enumeration&gt;&gt;<br/>
 Overheden_P<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>provinciale overheid<br/>
+<tbody valign='top'><tr><td align='left'>provinciale overheid<br/>
 </td>
 </tr>
 </tbody>
@@ -1524,12 +1466,12 @@ Definitie: Administratieve overheid.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'> &lt;&lt; enumeration&gt;&gt;<br/>
 Overheden_R<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>nationale overheid<br/>
+<tbody valign='top'><tr><td align='left'>nationale overheid<br/>
 </td>
 </tr>
 </tbody>
@@ -1541,21 +1483,21 @@ Definitie: Administratieve overheid.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'> &lt;&lt; enumeration&gt;&gt;<br/>
 Overheden_XGB<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>gemeentelijke overheid<br/>
+<tbody valign='top'><tr><td align='left'>gemeentelijke overheid<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>deelgemeente/stadsdeel<br/>
+<tr><td align='left'>deelgemeente/stadsdeel<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>provinciale overheid<br/>
+<tr><td align='left'>provinciale overheid<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>nationale overheid<br/>
+<tr><td align='left'>nationale overheid<br/>
 </td>
 </tr>
 </tbody>
@@ -1567,24 +1509,24 @@ Definitie: Status van een ruimtelijk plan.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'> &lt;&lt; enumeration&gt;&gt;<br/>
 Planstatus<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>concept<br/>
+<tbody valign='top'><tr><td align='left'>concept<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>voorontwerp<br/>
+<tr><td align='left'>voorontwerp<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ontwerp<br/>
+<tr><td align='left'>ontwerp<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>vastgesteld<br/>
+<tr><td align='left'>vastgesteld<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>geconsolideerd<br/>
+<tr><td align='left'>geconsolideerd<br/>
 </td>
 </tr>
 </tbody>
@@ -1596,24 +1538,24 @@ Definitie: Benaming van rol van en relatie met een extern plan of besluit.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'> &lt;&lt; enumeration&gt;&gt;<br/>
 RolExternPlan_AMB<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>als mutatie opgenomen<br/>
+<tbody valign='top'><tr><td align='left'>als mutatie opgenomen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ter vervanging van extern plan/besluit<br/>
+<tr><td align='left'>ter vervanging van extern plan/besluit<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>in extern plan/besluit uit te werken<br/>
+<tr><td align='left'>in extern plan/besluit uit te werken<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>informatie in extern plan/besluit<br/>
+<tr><td align='left'>informatie in extern plan/besluit<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ten gevolge van extern plan/besluit<br/>
+<tr><td align='left'>ten gevolge van extern plan/besluit<br/>
 </td>
 </tr>
 </tbody>
@@ -1625,18 +1567,18 @@ Definitie: Benaming van rol van en relatie met een extern plan.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt;enumeration&gt;&gt;<br/>
 RolExternPlan_BP<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>als mutatie opgenomen<br/>
+<tbody valign='top'><tr><td align='left'>als mutatie opgenomen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ter vervanging van extern plan<br/>
+<tr><td align='left'>ter vervanging van extern plan<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ten gevolge van extern plan/besluit<br/>
+<tr><td align='left'>ten gevolge van extern plan/besluit<br/>
 </td>
 </tr>
 </tbody>
@@ -1648,27 +1590,27 @@ Definitie: Benaming van rol van en relatie met een extern plan.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'> &lt;&lt; enumeration&gt;&gt;<br/>
 RolExternPlanPG_SV<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>als mutatie opgenomen<br/>
+<tbody valign='top'><tr><td align='left'>als mutatie opgenomen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ter vervanging van extern plan<br/>
+<tr><td align='left'>ter vervanging van extern plan<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>in extern plan/besluit uit te werken<br/>
+<tr><td align='left'>in extern plan/besluit uit te werken<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>in extern plan/besluit uitgewerkt<br/>
+<tr><td align='left'>in extern plan/besluit uitgewerkt<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>informatie in extern plan/besluit<br/>
+<tr><td align='left'>informatie in extern plan/besluit<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ten gevolge van extern plan/besluit<br/>
+<tr><td align='left'>ten gevolge van extern plan/besluit<br/>
 </td>
 </tr>
 </tbody>
@@ -1680,18 +1622,18 @@ Definitie: Benaming van rol van en relatie met een extern plan.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'> &lt;&lt; enumeration&gt;&gt;<br/>
 RolExternPlan_PV<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>als mutatie opgenomen<br/>
+<tbody valign='top'><tr><td align='left'>als mutatie opgenomen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ter vervanging van extern plan/besluit<br/>
+<tr><td align='left'>ter vervanging van extern plan/besluit<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ten gevolge van extern plan/besluit<br/>
+<tr><td align='left'>ten gevolge van extern plan/besluit<br/>
 </td>
 </tr>
 </tbody>
@@ -1703,21 +1645,21 @@ Definitie: Benaming van rol van en relatie met een extern plan.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'> &lt;&lt; enumeration&gt;&gt;<br/>
 RolExternPlan_SV<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>in extern plan/besluit uit te werken <br/>
+<tbody valign='top'><tr><td align='left'>in extern plan/besluit uit te werken <br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>in extern plan/besluit uitgewerkt<br/>
+<tr><td align='left'>in extern plan/besluit uitgewerkt<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>informatie in extern plan/besluit<br/>
+<tr><td align='left'>informatie in extern plan/besluit<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ten gevolge van extern plan/besluit<br/>
+<tr><td align='left'>ten gevolge van extern plan/besluit<br/>
 </td>
 </tr>
 </tbody>
@@ -1729,24 +1671,24 @@ Definitie: Benaming van rol van en relatie met een extern plan.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'> &lt;&lt; enumeration&gt;&gt;<br/>
 RolExternPlan_XGB<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>als mutatie opgenomen<br/>
+<tbody valign='top'><tr><td align='left'>als mutatie opgenomen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ter vervanging van extern plan/besluit<br/>
+<tr><td align='left'>ter vervanging van extern plan/besluit<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>informatie in extern plan/besluit<br/>
+<tr><td align='left'>informatie in extern plan/besluit<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>in extern plan/besluit uit te werken<br/>
+<tr><td align='left'>in extern plan/besluit uit te werken<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ten gevolge van extern plan/besluit<br/>
+<tr><td align='left'>ten gevolge van extern plan/besluit<br/>
 </td>
 </tr>
 </tbody>
@@ -1758,15 +1700,15 @@ Definitie: Ruimtelijk plan of besluit conform de Wro.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt; enumeration&gt;&gt;<br/>
 <b>RuimtelijkPlanOfBesluit_AMB</b><br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>amvb<br/>
+<tbody valign='top'><tr><td align='left'>amvb<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>regeling<br/>
+<tr><td align='left'>regeling<br/>
 </td>
 </tr>
 </tbody>
@@ -1778,24 +1720,24 @@ Definitie: Ruimtelijk plan of besluit conform de Wro.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt;enumeration&gt;&gt;<br/>
 RuimtelijkPlanOfBesluit_BP<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bestemmingsplan<br/>
+<tbody valign='top'><tr><td align='left'>bestemmingsplan<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>inpassingsplan<br/>
+<tr><td align='left'>inpassingsplan<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>rijksbestemmingsplan<br/>
+<tr><td align='left'>rijksbestemmingsplan<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>uitwerkingsplan <br/>
+<tr><td align='left'>uitwerkingsplan <br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>wijzigingsplan <br/>
+<tr><td align='left'>wijzigingsplan <br/>
 </td>
 </tr>
 </tbody>
@@ -1807,12 +1749,12 @@ Definitie: Ruimtelijk plan of besluit conform de Wro.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt; enumeration&gt;&gt;<br/>
 RuimtelijkPlanOfBesluit_PV<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>provinciale verordening<br/>
+<tbody valign='top'><tr><td align='left'>provinciale verordening<br/>
 </td>
 </tr>
 </tbody>
@@ -1824,12 +1766,12 @@ Definitie: Ruimtelijk plan of besluit conform de Wro.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt; enumeration&gt;&gt;<br/>
 RuimtelijkPlanOfBesluit_SV<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>structuurvisie<br/>
+<tbody valign='top'><tr><td align='left'>structuurvisie<br/>
 </td>
 </tr>
 </tbody>
@@ -1841,30 +1783,30 @@ Definitie: Ruimtelijk plan of besluit conform de Wro.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt; enumeration&gt;&gt;<br/>
 RuimtelijkPlanOfBesluit_XGB<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>aanwijzingsbesluit<br/>
+<tbody valign='top'><tr><td align='left'>aanwijzingsbesluit<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>beheersverordening <br/>
+<tr><td align='left'>beheersverordening <br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>exploitatieplan<br/>
+<tr><td align='left'>exploitatieplan<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>gerechtelijke uitspraak<br/>
+<tr><td align='left'>gerechtelijke uitspraak<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>omgevingsvergunning<span style='background-color: yellow;'> </span><br/>
+<tr><td align='left'>omgevingsvergunning<span style='background-color: yellow;'> </span><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>reactieve aanwijzing<br/>
+<tr><td align='left'>reactieve aanwijzing<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>voorbereidingsbesluit<br/>
+<tr><td align='left'>voorbereidingsbesluit<br/>
 </td>
 </tr>
 </tbody>
@@ -1876,72 +1818,72 @@ Definitie: <span style='color: #000000;'>Objecten waar een plangebied uit is sam
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt; enumeration&gt;&gt;<br/>
 RuimtelijkPlanObject<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bouwaanduiding<br/>
+<tbody valign='top'><tr><td align='left'>bouwaanduiding<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bouwvlak<br/>
+<tr><td align='left'>bouwvlak<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>figuur<br/>
+<tr><td align='left'>figuur<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>functieaanduiding<br/>
+<tr><td align='left'>functieaanduiding<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>gebiedsaanduiding<br/>
+<tr><td align='left'>gebiedsaanduiding<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maatvoering<br/>
+<tr><td align='left'>maatvoering<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>besluitsubvlak_A<br/>
+<tr><td align='left'>besluitsubvlak_A<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>besluitsubvlak_P<br/>
+<tr><td align='left'>besluitsubvlak_P<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>besluitsubvlak_X<br/>
+<tr><td align='left'>besluitsubvlak_X<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>besluitvlak_A<br/>
+<tr><td align='left'>besluitvlak_A<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>besluitvlak_P<br/>
+<tr><td align='left'>besluitvlak_P<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>besluitvlak_X<br/>
+<tr><td align='left'>besluitvlak_X<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>dubbelbestemming<br/>
+<tr><td align='left'>dubbelbestemming<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>enkelbestemming<br/>
+<tr><td align='left'>enkelbestemming<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>structuurvisiecomplex_G<br/>
+<tr><td align='left'>structuurvisiecomplex_G<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>structuurvisiecomplex_P<br/>
+<tr><td align='left'>structuurvisiecomplex_P<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>structuurvisiecomplex_R<br/>
+<tr><td align='left'>structuurvisiecomplex_R<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>structuurvisiegebied_G<br/>
+<tr><td align='left'>structuurvisiegebied_G<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>structuurvisiegebied_P<br/>
+<tr><td align='left'>structuurvisiegebied_P<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>structuurvisiegebied_R<br/>
+<tr><td align='left'>structuurvisiegebied_R<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>structuurvisieverklaring_P<br/>
+<tr><td align='left'>structuurvisieverklaring_P<br/>
 </td>
 </tr>
 </tbody>
@@ -1953,27 +1895,27 @@ Definitie: Soort tekst of tekstdocument in de context van het ruimtelijke plan.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt; enumeration&gt;&gt;<br/>
 TeksttypeBG_AMB<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>besluitdocument<br/>
+<tbody valign='top'><tr><td align='left'>besluitdocument<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>regels<br/>
+<tr><td align='left'>regels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>toelichting<br/>
+<tr><td align='left'>toelichting<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bijlage bij besluitdocument<br/>
+<tr><td align='left'>bijlage bij besluitdocument<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bijlage bij regels<br/>
+<tr><td align='left'>bijlage bij regels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bijlage bij toelichting<br/>
+<tr><td align='left'>bijlage bij toelichting<br/>
 </td>
 </tr>
 </tbody>
@@ -1985,27 +1927,27 @@ Definitie: Soort tekst of tekstdocument in de context van het ruimtelijke plan.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt; enumeration&gt;&gt;<br/>
 Teksttype_AMB<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>besluittekst<br/>
+<tbody valign='top'><tr><td align='left'>besluittekst<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>regels<br/>
+<tr><td align='left'>regels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>toelichting<br/>
+<tr><td align='left'>toelichting<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bijlage bij besluittekst<br/>
+<tr><td align='left'>bijlage bij besluittekst<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bijlage bij regels<br/>
+<tr><td align='left'>bijlage bij regels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bijlage bij toelichting<br/>
+<tr><td align='left'>bijlage bij toelichting<br/>
 </td>
 </tr>
 </tbody>
@@ -2017,27 +1959,27 @@ Definitie: Soort tekst of tekstdocument in de context van het ruimtelijke plan.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt; enumeration&gt;&gt;<br/>
 TeksttypeBG_PV<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>besluitdocument<br/>
+<tbody valign='top'><tr><td align='left'>besluitdocument<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>regels<br/>
+<tr><td align='left'>regels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>toelichting<br/>
+<tr><td align='left'>toelichting<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bijlage bij besluitdocument<br/>
+<tr><td align='left'>bijlage bij besluitdocument<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bijlage bij regels<br/>
+<tr><td align='left'>bijlage bij regels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bijlage bij toelichting<br/>
+<tr><td align='left'>bijlage bij toelichting<br/>
 </td>
 </tr>
 </tbody>
@@ -2049,27 +1991,27 @@ Definitie: Soort tekst of tekstdocument in de context van het ruimtelijke plan.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt; enumeration&gt;&gt;<br/>
 Teksttype_PV<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>regel zonder voorbereidingsbescherming<br/>
+<tbody valign='top'><tr><td align='left'>regel zonder voorbereidingsbescherming<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>regel met voorbereidingsbescherming<br/>
+<tr><td align='left'>regel met voorbereidingsbescherming<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>toelichting<br/>
+<tr><td align='left'>toelichting<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bijlage bij regel zonder voorbereidingsbescherming<br/>
+<tr><td align='left'>bijlage bij regel zonder voorbereidingsbescherming<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bijlage bij regel met voorbereidingsbescherming<br/>
+<tr><td align='left'>bijlage bij regel met voorbereidingsbescherming<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bijlage bij toelichting<br/>
+<tr><td align='left'>bijlage bij toelichting<br/>
 </td>
 </tr>
 </tbody>
@@ -2081,27 +2023,27 @@ Definitie: Soort tekst of tekstdocument in de context van het ruimtelijke plan.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt; enumeration&gt;&gt;<br/>
 TeksttypeBG_XGB<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>besluitdocument<br/>
+<tbody valign='top'><tr><td align='left'>besluitdocument<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>voorschriften/regels<br/>
+<tr><td align='left'>voorschriften/regels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>toelichting<br/>
+<tr><td align='left'>toelichting<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bijlage bij besluitdocument<br/>
+<tr><td align='left'>bijlage bij besluitdocument<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bijlage bij voorschriften/regels<br/>
+<tr><td align='left'>bijlage bij voorschriften/regels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bijlage bij toelichting<br/>
+<tr><td align='left'>bijlage bij toelichting<br/>
 </td>
 </tr>
 </tbody>
@@ -2113,27 +2055,27 @@ Definitie: Soort tekst of tekstdocument in de context van het ruimtelijke plan.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt; enumeration&gt;&gt;<br/>
 Teksttype_XGB<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>besluittekst<br/>
+<tbody valign='top'><tr><td align='left'>besluittekst<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>voorschriften/regels<br/>
+<tr><td align='left'>voorschriften/regels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>toelichting<br/>
+<tr><td align='left'>toelichting<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bijlage bij besluittekst<br/>
+<tr><td align='left'>bijlage bij besluittekst<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bijlage bij voorschriften/regels<br/>
+<tr><td align='left'>bijlage bij voorschriften/regels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bijlage bij toelichting<br/>
+<tr><td align='left'>bijlage bij toelichting<br/>
 </td>
 </tr>
 </tbody>
@@ -2145,21 +2087,21 @@ Definitie: Soort tekst of tekstdocument in de context van het ruimtelijke plan.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt;enumeration&gt;&gt;<br/>
 TeksttypePG_BP<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>regels<br/>
+<tbody valign='top'><tr><td align='left'>regels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>toelichting<br/>
+<tr><td align='left'>toelichting<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bijlage bij regels<br/>
+<tr><td align='left'>bijlage bij regels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bijlage bij toelichting<br/>
+<tr><td align='left'>bijlage bij toelichting<br/>
 </td>
 </tr>
 </tbody>
@@ -2171,12 +2113,12 @@ Definitie: Soort tekst of tekstdocument in de context van het ruimtelijke plan.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt;enumeration&gt;&gt;<br/>
 Teksttype_BP<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>regels<br/>
+<tbody valign='top'><tr><td align='left'>regels<br/>
 </td>
 </tr>
 </tbody>
@@ -2188,18 +2130,18 @@ Definitie: Soort tekst of tekstdocument in de context van het ruimtelijke plan.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'> &lt;&lt; enumeration&gt;&gt;<br/>
 TeksttypePG_SV<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>document<br/>
+<tbody valign='top'><tr><td align='left'>document<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bijlage<br/>
+<tr><td align='left'>bijlage<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>toelichting<br/>
+<tr><td align='left'>toelichting<br/>
 </td>
 </tr>
 </tbody>
@@ -2211,15 +2153,15 @@ Definitie: Soort tekst of tekstdocument in de context van het ruimtelijke plan.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'> &lt;&lt; enumeration&gt;&gt;<br/>
 Teksttype_SV<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>beleid<br/>
+<tbody valign='top'><tr><td align='left'>beleid<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>toelichting<br/>
+<tr><td align='left'>toelichting<br/>
 </td>
 </tr>
 </tbody>
@@ -2231,18 +2173,18 @@ Definitie: Soort tekst of tekstdocument in de context van het ruimtelijke plan.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'> &lt;&lt; enumeration&gt;&gt;<br/>
 Teksttype_PSV<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>beleid<br/>
+<tbody valign='top'><tr><td align='left'>beleid<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>beleid gemandateerd aan GS<br/>
+<tr><td align='left'>beleid gemandateerd aan GS<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>toelichting<br/>
+<tr><td align='left'>toelichting<br/>
 </td>
 </tr>
 </tbody>
@@ -2254,12 +2196,12 @@ Definitie: Soort tekst of tekstdocument in de context van het ruimtelijke plan.
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'> &lt;&lt; enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'> &lt;&lt; enumeration&gt;&gt;<br/>
 TeksttypeV_PSV<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>toelichting<br/>
+<tbody valign='top'><tr><td align='left'>toelichting<br/>
 </td>
 </tr>
 </tbody>

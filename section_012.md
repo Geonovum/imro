@@ -6,81 +6,81 @@ Voor het beschrijven van het model wordt gebruik gemaakt van de grafische modell
 <colgroup><col id='col1' style='width: 40.05955107650023%;'>
 <col id='col2' style='width: 59.940448923499765%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>Begrip Nederlands (Engels)<br/>
+<thead valign='top'><tr><th align='left'>Begrip Nederlands (Engels)<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>UML-notatie<br/>
+<th align='left'>UML-notatie<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Klasse (Class) = verzameling objecten met overeenkomstige eigenschappen (‘kenmerken, associaties en gedrag’).
+<tbody valign='top'><tr><td align='left'>Klasse (Class) = verzameling objecten met overeenkomstige eigenschappen (‘kenmerken, associaties en gedrag’).
 
 Abstracte klasse (abstract class) = klasse zonder objecten.<br/>
 Concrete klasse = klasse met objecten.<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><img src='media/image16.png' alt='Afbeelding met tekst, schermopname, Lettertype, lijn' style='width: 46.433675633877826%;'></img>
+<td align='left'><img src='media/image16.png' alt='Afbeelding met tekst, schermopname, Lettertype, lijn' style='width: 46.433675633877826%;'></img>
 Rechthoek met drie compartimenten:<br/>
 Naam van de klasse<br/>
 Attributen ( kenmerken)<br/>
 Operaties ( gedrag)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Instantie (instance) = een object uit een klasse<br/>
+<tr><td align='left'>Instantie (instance) = een object uit een klasse<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associatie (association) = relatie tussen twee klassen<br/>
+<tr><td align='left'>Associatie (association) = relatie tussen twee klassen<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Een relatie tussen twee of meer klassen. Om weer te geven hoeveel objecten met elkaar gekoppeld zijn gebruiken we de multipliciteit.<br/>
+<td align='left'>Een relatie tussen twee of meer klassen. Om weer te geven hoeveel objecten met elkaar gekoppeld zijn gebruiken we de multipliciteit.<br/>
 <img src='media/image17.png' alt='Afbeelding met tekst, schermopname, Lettertype, lijn' style='width: 32.10230503762498%;'></img>
 Eén object (instantie) van klasse A heeft een relatie met nul of meer objecten (instanties) van klasse B<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Multipliciteit (multiplicity) = het aantal betrokken objecten in een associatie
+<tr><td align='left'>Multipliciteit (multiplicity) = het aantal betrokken objecten in een associatie
 
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Opname van een expliciet aantal (1, 2 enz)<br/>
+<td align='left'>Opname van een expliciet aantal (1, 2 enz)<br/>
 Of een reeks:<br/>
 0.. = nul of meer<br/>
 1..  = één of meer<br/>
 2..5 = twee tot vijf<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie (specialization) = het verfijnen van een klasse (de zgn. superklasse) in onder- of subklassen
+<tr><td align='left'>Specialisatie (specialization) = het verfijnen van een klasse (de zgn. superklasse) in onder- of subklassen
 
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><figure><img src='media/image18.png' alt='Afbeelding met tekst, lijn, Rechthoek, schermopname' style='width: 78.53598067150281%;'></img>
+<td align='left'><figure><img src='media/image18.png' alt='Afbeelding met tekst, lijn, Rechthoek, schermopname' style='width: 78.53598067150281%;'></img>
 <figcaption></figcaption></figure>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Overerving (inheritance) = iedere subklasse erft alle eigenschappen (kenmerken, associaties en gedrag) van zijn superklasse<br/>
+<tr><td align='left'>Overerving (inheritance) = iedere subklasse erft alle eigenschappen (kenmerken, associaties en gedrag) van zijn superklasse<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Aggregatie (aggregation) = een associatie tussen een samengestelde klasse en een component klasse (maakt deel uit van). Objecten van de deelklasse kunnen worden toegevoegd of verwijderd zonder dat de geheelklasse ophoudt te bestaan.<br/>
+<tr><td align='left'>Aggregatie (aggregation) = een associatie tussen een samengestelde klasse en een component klasse (maakt deel uit van). Objecten van de deelklasse kunnen worden toegevoegd of verwijderd zonder dat de geheelklasse ophoudt te bestaan.<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><figure><img src='media/image19.png' alt='Afbeelding met tekst, schermopname, lijn, Rechthoek' style='width: 32.38892282140697%;'></img>
+<td align='left'><figure><img src='media/image19.png' alt='Afbeelding met tekst, schermopname, lijn, Rechthoek' style='width: 32.38892282140697%;'></img>
 <figcaption></figcaption></figure>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Compositie (composition) = een associatie die aangeeft dat een of meer klassen (componenten) onderdeel zijn van een andere klasse (compositieklasse), met als restrictie dat een component niet zelfstandig verder leeft als de compositieklasse verdwijnt<br/>
+<tr><td align='left'>Compositie (composition) = een associatie die aangeeft dat een of meer klassen (componenten) onderdeel zijn van een andere klasse (compositieklasse), met als restrictie dat een component niet zelfstandig verder leeft als de compositieklasse verdwijnt<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><figure><img src='media/image20.png' alt='Afbeelding met tekst, schermopname, lijn, Rechthoek' style='width: 88.85458194301945%;'></img>
+<td align='left'><figure><img src='media/image20.png' alt='Afbeelding met tekst, schermopname, lijn, Rechthoek' style='width: 88.85458194301945%;'></img>
 <figcaption></figcaption></figure>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Enumeratie (enumeration) = Een klasse die een lijst van waardes weergeeft. Deze kan gebruikt worden op plaatsen waar voor een bepaalde waarde uit een beperkt aantal vooraf bekende mogelijkheiden gekozen moet worden. Een enumeratie is een klasse met als stereotype ‘&lt;&lt;Enumeration&gt;&gt;’.<br/>
+<tr><td align='left'>Enumeratie (enumeration) = Een klasse die een lijst van waardes weergeeft. Deze kan gebruikt worden op plaatsen waar voor een bepaalde waarde uit een beperkt aantal vooraf bekende mogelijkheiden gekozen moet worden. Een enumeratie is een klasse met als stereotype ‘&lt;&lt;Enumeration&gt;&gt;’.<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><figure><img src='media/image21.png' alt='Afbeelding met tekst, Lettertype, schermopname' style='width: 40.127873775044456%;'></img>
+<td align='left'><figure><img src='media/image21.png' alt='Afbeelding met tekst, Lettertype, schermopname' style='width: 40.127873775044456%;'></img>
 <figcaption></figcaption></figure>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>CodeList= Wanneer vooraf niet bekend is welke waardes een bepaald attribuut kan krijgen, maar als er wel een lijst waarschijnlijke waardes is, wordt in plaats van een Enumeratie een CodeList gebruikt. Een CodeList is een klasse met als stereotype ‘&lt;&lt;CodeList&gt;&gt;’.<br/>
+<tr><td align='left'>CodeList= Wanneer vooraf niet bekend is welke waardes een bepaald attribuut kan krijgen, maar als er wel een lijst waarschijnlijke waardes is, wordt in plaats van een Enumeratie een CodeList gebruikt. Een CodeList is een klasse met als stereotype ‘&lt;&lt;CodeList&gt;&gt;’.<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<td align='left'></td>
 </tr>
 </tbody>
 </table>

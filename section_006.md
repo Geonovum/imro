@@ -20,61 +20,61 @@ Bij elke klasse is een tabel opgenomen waarin de definitie en andere informatie 
 <col id='col2' style='width: 15%;'>
 <col id='col3' style='width: 60%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Klassenaam</span><br/>
+<th align='left' colspan='2'>Klassenaam<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Definitie van de klasse.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>De herkomst, bron, van de definitie.<br/>
+<td align='left' colspan='2'>Definitie van de klasse.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Beschrijving van de inwinningsregels met betrekking tot deze klasse. De inwinningsregels bepalen bijvoorbeeld hoe een object in de werkelijkheid wordt ingemeten, of hoe een oppervlak geïnterpreteerd moet worden.<br/>
+<td align='left' colspan='2'>De herkomst, bron, van de definitie.<br/>
+</td>
+</tr>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'>Beschrijving van de inwinningsregels met betrekking tot deze klasse. De inwinningsregels bepalen bijvoorbeeld hoe een object in de werkelijkheid wordt ingemeten, of hoe een oppervlak geïnterpreteerd moet worden.<br/>
 Er zijn in IMRO nog geen inwinningsregels gedefinieerd.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
+<tr><td align='left'>Generalisatie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van welke klassen is deze klasse een generalisatie.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van welke klasse is deze klasse een specialisatie.<br/>
+<td align='left' colspan='2'>Van welke klassen is deze klasse een generalisatie.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Attributen<br/>
+<tr><td align='left'>Specialisatie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>De attributen die gedefinieerd zijn voor deze klasse.<br/>
+<td align='left' colspan='2'>Van welke klasse is deze klasse een specialisatie.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam*</i><br/>
+<tr><td align='left'>Attributen<br/>
+</td>
+<td align='left' colspan='2'>De attributen die gedefinieerd zijn voor deze klasse.<br/>
+</td>
+</tr>
+<tr><td align='left'><i>Attribuutnaam*</i><br/>
 De naam van het attribuut<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
+<td align='left'><b><i>m</i></b><br/>
 multipliciteit<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<td align='left'><b><i>Toelichting</i></b><br/>
 Een toelichting op het doel en gebruik van het attribuut.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Met welke klassen heeft deze klasse associaties.<br/>
+<td align='left' colspan='2'>Met welke klassen heeft deze klasse associaties.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Toelichting bij het gebruik van deze klasse.<br/>
+<td align='left' colspan='2'>Toelichting bij het gebruik van deze klasse.<br/>
 </td>
 </tr>
 </tbody>
@@ -100,53 +100,53 @@ Van de klassen van het Basismodel die ook voor IMRO gelden is de beschrijving op
 <col id='col2' style='width: 6.349022782467909%;'>
 <col id='col3' style='width: 76.85902625187927%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'>
+<thead valign='top'><tr><th align='left' colspan='2'>
 Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>GeoObject<br/>
+<th align='left'>GeoObject<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Definitie<br/>
+<tbody valign='top'><tr><td align='left' colspan='2'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Een geo-object is een abstractie van een fenomeen in de werkelijkheid, dat direct of indirect is geassocieerd met een locatie relatief ten opzichte van de aarde.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN 3610<br/>
+<td align='left'>Een geo-object is een abstractie van een fenomeen in de werkelijkheid, dat direct of indirect is geassocieerd met een locatie relatief ten opzichte van de aarde.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Inwinningsregels<br/>
+<tr><td align='left' colspan='2'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<td align='left'>NEN 3610<br/>
+</td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Generalisatie<br/>
+<tr><td align='left' colspan='2'>Inwinningsregels<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Deze klasse vormt de hoofdklasse (superklasse) van het Basismodel Geo-informatie. Hiermee is het de generalisatie-klasse van alle andere klassen in 
+<td align='left'></td>
+</tr>
+<tr><td align='left' colspan='2'>Generalisatie<br/>
+</td>
+<td align='left'>Deze klasse vormt de hoofdklasse (superklasse) van het Basismodel Geo-informatie. Hiermee is het de generalisatie-klasse van alle andere klassen in 
 het model.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Specialisatie<br/>
+<tr><td align='left' colspan='2'>Specialisatie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Attributen<br/>
+<tr><td align='left' colspan='2'>Attributen<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Attribuutnaam<br/>
+<tr><td align='left'>Attribuutnaam<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'> m<br/>
+<td align='left'> m<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Toelichting</b><br/>
+<td align='left'><b>Toelichting</b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie<br/>
+<tr><td align='left'>identificatie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'> 1<br/>
+<td align='left'> 1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Dit is een attribuut ovegenomen uit NEN 3610:2011. Het attribuut zorgt voor een unieke identificatie van objecten binnen de NEN 3610 geo-informatie modellen. Het attribuut is samengesteld uit:<br/>
+<td align='left'>NEN3610ID: Dit is een attribuut ovegenomen uit NEN 3610:2011. Het attribuut zorgt voor een unieke identificatie van objecten binnen de NEN 3610 geo-informatie modellen. Het attribuut is samengesteld uit:<br/>
 <ul><li>namespace [1]: unieke verwijzing naar een registratie van objecten.</li>
 </ul>
 
@@ -161,15 +161,15 @@ Het attribuut ‘namespace’ is een unieke verwijzing naar de registratie die d
 Maximaal 25 karakters.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left' colspan='2'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left' colspan='2'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Gebruik/voorbeelden<br/>
+<tr><td align='left' colspan='2'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Voor deze klasse zijn die attributen gedefinieerd die voor alle subklassen gelden. Deze klasse wordt niet gebruikt voor het benoemen van bestaande geo-objecten. Als van een object niet bekend is, of niet van belang is, tot welke basisklasse het object behoort, dan moet in een sectormodel van deze klasse een subklasse gemaakt worden.<br/>
+<td align='left'>Voor deze klasse zijn die attributen gedefinieerd die voor alle subklassen gelden. Deze klasse wordt niet gebruikt voor het benoemen van bestaande geo-objecten. Als van een object niet bekend is, of niet van belang is, tot welke basisklasse het object behoort, dan moet in een sectormodel van deze klasse een subklasse gemaakt worden.<br/>
 Deze klasse is aangepast uit NEN3610. Alleen de attributen die in IMRO gebruikt worden zijn opgenomen. Deze worden bij de specifieke IMRO objecttypen verklaard.<br/>
 </td>
 </tr>
@@ -186,56 +186,56 @@ Hoewel een geo-object volgens de definitie altijd op een of andere wijze moet zi
 <colgroup><col id='col1' style='width: 24.389961836475077%;'>
 <col id='col2' style='width: 75.61003816352492%;'>
 </colgroup>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<tbody valign='top'><tr><td align='left'>Klasse<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>PlanologischGebied</span><br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Niet tastbaar begrensd gebied waaraan een bepaalde (toekomstige) bestemming, functionele en / of bestuurlijke ruimtelijke ontwikkeling gekoppeld is.<br/>
+<td align='left'>PlanologischGebied<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
+<tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN 3610<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Hoofdklasse van alle planologische gebieden. <br/>
+<td align='left'>Niet tastbaar begrensd gebied waaraan een bepaalde (toekomstige) bestemming, functionele en / of bestuurlijke ruimtelijke ontwikkeling gekoppeld is.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Van de klasse GeoObject<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Attributen<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<td align='left'>NEN 3610<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Inwinningsregels<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Generalisatie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Dit is een abstracte klasse waarvan alleen de onderliggende specialisaties gebruikt worden. Alle gebieden die in omgevingsinstrumenten onderscheiden worden en waar beleid aan gekoppeld is behoren tot deze klasse.<br/>
+<td align='left'>Hoofdklasse van alle planologische gebieden. <br/>
+</td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left'>Van de klasse GeoObject<br/>
+</td>
+</tr>
+<tr><td align='left'>Attributen<br/>
+</td>
+<td align='left'></td>
+</tr>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
+</td>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'></td>
+<td align='left'></td>
+</tr>
+<tr><td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Associaties<br/>
+</td>
+<td align='left'></td>
+</tr>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
+</td>
+<td align='left'>Dit is een abstracte klasse waarvan alleen de onderliggende specialisaties gebruikt worden. Alle gebieden die in omgevingsinstrumenten onderscheiden worden en waar beleid aan gekoppeld is behoren tot deze klasse.<br/>
 </td>
 </tr>
 </tbody>
@@ -247,29 +247,29 @@ Hoewel een geo-object volgens de definitie altijd op een of andere wijze moet zi
 <colgroup><col id='col1' style='width: 24.389961836475077%;'>
 <col id='col2' style='width: 75.61003816352492%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Plangebied</span><br/>
+<th align='left'>Plangebied<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Het object dat het gebied, of de gebieden, binnen de plangrenzen representeert.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN 3610<br/>
+<td align='left'>Het object dat het gebied, of de gebieden, binnen de plangrenzen representeert.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<td align='left'>NEN 3610<br/>
+</td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
+<tr><td align='left'>Inwinningsregels<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Plangebied is een generalisatie van de klassen:<br/>
+<td align='left'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left'>Plangebied is een generalisatie van de klassen:<br/>
 Bestemmingsplangebied<br/>
 Structuurvisieplangebied_G (Gemeentelijke structuurvisie)<br/>
 Structuurvisieplangebied_P (Provinciale structuurvisie)<br/>
@@ -279,32 +279,32 @@ Besluitgebied_P (Provinciale Verordening)<br/>
 Besluitgebied_A (Algemene Maatregel van Bestuur)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
+<tr><td align='left'>Specialisatie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Plangebied is een specialisatie van PlanologischGebied.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Attributen<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<td align='left'>Plangebied is een specialisatie van PlanologischGebied.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Attributen<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Omvat het totale gebied van een benoemd ruimtelijk instrument. Bijvoorbeeld een bestemmingsplan, een structuurvisie een gebiedsgericht besluit.<br/>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'></td>
+<td align='left'></td>
+</tr>
+<tr><td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Associaties<br/>
+</td>
+<td align='left'></td>
+</tr>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
+</td>
+<td align='left'>Omvat het totale gebied van een benoemd ruimtelijk instrument. Bijvoorbeeld een bestemmingsplan, een structuurvisie een gebiedsgericht besluit.<br/>
 </td>
 </tr>
 </tbody>
@@ -317,29 +317,29 @@ Besluitgebied_A (Algemene Maatregel van Bestuur)<br/>
 <col id='col2' style='width: 6.765352145252688%;'>
 <col id='col3' style='width: 68.84468601827224%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Planobject</span><br/>
+<th align='left' colspan='2'>Planobject<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><span style='color: #000000;'>Objecten waar een plangebied uit samengesteld is.</span><br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>NEN 3610<br/>
+<td align='left' colspan='2'><span style='color: #000000;'>Objecten waar een plangebied uit samengesteld is.</span><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
+<td align='left' colspan='2'>NEN 3610<br/>
+</td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
+<tr><td align='left'>Inwinningsregels<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van de klassen:<br/>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'>Van de klassen:<br/>
 Bestemmingsvlak<br/>
 Aanduiding<br/>
 Structuurvisiegebied_G<br/>
@@ -357,41 +357,41 @@ Besluitsubvlak_P<br/>
 Besluitsubvlak_A<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
+<tr><td align='left'>Specialisatie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van de klasse PlanologischGebied.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Attributen<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i> m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<td align='left' colspan='2'>Van de klasse PlanologischGebied.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlanobject<br/>
+<tr><td align='left'>Attributen<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'> 1<br/>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject<br/>
+<td align='left'><b><i> m</i></b><br/>
+</td>
+<td align='left'><b><i>Toelichting</i></b><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>typePlanobject<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<td align='left'> 1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Dit zijn de planobjecten waar een benoemd instrument uit de klasse Plangebied uit opgebouwd is. Bijvoorbeeld een object Bestemmingsvlak een object Aanduiding, Besluitvlak etc. Het zijn de ruimtelijke objecten waar de planinformatie aan gekoppeld is.<br/>
+<td align='left'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject<br/>
+</td>
+</tr>
+<tr><td align='left'></td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left' colspan='3'></td>
+</tr>
+<tr><td align='left'>Associaties<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
+</td>
+<td align='left' colspan='2'>Dit zijn de planobjecten waar een benoemd instrument uit de klasse Plangebied uit opgebouwd is. Bijvoorbeeld een object Bestemmingsvlak een object Aanduiding, Besluitvlak etc. Het zijn de ruimtelijke objecten waar de planinformatie aan gekoppeld is.<br/>
 </td>
 </tr>
 </tbody>
@@ -434,50 +434,50 @@ De verschillende klassen en relaties worden in de volgende subparagrafen toegeli
 <col id='col2' style='width: 6.439868016839231%;'>
 <col id='col3' style='width: 69.40493799067016%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Bestemmingsplangebied</span><br/>
+<th align='left' colspan='2'>Bestemmingsplangebied<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Gebied, of de gebieden, binnen de grenzen van het bestemmingsplan.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Gebied, of de gebieden, binnen de grenzen van het bestemmingsplan.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van Plangebied.<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van Plangebied.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'><b><i>m</i></b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
 </ul>
@@ -493,54 +493,54 @@ namespace.lokaalID-versie.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlan<br/>
+<tr><td align='left'>typePlan<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Nadere aanduiding van het type ruimtelijk instrument. Domein: RuimtelijkPlanOfBesluit_BP.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>beleidsmatigVerantwoordelijkeOverheid<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Overheid die beleidsmatig verantwoordelijk is voor het ruimtelijk instrument. Domein: Overheden_BP.<br/>
+<td align='left'>Nadere aanduiding van het type ruimtelijk instrument. Domein: RuimtelijkPlanOfBesluit_BP.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naamOverheid<br/>
+<tr><td align='left'>beleidsmatigVerantwoordelijkeOverheid<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van de verantwoordelijke overheid. Volgens format in de vorm gemeente …., deelgemeente/stadsdeel …, provincie …., of ministerie ….. Alleen bij ministeries kunnen er meerdere overheden verantwoordelijk zijn.. In dat geval wordt de naamOverheid evenzoveel maal opgenomen.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>overheidsCode<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>CBS-code van de beleidsmatig verantwoordelijke overheid. Altijd 4 cijfers, indien nodig aangevuld met voorloopnullen. Ingeval Rijk “. Ingeval provincie: CBS-code provincie met voorafgaand 2 voorloopnegens. Ingeval deelgemeente/stadsdeel: CBS-code gemeente.<br/>
+<td align='left'>Overheid die beleidsmatig verantwoordelijk is voor het ruimtelijk instrument. Domein: Overheden_BP.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
+<tr><td align='left'>naamOverheid<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De naam van het bestemmingsplan volgens de aanhaaltitel zoals aangegeven in de SVBP2012. <br/>
+<td align='left'>Naam van de verantwoordelijke overheid. Volgens format in de vorm gemeente …., deelgemeente/stadsdeel …, provincie …., of ministerie ….. Alleen bij ministeries kunnen er meerdere overheden verantwoordelijk zijn.. In dat geval wordt de naamOverheid evenzoveel maal opgenomen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>locatieNaam<br/>
+<tr><td align='left'>overheidsCode<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van de locatie. Verplicht ingeval naamOverheid anders dan gemeente.<br/>
+<td align='left'>CBS-code van de beleidsmatig verantwoordelijke overheid. Altijd 4 cijfers, indien nodig aangevuld met voorloopnullen. Ingeval Rijk “. Ingeval provincie: CBS-code provincie met voorafgaand 2 voorloopnegens. Ingeval deelgemeente/stadsdeel: CBS-code gemeente.<br/>
+</td>
+</tr>
+<tr><td align='left'>naam<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>De naam van het bestemmingsplan volgens de aanhaaltitel zoals aangegeven in de SVBP2012. <br/>
+</td>
+</tr>
+<tr><td align='left'>locatieNaam<br/>
+</td>
+<td align='left'>0..*<br/>
+</td>
+<td align='left'>Naam van de locatie. Verplicht ingeval naamOverheid anders dan gemeente.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>planstatusInfo<br/>
+<tr><td align='left'>planstatusInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>PlanstatusEnDatum:<br/>
+<td align='left'>PlanstatusEnDatum:<br/>
 Een samengesteld attribuut waarbij de status van een bestemmingsplan en de datum waarop die is toegekend wordt opgenomen:<br/>
 <ul><li>planstatus [1]: aanduiding van de planstatus. Domein: Planstatus</li>
 <li>datum: datum [1]: waarop de planstatus ingaat of is ingegaan. In format jjjj-mm-dd</li>
@@ -548,28 +548,28 @@ Een samengesteld attribuut waarbij de status van een bestemmingsplan en de datum
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>besluitnummer<br/>
+<tr><td align='left'>besluitnummer<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1<br/>
+<td align='left'>0..1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Nummer waaronder het vaststellingsbesluit van een plan is vastgelegd. Alleen toegestaan en verplicht bij de planstatus vastgesteld.<br/>
+<td align='left'>Nummer waaronder het vaststellingsbesluit van een plan is vastgelegd. Alleen toegestaan en verplicht bij de planstatus vastgesteld.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarVaststellingsbesluit<br/>
+<tr><td align='left'>verwijzingNaarVaststellingsbesluit<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1<br/>
+<td align='left'>0..1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar de tekst van het vaststellingsbesluit. Alleen toegestaan en verplicht bij de planstatus vastgesteld. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen.<br/>
+<td align='left'>Verwijzing naar de tekst van het vaststellingsbesluit. Alleen toegestaan en verplicht bij de planstatus vastgesteld. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen.<br/>
 De waarde kan als een hyperlink geïmplementeerd worden.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarTekstInfo<br/>
+<tr><td align='left'>verwijzingNaarTekstInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>2..4<br/>
+<td align='left'>2..4<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar tekst.<br/>
+<td align='left'>Verwijzing naar tekst.<br/>
 Afhankelijk of als norm ook de IMROPT2012 is toegepast wordt er gebruik gemaakt van objectgerichte tekst of niet-objectgerichte tekst.<br/>
 TekstReferentiePG_BP: Samengesteld attribuut waarin opgenomen:<br/>
 <ul><li>verwijzingNaarTekst [1]: Verwijzing naar de plantekst in format conform de STRI2012. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen. De waarde kan als een hyperlink geïmplementeerd worden.</li>
@@ -583,11 +583,11 @@ Attribuut wordt met de volgende cardinaliteit opgenomen:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ondergrondInfo<br/>
+<tr><td align='left'>ondergrondInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>OndergrondReferentie:<br/>
+<td align='left'>OndergrondReferentie:<br/>
 Een samengesteld attribuut bestaande uit.<br/>
 <ul><li>ondergrondtype [1]: naam van de ondergrond volgens domein Ondergronden.</li>
 <li>ondergronddatum [1]: datum van de gebruikte ondergrond.</li>
@@ -596,11 +596,11 @@ Een samengesteld attribuut bestaande uit.<br/>
 Indien geen gebruik is gemaakt van een ondergrond uit het domein Ondergronden wordt een eenduidige referentie naar de gebruikte ondergrond(en) gegeven.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarExternPlanInfo<br/>
+<tr><td align='left'>verwijzingNaarExternPlanInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ExternPlanReferentie_BP:<br/>
+<td align='left'>ExternPlanReferentie_BP:<br/>
 Een samengesteld attribuut bestaande uit:<br/>
 <ul><li>        naamExternPlan [1]: naam van het externe plan of besluit.</li>
 <li>        idnExternPlan [0..1]: idn van het externe plan of besluit.</li>
@@ -611,30 +611,30 @@ Verplicht bij een uitwerkingsplan en wijzigingsplan.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNorm<br/>
+<tr><td align='left'>verwijzingNorm<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>2..4<br/>
+<td align='left'>2..4<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Opname van de norm en de praktijkrichtlijn volgens welke het plan gecodeerd is. Vaste waarden: IMRO2012 en PRBP2012. Indien gebruik wordt gemaakt van objectgerichte planteksten wordt ook de norm IMROPT2012 opgenomen. In dat geval geldt het gebruik van objectgerichte planteksten bij alle attributen waar dit van toepassing kan zijn. Indien gebruik wordt gemaakt van een vaste weergave voor de analoge bestemmingsplan kaart wordt ook de verwijzing naar de PRABPK2012 opgenomen bij het bestemmingsplangebied. In dat geval geldt het gebruik van de opmaak van de analoge bestemmingsplan kaart conform PRABPK2012 voor dit gehele bestemmingsplan.<br/>
+<td align='left'>Opname van de norm en de praktijkrichtlijn volgens welke het plan gecodeerd is. Vaste waarden: IMRO2012 en PRBP2012. Indien gebruik wordt gemaakt van objectgerichte planteksten wordt ook de norm IMROPT2012 opgenomen. In dat geval geldt het gebruik van objectgerichte planteksten bij alle attributen waar dit van toepassing kan zijn. Indien gebruik wordt gemaakt van een vaste weergave voor de analoge bestemmingsplan kaart wordt ook de verwijzing naar de PRABPK2012 opgenomen bij het bestemmingsplangebied. In dat geval geldt het gebruik van de opmaak van de analoge bestemmingsplan kaart conform PRABPK2012 voor dit gehele bestemmingsplan.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>geometrie<br/>
+<tr><td align='left'>geometrie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Coördinaten in GML format. Domein: VlakMultivlak: Een vlak of een multivlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.<br/>
+<td align='left'>Coördinaten in GML format. Domein: VlakMultivlak: Een vlak of een multivlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
+<tr><td align='left' colspan='3'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
+<td align='left' colspan='2'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
+<td align='left' colspan='2'></td>
 </tr>
 </tbody>
 </table>
@@ -646,51 +646,51 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 <col id='col2' style='width: 6.439868016839231%;'>
 <col id='col3' style='width: 67.85754920923883%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>Klasse<br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><i>Bestemmingsvlak</i><br/>
+<th align='left' colspan='2'><i>Bestemmingsvlak</i><br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Gebied waar een bestemming aan toegekend is.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Gebied waar een bestemming aan toegekend is.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van Enkelbestemming en Dubbelbestemming.<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
+<tr><td align='left'>Inwinningsregels<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van Planobject.<br/>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'>Van Enkelbestemming en Dubbelbestemming.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van Planobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'><b><i>m</i></b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen dit bestand. Maximaal 32 karakters. Toegestane tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.</li>
 <li>versie: [0..1]: wordt niet gebruikt</li>
@@ -699,40 +699,40 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlanobject*<br/>
+<tr><td align='left'>typePlanobject*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'> 1<br/>
+<td align='left'> 1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van de bestemming volgens de regels in de SVBP2012<br/>
+<td align='left'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>bestemmingshoofdgroep<br/>
+<tr><td align='left'>naam<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Opname van de bestemmingshoofdgroep waaronder de specifieke bestemming van dit bestemmingsvlak valt. Indien de bestemming een enkelbestemming betreft geldt het domein: Bestemmingshoofdgroep_E. Indien het een dubbelbestemming betreft: Bestemmingshoofdgroep_D.<br/>
+<td align='left'>Naam van de bestemming volgens de regels in de SVBP2012<br/>
+</td>
+</tr>
+<tr><td align='left'>bestemmingshoofdgroep<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>Opname van de bestemmingshoofdgroep waaronder de specifieke bestemming van dit bestemmingsvlak valt. Indien de bestemming een enkelbestemming betreft geldt het domein: Bestemmingshoofdgroep_E. Indien het een dubbelbestemming betreft: Bestemmingshoofdgroep_D.<br/>
 In het model zijn beide lijsten samengevoegd in het domein: Bestemmingshoofdgroep_ED.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>artikelnummer<br/>
+<tr><td align='left'>artikelnummer<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar de plantekst door opname van het artikelnummer waarnaar verwezen wordt. Format conform SVBP2012.<br/>
+<td align='left'>Verwijzing naar de plantekst door opname van het artikelnummer waarnaar verwezen wordt. Format conform SVBP2012.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarTekstInfo<br/>
+<tr><td align='left'>verwijzingNaarTekstInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar tekst.<br/>
+<td align='left'>Verwijzing naar tekst.<br/>
 Afhankelijk of als norm ook de IMROPT2012 is toegepast wordt er gebruik gemaakt van objectgerichte tekst of niet-objectgerichte tekst.<br/>
 TekstReferentie_BP: Samengesteld attribuut waarin opgenomen:<br/>
 <ul><li>verwijzingNaarTekst [1]: Verwijzing naar de plantekst. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen. De waarde kan als een hyperlink geïmplementeerd worden.</li>
@@ -742,11 +742,11 @@ TekstReferentie_BP: Samengesteld attribuut waarin opgenomen:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>labelInfo<br/>
+<tr><td align='left'>labelInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1<br/>
+<td align='left'>0..1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Label: Een samengesteld attribuut voor verwijzing naar een te plaatsen labeltekst en positie daarvan:<br/>
+<td align='left'>Label: Een samengesteld attribuut voor verwijzing naar een te plaatsen labeltekst en positie daarvan:<br/>
 <ul><li>tekst [1]: lettercode voor het label conform de weergave op de analoge bestemmingsplankaart.</li>
 <li>positie [1..*]: Labelpositie: Samengesteld attribuut:<ul><li>plaatsingspunt [1]: coördinaten van het plaatsingspunt van het label. Punt links beneden (bottom left) t.o.v. de labeltekst.</li>
 <li>aanpijlingspunt [0..1]: coördinaten van het punt waar het label bij hoort (indien dit niet het plaatsingspunt is). De lijn tussen plaatsingspunt en aanpijlingspunt wordt niet opgenomen.</li>
@@ -758,25 +758,25 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>geometrie<br/>
+<tr><td align='left'>geometrie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Coördinaten in GML format. Domein: Vlak. Een bestemmingsvlak kan alleen een vlakgeometrie hebben. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.<br/>
+<td align='left'>Coördinaten in GML format. Domein: Vlak. Een bestemmingsvlak kan alleen een vlakgeometrie hebben. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
+<tr><td align='left' colspan='3'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><ul><li>plangebied [1]: Verwijzing naar (de identificatiecode van) het plangebied waar het bestemmingsvlak deel van uit maakt. In GML als Xlink opgenomen.</li>
+<td align='left' colspan='2'><ul><li>plangebied [1]: Verwijzing naar (de identificatiecode van) het plangebied waar het bestemmingsvlak deel van uit maakt. In GML als Xlink opgenomen.</li>
 </ul>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Een bestemmingsvlak is het belangrijkste planobject in een bestemmingsplan. Aan het bestemmingsvlak is de bestemming gekoppeld. Er moet een keuze gemaakt worden uit twee subklassen van de klasse bestemmingsvlak:<br/>
+<td align='left' colspan='2'>Een bestemmingsvlak is het belangrijkste planobject in een bestemmingsplan. Aan het bestemmingsvlak is de bestemming gekoppeld. Er moet een keuze gemaakt worden uit twee subklassen van de klasse bestemmingsvlak:<br/>
 Enkelbestemming: Bestemming die van toepassing is op een gebied.<br/>
 Dubbelbestemming: Een bestemming die (een) andere bestemming(en) willekeurig overlapt.<br/>
 </td>
@@ -791,63 +791,63 @@ Dubbelbestemming: Een bestemming die (een) andere bestemming(en) willekeurig ove
 <col id='col2' style='width: 6.451245875526227%;'>
 <col id='col3' style='width: 69.34804869723517%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><i><span style='color: #auto;'>Aanduiding</span></i><br/>
+<th align='left' colspan='2'><i>Aanduiding</i><br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Een aanduiding is een object gericht op een specificatie van een bestemming of andere aanduiding.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Een aanduiding is een object gericht op een specificatie van een bestemming of andere aanduiding.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van de klassen Figuur, Functieaanduiding, Gebiedsaanduiding, Maatvoering, Bouwvlak en Bouwaanduiding.<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
+<tr><td align='left'>Inwinningsregels<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van Planobject.<br/>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'>Van de klassen Figuur, Functieaanduiding, Gebiedsaanduiding, Maatvoering, Bouwvlak en Bouwaanduiding.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van Planobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><ul><li>Bestemmingsvlak [0..*]: Verwijzing naar (de identificatiecode van) het bestemmingsvlak waar de aanduiding een nadere specificatie van geeft. In GML als Xlink opgenomen.</li>
+<td align='left'><b><i>m</i></b><br/>
+</td>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'></td>
+<td align='left'></td>
+<td align='left'></td>
+</tr>
+<tr><td align='left' colspan='3'></td>
+</tr>
+<tr><td align='left'>Associaties<br/>
+</td>
+<td align='left' colspan='2'><ul><li>Bestemmingsvlak [0..*]: Verwijzing naar (de identificatiecode van) het bestemmingsvlak waar de aanduiding een nadere specificatie van geeft. In GML als Xlink opgenomen.</li>
 <li>Plangebied [1]: Verwijzing naar (de identificatiecode van) het plangebied waar de aanduiding deel van uit maakt. In GML als Xlink opgenomen.</li>
 </ul>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Aan een bestemmingsvlak is de bestemming met het bijbehorende artikel gekoppeld. Alle andere ruimtelijk bepaalde informatie die nodig is om het ruimtelijk beleid vast te leggen, wordt gekoppeld aan objecten uit de klasse Aanduiding. Aanduidingen verwijzen daarom in bijna alle gevallen naar een ander object waar ze nadere informatie over bevatten. Soms omvat een object Aanduiding hetzelfde gebied als het object waarnaar verwezen wordt en soms een gedeelte van dat gebied. Een gebiedsaanduiding maakt daarop een uitzondering; deze kan over meerdere bestemming heen liggen. <br/>
+<td align='left' colspan='2'>Aan een bestemmingsvlak is de bestemming met het bijbehorende artikel gekoppeld. Alle andere ruimtelijk bepaalde informatie die nodig is om het ruimtelijk beleid vast te leggen, wordt gekoppeld aan objecten uit de klasse Aanduiding. Aanduidingen verwijzen daarom in bijna alle gevallen naar een ander object waar ze nadere informatie over bevatten. Soms omvat een object Aanduiding hetzelfde gebied als het object waarnaar verwezen wordt en soms een gedeelte van dat gebied. Een gebiedsaanduiding maakt daarop een uitzondering; deze kan over meerdere bestemming heen liggen. <br/>
 </td>
 </tr>
 </tbody>
@@ -860,50 +860,50 @@ Dubbelbestemming: Een bestemming die (een) andere bestemming(en) willekeurig ove
 <col id='col2' style='width: 6.439868016839231%;'>
 <col id='col3' style='width: 69.40493799067016%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Bouwvlak</span><br/>
+<th align='left' colspan='2'>Bouwvlak<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Een gebied binnen een bestemming waarbinnen volgens de voorschriften de mogelijkheden voor bouwen nader worden benoemd. <br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Een gebied binnen een bestemming waarbinnen volgens de voorschriften de mogelijkheden voor bouwen nader worden benoemd. <br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van de klasse Aanduiding<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van de klasse Aanduiding<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'><b><i>m</i></b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Dit is een attribuut overgenomen uit NEN 3610:2011 en toegepast in IMRO. Het attribuut zorgt voor een unieke identificatie van objecten binnen IMRO en binnen de NEN 3610 geo-informatiemodellen. Het attribuut bestaat uit:<br/>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>NEN3610ID: Dit is een attribuut overgenomen uit NEN 3610:2011 en toegepast in IMRO. Het attribuut zorgt voor een unieke identificatie van objecten binnen IMRO en binnen de NEN 3610 geo-informatiemodellen. Het attribuut bestaat uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen dit bestand. Maximaal 32 karakters. Toegestane tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.</li>
 <li> versie: [0..1]: wordt niet gebruikt</li>
@@ -912,53 +912,53 @@ Dubbelbestemming: Een bestemming die (een) andere bestemming(en) willekeurig ove
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlanobject*<br/>
+<tr><td align='left'>typePlanobject*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject<br/>
+<td align='left'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
+<tr><td align='left'>naam<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van het bouwvlak. In alle gevallen wordt hier ‘bouwvlak’ ingevuld.<br/>
+<td align='left'>Naam van het bouwvlak. In alle gevallen wordt hier ‘bouwvlak’ ingevuld.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>geometrie<br/>
+<tr><td align='left'>geometrie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Coördinaten in GML format. Domein: VlakMultivlak: Vlak of Multivlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.<br/>
+<td align='left'>Coördinaten in GML format. Domein: VlakMultivlak: Vlak of Multivlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
+<tr><td align='left' colspan='3'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><ul><li>bestemmingsvlak [0..1]: Een bouwvlak ligt in een bestemmingsvlak en specificeert hiermee de bestemming. In deze relatie wordt verwezen naar de identificatiecode van het bestemmingsvlak. In GML als Xlink opgenomen.</li>
+<td align='left' colspan='2'><ul><li>bestemmingsvlak [0..1]: Een bouwvlak ligt in een bestemmingsvlak en specificeert hiermee de bestemming. In deze relatie wordt verwezen naar de identificatiecode van het bestemmingsvlak. In GML als Xlink opgenomen.</li>
 </ul>
 
 In het model is de multipliciteit van deze associatie [0..*]. Voor deze objectklasse is het echter beperkt tot [0..1]. 0 is alleen mogelijk bij plantype wijzigingsplan en inpassingsplan of indien bij het plangebied bij rolExternPlan de waarde ‘ter vervanging van extern plan’ is ingevuld.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Bijna ieder bestemmingsplan zal bouwvlakken kennen. Bouwvlakken behoren altijd bij een bestemming, waardoor te allen tijde een directe relatie aanwezig is tussen het object bouwvlak het object bestemmingsvlak.<br/>
+<td align='left' colspan='2'>Bijna ieder bestemmingsplan zal bouwvlakken kennen. Bouwvlakken behoren altijd bij een bestemming, waardoor te allen tijde een directe relatie aanwezig is tussen het object bouwvlak het object bestemmingsvlak.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
+<tr><td align='left'>naam<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van het bouwvlak. In alle gevallen wordt hier ‘bouwvlak’ ingevuld.<br/>
+<td align='left'>Naam van het bouwvlak. In alle gevallen wordt hier ‘bouwvlak’ ingevuld.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
@@ -972,50 +972,50 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 <col id='col2' style='width: 6.439868016839231%;'>
 <col id='col3' style='width: 69.40493799067016%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Functieaanduiding</span><br/>
+<th align='left' colspan='2'>Functieaanduiding<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Specificatie van de gebruiksmogelijkheden binnen een bestemming of een gedeelte daarvan.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Specificatie van de gebruiksmogelijkheden binnen een bestemming of een gedeelte daarvan.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van de klasse Aanduiding<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van de klasse Aanduiding<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'><b><i>m</i></b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
 <li>Maximaal 32 karakters. Toegestane tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.</li>
@@ -1025,25 +1025,25 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlanobject*<br/>
+<tr><td align='left'>typePlanobject*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De volledige naam van de functieaanduiding volgens de in de SVBP2012 opgenomen regel.<br/>
+<td align='left'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>labelInfo<br/>
+<tr><td align='left'>naam<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Label: Een samengesteld attribuut voor verwijzing naar een te plaatsen labeltekst en positie daarvan:<br/>
+<td align='left'>De volledige naam van de functieaanduiding volgens de in de SVBP2012 opgenomen regel.<br/>
+</td>
+</tr>
+<tr><td align='left'>labelInfo<br/>
+</td>
+<td align='left'>0..1<br/>
+</td>
+<td align='left'>Label: Een samengesteld attribuut voor verwijzing naar een te plaatsen labeltekst en positie daarvan:<br/>
 <ul><li>tekst [1]: lettercode voor het label conform de weergave op de analoge bestemmingsplankaart.</li>
 <li>positie [1..*]: Labelpositie: Samengesteld attribuut:<ul><li>plaatsingspunt [1]: coördinaten van het plaatsingspunt van het label. Punt links beneden (bottom left) t.o.v. de labeltekst.</li>
 <li>aanpijlingspunt [0..1]: coördinaten van het punt waar het label bij hoort (indien dit niet het plaatsingspunt is). De lijn tussen plaatsingspunt en aanpijlingspunt wordt niet opgenomen.</li>
@@ -1055,11 +1055,11 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarTekstInfo<br/>
+<tr><td align='left'>verwijzingNaarTekstInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1<br/>
+<td align='left'>0..1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar tekst.<br/>
+<td align='left'>Verwijzing naar tekst.<br/>
 Afhankelijk of als norm ook de IMROPT2012 is toegepast wordt er gebruik gemaakt van objectgerichte tekst of niet-objectgerichte tekst.<br/>
 TekstReferentie_BP: Samengesteld attribuut waarin opgenomen:<br/>
 <ul><li>verwijzingNaarTekst [1]: Verwijzing naar de plantekst. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen. De waarde kan als een hyperlink geïmplementeerd worden.</li>
@@ -1069,22 +1069,22 @@ TekstReferentie_BP: Samengesteld attribuut waarin opgenomen:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>geometrie<br/>
+<tr><td align='left'>geometrie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Coördinaten in GML format. Domein: Vlak: Geometrie is altijd een vlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.<br/>
+<td align='left'>Coördinaten in GML format. Domein: Vlak: Geometrie is altijd een vlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
+<tr><td align='left' colspan='3'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><ul><li>aanduiding* [0..1]: verwijzing naar (de idn van) een object Gebiedsaanduiding waar het object Functieaanduiding betrekking op heeft. In GML als Xlink opgenomen.</li>
+<td align='left' colspan='2'><ul><li>aanduiding* [0..1]: verwijzing naar (de idn van) een object Gebiedsaanduiding waar het object Functieaanduiding betrekking op heeft. In GML als Xlink opgenomen.</li>
 <li>bestemmingsvlak* [0..1]: Verwijzing naar (de identificatiecode van) het bestemmingsvlak waar het object Functieaanduiding een nadere specificatie van geeft. In GML als Xlink opgenomen.</li>
 </ul>
 
@@ -1092,9 +1092,9 @@ De associaties kunnen niet beide tegelijk voorkomen. In het model is de multipli
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
+<td align='left' colspan='2'></td>
 </tr>
 </tbody>
 </table>
@@ -1106,50 +1106,50 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 <col id='col2' style='width: 6.439868016839231%;'>
 <col id='col3' style='width: 69.40493799067016%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Bouwaanduiding</span><br/>
+<th align='left' colspan='2'>Bouwaanduiding<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Aanduiding met betrekking tot de wijze van bouwen, dan wel de verschijningsvorm van bouwwerken.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Aanduiding met betrekking tot de wijze van bouwen, dan wel de verschijningsvorm van bouwwerken.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van de klasse Aanduiding<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van de klasse Aanduiding<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'><b><i>m</i></b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
 <li>Toegestane tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.</li>
@@ -1159,25 +1159,25 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlanobject*<br/>
+<tr><td align='left'>typePlanobject*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van de bouwaanduiding. Domein: Bouwaanduidingen. In met name genoemde gevallen aangevuld met vrije tekst conform SVBP2012.<br/>
+<td align='left'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>labelInfo<br/>
+<tr><td align='left'>naam<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Label: Een samengesteld attribuut voor verwijzing naar een te plaatsen labeltekst en positie daarvan:<br/>
+<td align='left'>Naam van de bouwaanduiding. Domein: Bouwaanduidingen. In met name genoemde gevallen aangevuld met vrije tekst conform SVBP2012.<br/>
+</td>
+</tr>
+<tr><td align='left'>labelInfo<br/>
+</td>
+<td align='left'>0..1<br/>
+</td>
+<td align='left'>Label: Een samengesteld attribuut voor verwijzing naar een te plaatsen labeltekst en positie daarvan:<br/>
 <ul><li>tekst [1]: tekst voor het label als op analoge plankaart verbeeld conform PRABP2012.</li>
 <li>positie [1..*]: Labelpositie: Samengesteld attribuut:<ul><li>plaatsingspunt [1]: coördinaten van het plaatsingspunt van het label. Punt links beneden (bottom left) t.o.v. de labeltekst.</li>
 <li>aanpijlingspunt [0..1]: coördinaten van het punt waar het label bij hoort (indien dit niet het plaatsingspunt is). De lijn tussen plaatsingspunt en aanpijlingspunt wordt niet opgenomen.</li>
@@ -1189,11 +1189,11 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarTekstInfo<br/>
+<tr><td align='left'>verwijzingNaarTekstInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1 <br/>
+<td align='left'>0..1 <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar tekst.<br/>
+<td align='left'>Verwijzing naar tekst.<br/>
 Afhankelijk of als norm ook de IMROPT2012 is toegepast wordt er gebruik gemaakt van objectgerichte tekst of niet-objectgerichte tekst.<br/>
 TekstReferentie_BP: Samengesteld attribuut waarin opgenomen:<br/>
 <ul><li>verwijzingNaarTekst [1]: Verwijzing naar de plantekst. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen. De waarde kan als een hyperlink geïmplementeerd worden.</li>
@@ -1203,22 +1203,22 @@ TekstReferentie_BP: Samengesteld attribuut waarin opgenomen:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>geometrie<br/>
+<tr><td align='left'>geometrie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Coördinaten in GML format. Domein: Vlak: Geometrie is altijd een vlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.<br/>
+<td align='left'>Coördinaten in GML format. Domein: Vlak: Geometrie is altijd een vlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
+<tr><td align='left' colspan='3'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><ul><li>aanduiding* [0..1]: verwijzing naar (de idn van) een object Bouwvlak of een object Gebiedsaanduiding waar het object Bouwaanduiding betrekking op heeft. In GML als Xlink opgenomen.</li>
+<td align='left' colspan='2'><ul><li>aanduiding* [0..1]: verwijzing naar (de idn van) een object Bouwvlak of een object Gebiedsaanduiding waar het object Bouwaanduiding betrekking op heeft. In GML als Xlink opgenomen.</li>
 <li>bestemmingsvlak* [0..1]: Verwijzing naar (de identificatiecode van) het bestemmingsvlak waar het object Bouwaanduiding een nadere specificatie van geeft. In GML als Xlink opgenomen.</li>
 </ul>
 
@@ -1226,9 +1226,9 @@ De associaties kunnen niet beide tegelijk voorkomen. In het model is de multipli
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
+<td align='left' colspan='2'></td>
 </tr>
 </tbody>
 </table>
@@ -1240,50 +1240,50 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 <col id='col2' style='width: 8.04414609170554%;'>
 <col id='col3' style='width: 67.80065991580383%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Maatvoering</span><br/>
+<th align='left' colspan='2'>Maatvoering<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Gebied waaraan gekoppeld informatie over maatvoering.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Gebied waaraan gekoppeld informatie over maatvoering.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van de klasse Aanduiding.<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van de klasse Aanduiding.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'><b><i>m</i></b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
 <li>Maximaal 32 karakters. Toegestane tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.</li>
@@ -1292,26 +1292,26 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlanobject*<br/>
+<tr><td align='left'>typePlanobject*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject<br/>
+<td align='left'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
+<tr><td align='left'>naam<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Opsomming van alle waardetypen die in dit maatvoeringsobject voorkomen. Elk van elkaar gescheiden door een komma en een spatie.
+<td align='left'>Opsomming van alle waardetypen die in dit maatvoeringsobject voorkomen. Elk van elkaar gescheiden door een komma en een spatie.
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>symboolInfo<br/>
+<tr><td align='left'>symboolInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>SymboolEnPositie: Samengesteld attribuut:<br/>
+<td align='left'>SymboolEnPositie: Samengesteld attribuut:<br/>
 <ul><li>symboolCode [1]: code van het te gebruiken symbool.</li>
 <li>positie: Labelpositie [1..*]: Samengesteld attribuut voor de positie van het matrixsymbool.<ul><li>plaatsingspunt [1]: plaatsingspunt voor de matrix. Coördinaten van het zwaartepunt (center, center) van de matrix.</li>
 <li>aanpijlingspunt [0..1]: coördinaten van het punt waar de matrix bij hoort (indien dit niet het plaatsingspunt is). De lijn tussen plaatsingspunt en aanpijlingspunt wordt niet opgenomen.</li>
@@ -1323,11 +1323,11 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>maatvoeringInfo<br/>
+<tr><td align='left'>maatvoeringInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>WaardeEnType: Samengesteld attribuut, bestaande uit een combinatie van attributen om de waarden en waardetypen op te nemen:<br/>
+<td align='left'>WaardeEnType: Samengesteld attribuut, bestaande uit een combinatie van attributen om de waarden en waardetypen op te nemen:<br/>
 <ul><li>waarde [1]: De bij het waardeType horende waarde. Bij niet-gehele getallen wordt gebruik gemaakt van een komma als decimaal scheidingsteken. Voor duizendtallen wordt geen scheidingsteken gehanteerd.</li>
 <li>waardeType [1]: Een keuze wordt gemaakt uit het open domein OmvangWaarde of toegevoegd als vrije tekst.</li>
 <li>symboolcode [0..1]: code van het symbool waar deze waarde in wordt afgebeeld. Aanwezig en verplicht alleen indien bij verwijzingNorm een waarde PRABPK2012 is ingevuld. Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.</li>
@@ -1335,11 +1335,11 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarTekstInfo<br/>
+<tr><td align='left'>verwijzingNaarTekstInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1 <br/>
+<td align='left'>0..1 <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar tekst.<br/>
+<td align='left'>Verwijzing naar tekst.<br/>
 Afhankelijk of als norm ook de IMROPT2012 is toegepast wordt er gebruik gemaakt van objectgerichte tekst of niet-objectgerichte tekst.<br/>
 TekstReferentie_BP: Samengesteld attribuut waarin opgenomen:<br/>
 <ul><li>verwijzingNaarTekst [1]: Verwijzing naar de plantekst. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen. De waarde kan als een hyperlink geïmplementeerd worden.</li>
@@ -1349,22 +1349,22 @@ TekstReferentie_BP: Samengesteld attribuut waarin opgenomen:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>geometrie<br/>
+<tr><td align='left'>geometrie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Coördinaten in GML formaat. Domein: Vlak: Geometrie is altijd een vlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.<br/>
+<td align='left'>Coördinaten in GML formaat. Domein: Vlak: Geometrie is altijd een vlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
+<tr><td align='left' colspan='3'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><ul><li>aanduiding* [0..1]: verwijzing naar (de idn van) een object Bouwvlak of een object Gebiedsaanduiding waar het object Maatvoering betrekking op heeft. In GML als Xlink opgenomen.</li>
+<td align='left' colspan='2'><ul><li>aanduiding* [0..1]: verwijzing naar (de idn van) een object Bouwvlak of een object Gebiedsaanduiding waar het object Maatvoering betrekking op heeft. In GML als Xlink opgenomen.</li>
 <li>bestemmingsvlak* [0..1]: Verwijzing naar (de identificatiecode van) het bestemmingsvlak waar het object Maatvoering een nadere specificatie van geeft. In GML als Xlink opgenomen.</li>
 </ul>
 
@@ -1372,9 +1372,9 @@ Beide associaties kunnen niet tegelijk voorkomen. In het model is de multiplicit
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Een object Maatvoering geeft een maatvoering of een aantal maatvoeringen behorend bij een (gedeelte van) een ander object. De geometrie van het object maatvoering is de ruimtelijke representatie van het gebied waarvoor de maatvoering geldt. In alle gevallen is dit een vlak.<br/>
+<td align='left' colspan='2'>Een object Maatvoering geeft een maatvoering of een aantal maatvoeringen behorend bij een (gedeelte van) een ander object. De geometrie van het object maatvoering is de ruimtelijke representatie van het gebied waarvoor de maatvoering geldt. In alle gevallen is dit een vlak.<br/>
 Een maatvoering of een set aan maatvoeringen kan op een analoge kaart afgebeeld doormiddel van een matrixfiguur. De symboolcode kan gebruikt worden bij de keuze van het matrixfiguur. Bij een object maatvoering kunnen meerdere verschillende matrixfiguren worden opgenomen. Het totaal aan matrixfiguren verklaart de opgenomen maatvoeringen.<br/>
 </td>
 </tr>
@@ -1388,50 +1388,50 @@ Een maatvoering of een set aan maatvoeringen kan op een analoge kaart afgebeeld 
 <col id='col2' style='width: 6.439868016839231%;'>
 <col id='col3' style='width: 69.40493799067016%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Figuur</span><br/>
+<th align='left' colspan='2'>Figuur<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Aanduiding in de vorm van een figuur.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Aanduiding in de vorm van een figuur.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van de klasse Aanduiding<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van de klasse Aanduiding<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'><b><i>m</i></b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
 </ul>
@@ -1443,36 +1443,36 @@ Maximaal 32 karakters. Toegestane tekens: {”A”…”Z”, “a”…”z”,
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlanobject*<br/>
+<tr><td align='left'>typePlanobject*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van het figuur. Domein: Figuren. In met name genoemde gevallen aangevuld met vrije tekst conform SVBP2012.<br/>
+<td align='left'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarIllustratieInfo<br/>
+<tr><td align='left'>naam<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>IllustratieReferentie_BP: Samengesteld attribuut. Alleen gebruiken bij het figuur dwarsprofiel.<br/>
+<td align='left'>Naam van het figuur. Domein: Figuren. In met name genoemde gevallen aangevuld met vrije tekst conform SVBP2012.<br/>
+</td>
+</tr>
+<tr><td align='left'>verwijzingNaarIllustratieInfo<br/>
+</td>
+<td align='left'>0..1<br/>
+</td>
+<td align='left'>IllustratieReferentie_BP: Samengesteld attribuut. Alleen gebruiken bij het figuur dwarsprofiel.<br/>
 <ul><li>verwijzingNaarIllustratie: naam van het bestand dat de illustratie omvat. De waarde kan als een hyperlink geïmplementeerd worden.</li>
 <li>typeIllustratie: soort illustratie. Domein: Illustratie_BP.</li>
 </ul>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>labelInfo<br/>
+<tr><td align='left'>labelInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1<br/>
+<td align='left'>0..1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Label: Een samengesteld attribuut voor verwijzing naar een te plaatsen labeltekst en positie daarvan:<br/>
+<td align='left'>Label: Een samengesteld attribuut voor verwijzing naar een te plaatsen labeltekst en positie daarvan:<br/>
 <ul><li>tekst [1]: lettercode voor het label conform de weergave op de analoge bestemmingsplankaart.</li>
 <li>positie [1..*]: Labelpositie: Samengesteld attribuut:<ul><li>plaatsingspunt [1]: coördinaten van het plaatsingspunt van het label. Punt links beneden (bottom left) t.o.v. de labeltekst.</li>
 <li>aanpijlingspunt [0..1]: coördinaten van het punt waar het label bij hoort (indien dit niet het plaatsingspunt is). De lijn tussen plaatsingspunt en aanpijlingspunt wordt niet opgenomen.</li>
@@ -1484,11 +1484,11 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarTekstInfo<br/>
+<tr><td align='left'>verwijzingNaarTekstInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1<br/>
+<td align='left'>0..1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar tekst.<br/>
+<td align='left'>Verwijzing naar tekst.<br/>
 Afhankelijk of als norm ook de IMROPT2012 is toegepast wordt er gebruik gemaakt van objectgerichte tekst of niet-objectgerichte tekst.<br/>
 TekstReferentie_BP: Samengesteld attribuut waarin opgenomen:<br/>
 <ul><li>verwijzingNaarTekst [1]: Verwijzing naar de plantekst. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen. De waarde kan als een hyperlink geïmplementeerd worden.</li>
@@ -1498,22 +1498,22 @@ TekstReferentie_BP: Samengesteld attribuut waarin opgenomen:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>geometrie<br/>
+<tr><td align='left'>geometrie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Coördinaten in GML format. Domein: LijnMultilijn: Lijn of multilijn. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.<br/>
+<td align='left'>Coördinaten in GML format. Domein: LijnMultilijn: Lijn of multilijn. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
+<tr><td align='left' colspan='3'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><ul><li>bestemmingsvlak* [0..*]: verwijzing naar de identificatiecode van het bestemmingsvlak(en) waar het figuur betrekking op heeft. In GML als Xlink opgenomen.</li>
+<td align='left' colspan='2'><ul><li>bestemmingsvlak* [0..*]: verwijzing naar de identificatiecode van het bestemmingsvlak(en) waar het figuur betrekking op heeft. In GML als Xlink opgenomen.</li>
 <li>Aanduiding* [0..*]: verwijzing naar de identificatiecode van de aanduiding(en) waar het figuur betrekking op heeft. In GML als Xlink opgenomen.</li>
 </ul>
 
@@ -1521,9 +1521,9 @@ Beide associaties kunnen niet tegelijk voorkomen. Indien het plantype niet gelij
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>In een bestemmingsplan kunnen ‘getekende’ figuren voorkomen zoals relatiepijlen, hartlijnen van leidingen, aanduidingen voor dwarsprofielen en dergelijke, die nodig zijn om de planteksten te kunnen hanteren. Deze figuren vallen onder de klasse Figuur. Voor deze figuren is een lijst van te gebruiken figuren opgenomen.<br/>
+<td align='left' colspan='2'>In een bestemmingsplan kunnen ‘getekende’ figuren voorkomen zoals relatiepijlen, hartlijnen van leidingen, aanduidingen voor dwarsprofielen en dergelijke, die nodig zijn om de planteksten te kunnen hanteren. Deze figuren vallen onder de klasse Figuur. Voor deze figuren is een lijst van te gebruiken figuren opgenomen.<br/>
 Voor de geometrie van de figuren wordt de lijn opgenomen die de locatie van het figuur representeert. Voor de verbeelding van de lijnen zijn in de SVBP2012 regels opgenomen. Bij het figuur dwarsprofiel moet het figuur inclusief de pijlpunt gedigitaliseerd en uitgewisseld worden.<br/>
 </td>
 </tr>
@@ -1537,50 +1537,50 @@ Voor de geometrie van de figuren wordt de lijn opgenomen die de locatie van het 
 <col id='col2' style='width: 6.439868016839231%;'>
 <col id='col3' style='width: 69.40493799067016%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Gebiedsaanduiding</span><br/>
+<th align='left' colspan='2'>Gebiedsaanduiding<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Benoemd gebied waar bijzondere regels, extra regels of nadere afwegingen gelden.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>SVBP2012<br/>
+<td align='left' colspan='2'>Benoemd gebied waar bijzondere regels, extra regels of nadere afwegingen gelden.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van de klasse Aanduiding<br/>
+<td align='left' colspan='2'>SVBP2012<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van de klasse Aanduiding<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'><b><i>m</i></b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
 <li>Maximaal 32 karakters. Toegestane tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.</li>
@@ -1590,39 +1590,39 @@ Voor de geometrie van de figuren wordt de lijn opgenomen die de locatie van het 
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlanobject*<br/>
+<tr><td align='left'>typePlanobject*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van het object Gebiedsaanduiding. Domein: Gebiedsaanduidingen of vrije tekst conform SVBP indien de waarde niet voorkomt.<br/>
+<td align='left'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>gebiedsaanduiding groep<br/>
+<tr><td align='left'>naam<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Opname van de groep waaronder de gebiedsaanduiding valt. Domein: Gebiedsaanduidinggroep<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>artikelnummer<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar de plantekst door opname van het artikelnummer waarnaar verwezen wordt.<br/>
+<td align='left'>Naam van het object Gebiedsaanduiding. Domein: Gebiedsaanduidingen of vrije tekst conform SVBP indien de waarde niet voorkomt.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarTekstInfo<br/>
+<tr><td align='left'>gebiedsaanduiding groep<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1 <br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar tekst.<br/>
+<td align='left'>Opname van de groep waaronder de gebiedsaanduiding valt. Domein: Gebiedsaanduidinggroep<br/>
+</td>
+</tr>
+<tr><td align='left'>artikelnummer<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>Verwijzing naar de plantekst door opname van het artikelnummer waarnaar verwezen wordt.<br/>
+</td>
+</tr>
+<tr><td align='left'>verwijzingNaarTekstInfo<br/>
+</td>
+<td align='left'>1 <br/>
+</td>
+<td align='left'>Verwijzing naar tekst.<br/>
 Afhankelijk of als norm ook de IMROPT2012 is toegepast wordt er gebruik gemaakt van objectgerichte tekst of niet-objectgerichte tekst.<br/>
 TekstReferentie_BP: Samengesteld attribuut waarin opgenomen:<br/>
 <ul><li>verwijzingNaarTekst [1]: Verwijzing naar de plantekst. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen. De waarde kan als een hyperlink geïmplementeerd worden.</li>
@@ -1631,15 +1631,15 @@ TekstReferentie_BP: Samengesteld attribuut waarin opgenomen:<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>labelInfo<br/>
+<tr><td align='left'>labelInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1<br/>
+<td align='left'>0..1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Label: Een samengesteld attribuut voor verwijzing naar een te plaatsen labeltekst en positie daarvan:<br/>
+<td align='left'>Label: Een samengesteld attribuut voor verwijzing naar een te plaatsen labeltekst en positie daarvan:<br/>
 <ul><li>tekst [1]: tekst voor het label. In dit geval altijd een cijfer.</li>
 <li>positie [1..*]: Labelpositie: Samengesteld attribuut:<ul><li>plaatsingspunt [1]: coördinaten van het plaatsingspunt van het label. Punt links beneden (bottom left) t.o.v. de labeltekst.</li>
 <li>aanpijlingspunt [0..1]: coördinaten van het punt waar het label bij hoort (indien dit niet het plaatsingspunt is). De lijn tussen plaatsingspunt en aanpijlingspunt wordt niet opgenomen.</li>
@@ -1651,27 +1651,27 @@ TekstReferentie_BP: Samengesteld attribuut waarin opgenomen:<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>geometrie<br/>
+<tr><td align='left'>geometrie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Coördinaten in GML format. Domein: VlakMultivlak: Vlak of Multivlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.<br/>
+<td align='left'>Coördinaten in GML format. Domein: VlakMultivlak: Vlak of Multivlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
+<tr><td align='left' colspan='3'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><ul><li>bestemmingsvlak* [0..1]: Verwijzing naar (de identificatiecode van) het bestemmingsvlak waar het object Gebiedsaanduiding een nadere specificatie van geeft. In GML als Xlink opgenomen.</li>
+<td align='left' colspan='2'><ul><li>bestemmingsvlak* [0..1]: Verwijzing naar (de identificatiecode van) het bestemmingsvlak waar het object Gebiedsaanduiding een nadere specificatie van geeft. In GML als Xlink opgenomen.</li>
 </ul>
 
 In het model is de multipliciteit van deze associatie [0..*]. Voor deze objectklasse is het echter beperkt tot [0..1].<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Voorbeelden van objecten uit de klasse Gebiedsaanduiding zijn: geluidzones, veiligheidszones, vrijwaringszones.<br/>
+<td align='left' colspan='2'>Voorbeelden van objecten uit de klasse Gebiedsaanduiding zijn: geluidzones, veiligheidszones, vrijwaringszones.<br/>
 </td>
 </tr>
 </tbody>
@@ -1693,50 +1693,50 @@ De verschillende klassen en relaties worden in de volgende subparagrafen toegeli
 <col id='col2' style='width: 6.439868016839231%;'>
 <col id='col3' style='width: 69.40493799067016%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Structuurvisieplangebied_G</span><br/>
+<th align='left' colspan='2'>Structuurvisieplangebied_G<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Gebied, of gebieden, binnen de grenzen van een gemeentelijke structuurvisie.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Gebied, of gebieden, binnen de grenzen van een gemeentelijke structuurvisie.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van Plangebied.<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van Plangebied.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'><b><i>m</i></b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
 </ul>
@@ -1752,53 +1752,53 @@ namespace.lokaalID-versie.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlan<br/>
+<tr><td align='left'>typePlan<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Nadere aanduiding van het type ruimtelijk instrument. Domein: RuimtelijkPlanOfBesluit_SV.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>beleidsmatigVerantwoordelijkeOverheid<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Overheid die verantwoordelijk is voor het ruimtelijk instrument. Domein: Overheden_G.<br/>
+<td align='left'>Nadere aanduiding van het type ruimtelijk instrument. Domein: RuimtelijkPlanOfBesluit_SV.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naamOverheid<br/>
+<tr><td align='left'>beleidsmatigVerantwoordelijkeOverheid<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van de beleidsmatig verantwoordelijke overheid. Format in de vorm: gemeente …., deelgemeente/stadsdeel ….<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>overheidsCode<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>CBS-code van de beleidsmatig verantwoordelijke overheid. Format in de vorm: 4 cijfers. Ingeval deelgemeente/stadsdeel: CBS-code gemeente.<br/>
+<td align='left'>Overheid die verantwoordelijk is voor het ruimtelijk instrument. Domein: Overheden_G.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
+<tr><td align='left'>naamOverheid<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De naam van de structuurvisie volgens de (aanhaal)titel. <br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>locatieNaam<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam van de locatie.<br/>
+<td align='left'>Naam van de beleidsmatig verantwoordelijke overheid. Format in de vorm: gemeente …., deelgemeente/stadsdeel ….<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>planstatusInfo<br/>
+<tr><td align='left'>overheidsCode<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>PlanstatusEnDatum:<br/>
+<td align='left'>CBS-code van de beleidsmatig verantwoordelijke overheid. Format in de vorm: 4 cijfers. Ingeval deelgemeente/stadsdeel: CBS-code gemeente.<br/>
+</td>
+</tr>
+<tr><td align='left'>naam<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>De naam van de structuurvisie volgens de (aanhaal)titel. <br/>
+</td>
+</tr>
+<tr><td align='left'>locatieNaam<br/>
+</td>
+<td align='left'>0..*<br/>
+</td>
+<td align='left'>naam van de locatie.<br/>
+</td>
+</tr>
+<tr><td align='left'>planstatusInfo<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>PlanstatusEnDatum:<br/>
 Een samengesteld attribuut waarbij de status van de structuurvisie en de datum waarop die is toegekend wordt opgenomen:<br/>
 <ul><li>planstatus [1]: aanduiding van de planstatus. Domein: Planstatus.</li>
 <li>datum [1]: waarop de planstatus toegekend is. In format jjjj-mm-dd</li>
@@ -1806,28 +1806,28 @@ Een samengesteld attribuut waarbij de status van de structuurvisie en de datum w
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>besluitnummer<br/>
+<tr><td align='left'>besluitnummer<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1<br/>
+<td align='left'>0..1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Het nummer van het vaststellingsbesluit. Alleen toegestaan en verplicht bij de planstatus vastgesteld.<br/>
+<td align='left'>Het nummer van het vaststellingsbesluit. Alleen toegestaan en verplicht bij de planstatus vastgesteld.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarVaststellingsbesluit<br/>
+<tr><td align='left'>verwijzingNaarVaststellingsbesluit<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1<br/>
+<td align='left'>0..1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar de tekst van het vaststellingsbesluit. Alleen toegestaan en verplicht bij de planstatus vastgesteld. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen.<br/>
+<td align='left'>Verwijzing naar de tekst van het vaststellingsbesluit. Alleen toegestaan en verplicht bij de planstatus vastgesteld. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen.<br/>
 De waarde kan als een hyperlink geïmplementeerd worden.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarIllustratieInfo<br/>
+<tr><td align='left'>verwijzingNaarIllustratieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Alleen verwijzen naar illustratie(s) op het niveau plangebied.<br/>
+<td align='left'>Alleen verwijzen naar illustratie(s) op het niveau plangebied.<br/>
 IllustratieReferentiePG: Samengesteld attribuut bestaande uit de attributen:<br/>
 <ul><li>verwijzingNaarIllustratie [1]: naam van het bestand dat de illustratie omvat. De waarde kan als een hyperlink geïmplementeerd worden.</li>
 <li>typeIllustratie [1]: soort illustratie. Domein: Illustratie.</li>
@@ -1836,11 +1836,11 @@ IllustratieReferentiePG: Samengesteld attribuut bestaande uit de attributen:<br/
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarTekstInfo<br/>
+<tr><td align='left'>verwijzingNaarTekstInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..3<br/>
+<td align='left'>1..3<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar tekst.<br/>
+<td align='left'>Verwijzing naar tekst.<br/>
 Afhankelijk of als norm ook de IMROPT2012 is toegepast wordt er gebruik gemaakt van objectgerichte tekst of niet-objectgerichte tekst.<br/>
 1 verwijzing naar volledige beleidsdocument(en) (verplicht) en max. 1 naar volledige bijlage(n).<br/>
 TekstReferentiePG_SV: Samengesteld attribuut waarin opgenomen:<br/>
@@ -1851,15 +1851,15 @@ TekstReferentiePG_SV: Samengesteld attribuut waarin opgenomen:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ondergrondInfo<br/>
+<tr><td align='left'>ondergrondInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>OndergrondReferentie:<br/>
+<td align='left'>OndergrondReferentie:<br/>
 Een samengesteld attribuut bestaande uit.<br/>
 <ul><li>ondergrondtype [1]: naam van de ondergrond volgens domein Ondergronden.</li>
 <li>ondergronddatumondergronddatum [1]: datum van de gebruikte ondergrond.</li>
@@ -1868,11 +1868,11 @@ Een samengesteld attribuut bestaande uit.<br/>
 Indien geen gebruik is gemaakt van een ondergrond uit het domein Ondergronden wordt een eenduidige referentie naar de gebruikte ondergrond(en) gegeven.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarExternPlanInfo<br/>
+<tr><td align='left'>verwijzingNaarExternPlanInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ExternPlanReferentiePG_SV:<br/>
+<td align='left'>ExternPlanReferentiePG_SV:<br/>
 Een samengesteld attribuut bestaande uit:<br/>
 <ul><li>        naamExternPlan [1]: naam van het externe plan/besluit.</li>
 <li>        idnExternPlan [0..1]: idn van het externe plan/besluit.</li>
@@ -1882,18 +1882,18 @@ Een samengesteld attribuut bestaande uit:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNorm<br/>
+<tr><td align='left'>verwijzingNorm<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>2..3<br/>
+<td align='left'>2..3<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Opname van de Norm en de praktijkrichtlijn volgens welke het instrument gecodeerd is. Vaste waarden: IMRO2012 en PRSV2012. Indien gebruik wordt gemaakt van objectgerichte planteksten wordt ook de norm IMROPT2012 opgenomen. In dat geval geldt het gebruik van objectgerichte planteksten bij alle attributen waar dit van toepassing kan zijn.<br/>
+<td align='left'>Opname van de Norm en de praktijkrichtlijn volgens welke het instrument gecodeerd is. Vaste waarden: IMRO2012 en PRSV2012. Indien gebruik wordt gemaakt van objectgerichte planteksten wordt ook de norm IMROPT2012 opgenomen. In dat geval geldt het gebruik van objectgerichte planteksten bij alle attributen waar dit van toepassing kan zijn.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
+<tr><td align='left' colspan='3'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><ul><li>        begrenzing [1]: Verwijzing naar een object GeometriePlangebied bestaande uit:<ul><li>geometrie [1]: Coördinaten in GML format. Domein: VlakMultiValk. Vlak of Multivlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.</li>
+<td align='left' colspan='2'><ul><li>        begrenzing [1]: Verwijzing naar een object GeometriePlangebied bestaande uit:<ul><li>geometrie [1]: Coördinaten in GML format. Domein: VlakMultiValk. Vlak of Multivlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.</li>
 <li>idealisatie [1]: aanduiding van de manier waarop de geometrie ruimtelijk geïnterpreteerd moet worden. Domein: Idealisatie_1.</li>
 </ul>
 
@@ -1903,9 +1903,9 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 In GML als Xlink opgenomen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
+<td align='left' colspan='2'></td>
 </tr>
 </tbody>
 </table>
@@ -1917,50 +1917,50 @@ In GML als Xlink opgenomen.<br/>
 <col id='col2' style='width: 6.439868016839231%;'>
 <col id='col3' style='width: 69.40493799067016%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Structuurvisiegebied_G</span><br/>
+<th align='left' colspan='2'>Structuurvisiegebied_G<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Een gebied waarop één of meerdere beleidsuitspraken in het kader van een gemeentelijke structuurvisie betrekking hebben.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Een gebied waarop één of meerdere beleidsuitspraken in het kader van een gemeentelijke structuurvisie betrekking hebben.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van de klasse planobject.<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van de klasse planobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'><b><i>m</i></b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Attribuut samengesteld uit:<br/>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>NEN3610ID: Attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
 <li>Maximaal 32 karakters. Toegestane tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.</li>
@@ -1970,32 +1970,32 @@ In GML als Xlink opgenomen.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlanobject*<br/>
+<tr><td align='left'>typePlanobject*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van het planobject volgens de plantekst.<br/>
+<td align='left'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>thema<br/>
+<tr><td align='left'>naam<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Thema’s waarmee het beleid van toepassing kan worden getypeerd.<br/>
+<td align='left'>Naam van het planobject volgens de plantekst.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>beleidInfo<br/>
+<tr><td align='left'>thema<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>1..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>BeleidInfo_GSV: Samengesteld attribuut met informatie over het soort beleid, bestaande uit:<br/>
+<td align='left'>Thema’s waarmee het beleid van toepassing kan worden getypeerd.<br/>
+</td>
+</tr>
+<tr><td align='left'>beleidInfo<br/>
+</td>
+<td align='left'>0..*<br/>
+</td>
+<td align='left'>BeleidInfo_GSV: Samengesteld attribuut met informatie over het soort beleid, bestaande uit:<br/>
 <ul><li>belang [0..1]: omschrijving van het belang dat met het beleid beoogd wordt.</li>
 <li>rol [0..1]: omschrijving van de rol van de gemeente.</li>
 <li>instrument [0..1]: instrument dat gebruikt wordt om het belang te verwezenlijken. Domein: Instrument_GSV.</li>
@@ -2003,11 +2003,11 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarTekstInfo<br/>
+<tr><td align='left'>verwijzingNaarTekstInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar tekst.<br/>
+<td align='left'>Verwijzing naar tekst.<br/>
 Afhankelijk of als norm ook de IMROPT2012 is toegepast wordt er gebruik gemaakt van objectgerichte tekst of niet-objectgerichte tekst.<br/>
 TekstReferentie_SV: Samengesteld attribuut waarin opgenomen:<br/>
 <ul><li>verwijzingNaarTekst [1]: Verwijzing naar de plantekst. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen. De waarde kan als een hyperlink geïmplementeerd worden.</li>
@@ -2017,15 +2017,15 @@ TekstReferentie_SV: Samengesteld attribuut waarin opgenomen:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarIllustratieInfo<br/>
+<tr><td align='left'>verwijzingNaarIllustratieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>IllustratieReferentie: Samengesteld attribuut bestaande uit de attributen:<br/>
+<td align='left'>IllustratieReferentie: Samengesteld attribuut bestaande uit de attributen:<br/>
 <ul><li>verwijzingNaarIllustratie [1]: naam van het bestand dat de illustratie omvat. De waarde kan als een hyperlink geïmplementeerd worden.</li>
 <li>typeIllustratie [1]: soort illustratie. Domein: Illustratie.</li>
 <li>legendanaam [0..1]: naam volgens de legenda van de illustratie waarnaar verwezen wordt.</li>
@@ -2033,11 +2033,11 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarExternPlanInfo<br/>
+<tr><td align='left'>verwijzingNaarExternPlanInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ExternPlanReferentie_SV:<br/>
+<td align='left'>ExternPlanReferentie_SV:<br/>
 Een samengesteld attribuut bestaande uit:<br/>
 <ul><li>        naamExternPlan [1]: naam van het externe plan/besluit.</li>
 <li>        idnExternPlan [0..1]: idn van het externe plan/besluit.</li>
@@ -2046,11 +2046,11 @@ Een samengesteld attribuut bestaande uit:<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>cartografieInfo<br/>
+<tr><td align='left'>cartografieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>CartografieInfo: Samengesteld attribuut, bestaande uit een combinatie van attributen om kaartnummer, kaartnaam en symboolcode op te nemen:<br/>
+<td align='left'>CartografieInfo: Samengesteld attribuut, bestaande uit een combinatie van attributen om kaartnummer, kaartnaam en symboolcode op te nemen:<br/>
 <ul><li>kaartnummer [1]: het nummer (positief geheel getal) van de kaart waartoe dit object behoort. De hoofdkaart heeft nummer 1 en komt altijd voor. Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.</li>
 <li>kaartnaam [1]: naam van de kaart waartoe dit object behoort.</li>
 <li>symboolcode [0..1]: code van de gebruikte verbeelding voor weergave van het object uit SLD SymboolCodelijst vormvrije plannen.</li>
@@ -2059,11 +2059,11 @@ Een samengesteld attribuut bestaande uit:<br/>
 Opmerking: kaartnummer en kaartnaam zijn aan elkaar gekoppeld. Een bepaald kaartnummer heeft binnen een plan altijd een zelfde kaartnaam en andersom.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
+<tr><td align='left' colspan='3'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><ul><li>plangebied [1]: Verwijzing naar (de identificatiecode van) het plangebied waar het object Structuurvisiegebied_G onderdeel van uitmaakt. In GML als Xlink opgenomen.</li>
+<td align='left' colspan='2'><ul><li>plangebied [1]: Verwijzing naar (de identificatiecode van) het plangebied waar het object Structuurvisiegebied_G onderdeel van uitmaakt. In GML als Xlink opgenomen.</li>
 <li>        begrenzing [1..*]: Verwijzing naar een GeometrieStructuurvisieObject bestaande uit:<ul><li>geometrie [1]: Coördinaten in GML format. Domein: PuntLijnVlakMulti. Punt, lijn, vlak of multiversies daarvan. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.</li>
 <li>idealisatie [1]: aanduiding van de manier waarop de geometrie ruimtelijk geïnterpreteerd moet worden. Domein: Idealisatie_3.</li>
 </ul>
@@ -2074,9 +2074,9 @@ Opmerking: kaartnummer en kaartnaam zijn aan elkaar gekoppeld. Een bepaald kaart
 In GML als Xlink opgenomen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
+<td align='left' colspan='2'></td>
 </tr>
 </tbody>
 </table>
@@ -2088,50 +2088,50 @@ In GML als Xlink opgenomen.<br/>
 <col id='col2' style='width: 6.047008547008547%;'>
 <col id='col3' style='width: 71.27136752136752%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Structuurvisiecomplex_G</span><br/>
+<th align='left' colspan='2'>Structuurvisiecomplex_G<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Een samenstelling van objecten Structuurvisiegebied en of andere complexen binnen één structuurvisieplangebied, waarop één of meerdere beleidsuitspraken betrekking hebben en waarbij op het niveau van de samenstellende delen (gebieden en/of andere complexen) verschillende specifieke beleidsuitspraken gedaan moeten worden.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Een samenstelling van objecten Structuurvisiegebied en of andere complexen binnen één structuurvisieplangebied, waarop één of meerdere beleidsuitspraken betrekking hebben en waarbij op het niveau van de samenstellende delen (gebieden en/of andere complexen) verschillende specifieke beleidsuitspraken gedaan moeten worden.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van de klasse Planobject<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van de klasse Planobject<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'><b><i>m</i></b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
 <li>Maximaal 32 karakters. Toegestane tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.</li>
@@ -2141,32 +2141,32 @@ In GML als Xlink opgenomen.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlanobject*<br/>
+<tr><td align='left'>typePlanobject*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van het planobject volgens de plantekst.<br/>
+<td align='left'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>thema<br/>
+<tr><td align='left'>naam<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Thema’s waarmee het beleid van toepassing kan worden getypeerd.<br/>
+<td align='left'>Naam van het planobject volgens de plantekst.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>beleidInfo<br/>
+<tr><td align='left'>thema<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>BeleidInfo_GSV: Samengesteld attribuut met informatie over het soort beleid, bestaande uit:<br/>
+<td align='left'>Thema’s waarmee het beleid van toepassing kan worden getypeerd.<br/>
+</td>
+</tr>
+<tr><td align='left'>beleidInfo<br/>
+</td>
+<td align='left'>0..*<br/>
+</td>
+<td align='left'>BeleidInfo_GSV: Samengesteld attribuut met informatie over het soort beleid, bestaande uit:<br/>
 <ul><li>belang [0..1]: omschrijving van het belang dat met het beleid beoogd wordt.</li>
 <li>rol [0..1]: omschrijving van de rol van de gemeente.</li>
 <li>instrument [0..1]: instrument dat gebruikt wordt om het belang te verwezenlijken. Domein: Instrument_GSV.</li>
@@ -2174,11 +2174,11 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarTekstInfo<br/>
+<tr><td align='left'>verwijzingNaarTekstInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar tekst.<br/>
+<td align='left'>Verwijzing naar tekst.<br/>
 Afhankelijk of als norm ook de IMROPT2012 is toegepast wordt er gebruik gemaakt van objectgerichte tekst of niet-objectgerichte tekst.<br/>
 TekstReferentie_SV: Samengesteld attribuut waarin opgenomen:<br/>
 <ul><li>verwijzingNaarTekst [1]: Verwijzing naar de plantekst. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen. De waarde kan als een hyperlink geïmplementeerd worden.</li>
@@ -2187,15 +2187,15 @@ TekstReferentie_SV: Samengesteld attribuut waarin opgenomen:<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarIllustratieInfo<br/>
+<tr><td align='left'>verwijzingNaarIllustratieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>IllustratieReferentie: Samengesteld attribuut bestaande uit de attributen:<br/>
+<td align='left'>IllustratieReferentie: Samengesteld attribuut bestaande uit de attributen:<br/>
 <ul><li>verwijzingNaarIllustratie [1]: naam van het bestand dat de illustratie omvat. De waarde kan als een hyperlink geïmplementeerd worden.</li>
 <li>typeIllustratie [1]: soort illustratie. Domein: Illustratie.</li>
 <li>legendanaam [0..1]: naam volgens de legenda van de illustratie waarnaar verwezen wordt.</li>
@@ -2203,11 +2203,11 @@ TekstReferentie_SV: Samengesteld attribuut waarin opgenomen:<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarExternPlanInfo<br/>
+<tr><td align='left'>verwijzingNaarExternPlanInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ExternPlanReferentie_SV:<br/>
+<td align='left'>ExternPlanReferentie_SV:<br/>
 Een samengesteld attribuut bestaande uit:<br/>
 <ul><li>        naamExternPlan [1]: naam van het externe plan/besluit.</li>
 <li>        idnExternPlan [0..1]: idn van het externe plan/besluit.</li>
@@ -2216,11 +2216,11 @@ Een samengesteld attribuut bestaande uit:<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>cartografieInfo<br/>
+<tr><td align='left'>cartografieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>CartografieInfo: Samengesteld attribuut, bestaande uit een combinatie van attributen om kaartnummer, kaartnaam en symboolcode op te nemen:<br/>
+<td align='left'>CartografieInfo: Samengesteld attribuut, bestaande uit een combinatie van attributen om kaartnummer, kaartnaam en symboolcode op te nemen:<br/>
 <ul><li>kaartnummer [1]: het nummer (positief geheel getal) van de kaart waartoe dit object behoort. De hoofdkaart heeft nummer 1 en komt altijd voor. Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.</li>
 <li>kaartnaam [1]: naam van de kaart waartoe dit object behoort.</li>
 <li>symboolcode [0..1]: code van de gebruikte verbeelding voor weergave van het object uit SLD SymboolCodelijst vormvrije plannen.</li>
@@ -2229,11 +2229,11 @@ Een samengesteld attribuut bestaande uit:<br/>
 Opmerking: kaartnummer en kaartnaam zijn aan elkaar gekoppeld. Een bepaald kaartnummer heeft binnen een plan altijd een zelfde kaartnaam en andersom.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
+<tr><td align='left' colspan='3'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><ul><li>plangebied [1]: Verwijzing naar (de identificatiecode van) het plangebied waar het object StructuurvisieComplex_G onderdeel van uitmaakt. In GML als Xlink opgenomen.</li>
+<td align='left' colspan='2'><ul><li>plangebied [1]: Verwijzing naar (de identificatiecode van) het plangebied waar het object StructuurvisieComplex_G onderdeel van uitmaakt. In GML als Xlink opgenomen.</li>
 <li>planobject [1..*]: verwijzing naar (de idn van) de planobjecten die onderdeel van het complex zijn. In GML als Xlink opgenomen.</li>
 <li>        begrenzing [0..*]: Verwijzing naar een GeometrieStructuurvisieObject bestaande uit:<ul><li>geometrie [1]: Coördinaten in GML format. Domein: PuntLijnVlakMulti. Punt, lijn, vlak of multiversies daarvan. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.</li>
 <li>idealisatie [1]: aanduiding van de manier waarop de geometrie ruimtelijk geïnterpreteerd moet worden. Domein: Idealisatie_3.</li>
@@ -2245,9 +2245,9 @@ Opmerking: kaartnummer en kaartnaam zijn aan elkaar gekoppeld. Een bepaald kaart
 In GML als Xlink opgenomen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
+<td align='left' colspan='2'></td>
 </tr>
 </tbody>
 </table>
@@ -2268,49 +2268,49 @@ De verschillende klassen en relaties worden in de volgende subparagrafen toegeli
 <col id='col2' style='width: 6.33747620647184%;'>
 <col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Structuurvisieplangebied_P</span><br/>
+<th align='left' colspan='2'>Structuurvisieplangebied_P<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Gebied, of gebieden, binnen de grenzen van een provinciale structuurvisie.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Gebied, of gebieden, binnen de grenzen van een provinciale structuurvisie.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van Plangebied.<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van Plangebied.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
+<td align='left'><b><i>m</i></b><br/>
+</td>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'></td>
+<td align='left'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
 </ul>
@@ -2325,53 +2325,53 @@ Toelichting: Uit de waarden van deze attributen wordt de bestandsnaam van het pl
 namespace.lokaalID-versie.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlan<br/>
+<tr><td align='left'>typePlan<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Nadere aanduiding van het type ruimtelijk instrument. Domein: RuimtelijkPlanOfBesluit_SV<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>beleidsmatigVerantwoordelijkeOverheid<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Overheid die beleidsmatig verantwoordelijk is voor het ruimtelijk instrument. Domein: Overheden_P.<br/>
+<td align='left'>Nadere aanduiding van het type ruimtelijk instrument. Domein: RuimtelijkPlanOfBesluit_SV<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naamOverheid<br/>
+<tr><td align='left'>beleidsmatigVerantwoordelijkeOverheid<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van de beleidsmatig verantwoordelijke overheid. Volgens format in de vorm: provincie …..<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>overheidsCode<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>CBS-code van de beleidsmatig verantwoordelijke overheid. Format in de vorm: 4 cijfers. CBS-code provincie met voorafgaand 2 voorloopnegens.<br/>
+<td align='left'>Overheid die beleidsmatig verantwoordelijk is voor het ruimtelijk instrument. Domein: Overheden_P.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
+<tr><td align='left'>naamOverheid<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De naam van de structuurvisie volgens de (aanhaal)titel. <br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>locatieNaam<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam van de locatie.<br/>
+<td align='left'>Naam van de beleidsmatig verantwoordelijke overheid. Volgens format in de vorm: provincie …..<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>planstatusInfo<br/>
+<tr><td align='left'>overheidsCode<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>PlanstatusEnDatum:<br/>
+<td align='left'>CBS-code van de beleidsmatig verantwoordelijke overheid. Format in de vorm: 4 cijfers. CBS-code provincie met voorafgaand 2 voorloopnegens.<br/>
+</td>
+</tr>
+<tr><td align='left'>naam<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>De naam van de structuurvisie volgens de (aanhaal)titel. <br/>
+</td>
+</tr>
+<tr><td align='left'>locatieNaam<br/>
+</td>
+<td align='left'>0..*<br/>
+</td>
+<td align='left'>naam van de locatie.<br/>
+</td>
+</tr>
+<tr><td align='left'>planstatusInfo<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>PlanstatusEnDatum:<br/>
 Een samengesteld attribuut waarbij de status van de structuurvisie en de datum waarop die is toegekend wordt opgenomen:<br/>
 <ul><li>Planstatus [1]: aanduiding van de planstatus. Domein: Planstatus.</li>
 <li>datum: datum [1]: waarop de planstatus toegekend is. In format jjjj-mm-dd</li>
@@ -2379,39 +2379,39 @@ Een samengesteld attribuut waarbij de status van de structuurvisie en de datum w
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>besluitnummer<br/>
+<tr><td align='left'>besluitnummer<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1<br/>
+<td align='left'>0..1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Het nummer van het vaststellingsbesluit. Alleen toegestaan en verplicht bij de planstatus vastgesteld.<br/>
+<td align='left'>Het nummer van het vaststellingsbesluit. Alleen toegestaan en verplicht bij de planstatus vastgesteld.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarVaststellingsbesluit<br/>
+<tr><td align='left'>verwijzingNaarVaststellingsbesluit<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1<br/>
+<td align='left'>0..1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar de tekst van het vaststellingsbesluit. Alleen toegestaan en verplicht bij de planstatus vastgesteld. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen.<br/>
+<td align='left'>Verwijzing naar de tekst van het vaststellingsbesluit. Alleen toegestaan en verplicht bij de planstatus vastgesteld. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen.<br/>
 De waarde kan als een hyperlink geïmplementeerd worden.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarIllustratieInfo<br/>
+<tr><td align='left'>verwijzingNaarIllustratieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>IllustratieReferentiePG: Samengesteld attribuut bestaande uit de attributen:<br/>
+<td align='left'>IllustratieReferentiePG: Samengesteld attribuut bestaande uit de attributen:<br/>
 <ul><li>verwijzingNaarIllustratie [1]: naam van het bestand dat de illustratie omvat. De waarde kan als een hyperlink geïmplementeerd worden.</li>
 <li>typeIllustratie [1]: soort illustratie. Domein: Illustratie.</li>
 </ul>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarTekstInfo<br/>
+<tr><td align='left'>verwijzingNaarTekstInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..3<br/>
+<td align='left'>1..3<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar tekst.<br/>
+<td align='left'>Verwijzing naar tekst.<br/>
 Afhankelijk of als norm ook de IMROPT2012 is toegepast wordt er gebruik gemaakt van objectgerichte tekst of niet-objectgerichte tekst.<br/>
 1 verwijzing naar volledige beleidsdocument(en) (verplicht) en max. 1 naar volledige bijlage(n).<br/>
 TekstReferentiePG_SV: Samengesteld attribuut waarin opgenomen:<br/>
@@ -2422,15 +2422,15 @@ TekstReferentiePG_SV: Samengesteld attribuut waarin opgenomen:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ondergrondInfo<br/>
+<tr><td align='left'>ondergrondInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>OndergrondReferentie:<br/>
+<td align='left'>OndergrondReferentie:<br/>
 Een samengesteld attribuut bestaande uit.<br/>
 <ul><li>ondergrondtype [1]: naam van de ondergrond volgens domein Ondergronden.</li>
 <li>ondergronddatumondergronddatum [1]: datum van de gebruikte ondergrond.</li>
@@ -2439,11 +2439,11 @@ Een samengesteld attribuut bestaande uit.<br/>
 Indien geen gebruik is gemaakt van een ondergrond uit het domein Ondergronden wordt een eenduidige referentie naar de gebruikte ondergrond(en) gegeven.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarExternPlanInfo<br/>
+<tr><td align='left'>verwijzingNaarExternPlanInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ExternPlanReferentiePG_SV:<br/>
+<td align='left'>ExternPlanReferentiePG_SV:<br/>
 Een samengesteld attribuut bestaande uit:<br/>
 <ul><li>        naamExternPlan [1]: naam van het externe plan/besluit.</li>
 <li>        idnExternPlan [0..1]: idn van het externe plan/besluit.</li>
@@ -2453,18 +2453,18 @@ Een samengesteld attribuut bestaande uit:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNorm<br/>
+<tr><td align='left'>verwijzingNorm<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>2..3<br/>
+<td align='left'>2..3<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Opname van de norm en de praktijkrichtlijn volgens welke het instrument gecodeerd is. Vaste waarden: IMRO2012 en PRSV2012. Indien gebruik wordt gemaakt van objectgerichte planteksten wordt ook de norm IMROPT2012 opgenomen. In dat geval geldt het gebruik van objectgerichte planteksten bij alle attributen waar dit van toepassing kan zijn.<br/>
+<td align='left'>Opname van de norm en de praktijkrichtlijn volgens welke het instrument gecodeerd is. Vaste waarden: IMRO2012 en PRSV2012. Indien gebruik wordt gemaakt van objectgerichte planteksten wordt ook de norm IMROPT2012 opgenomen. In dat geval geldt het gebruik van objectgerichte planteksten bij alle attributen waar dit van toepassing kan zijn.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
+<tr><td align='left' colspan='3'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><ul><li>        begrenzing [1]: Verwijzing naar een object GeometriePlangebied_P bestaande uit:<ul><li>geometrie [1]: Coördinaten in GML format. Domein: VlakMultiValk. Vlak of Multivlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.</li>
+<td align='left' colspan='2'><ul><li>        begrenzing [1]: Verwijzing naar een object GeometriePlangebied_P bestaande uit:<ul><li>geometrie [1]: Coördinaten in GML format. Domein: VlakMultiValk. Vlak of Multivlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.</li>
 <li>inwinningsschaal [0..1]: schaal waarop het object ingewonnen is; schaal van de gebruikte ondergrond. Een positief getal in het format XX…. voor een object dat op schaal 1:XX…. ingewonnen is.</li>
 <li>idealisatie [1]: aanduiding van de manier waarop de geometrie ruimtelijk geïnterpreteerd moet worden. Domein: Idealisatie_1.</li>
 </ul>
@@ -2475,9 +2475,9 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 In GML als Xlink opgenomen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
+<td align='left' colspan='2'></td>
 </tr>
 </tbody>
 </table>
@@ -2489,50 +2489,50 @@ In GML als Xlink opgenomen.<br/>
 <col id='col2' style='width: 6.33747620647184%;'>
 <col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Structuurvisiegebied_P</span><br/>
+<th align='left' colspan='2'>Structuurvisiegebied_P<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Een gebied waarop één of meerdere beleidsuitspraken in het kader van een provinciale structuurvisie betrekking hebben.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Een gebied waarop één of meerdere beleidsuitspraken in het kader van een provinciale structuurvisie betrekking hebben.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van de klasse Planobject.<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van de klasse Planobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'><b><i>m</i></b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
 <li>Maximaal 32 karakters. Toegestane tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.</li>
@@ -2542,32 +2542,32 @@ In GML als Xlink opgenomen.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlanobject*<br/>
+<tr><td align='left'>typePlanobject*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van het planobject volgens de plantekst.<br/>
+<td align='left'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>thema<br/>
+<tr><td align='left'>naam<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Thema’s waarmee het beleid van toepassing kan worden getypeerd.<br/>
+<td align='left'>Naam van het planobject volgens de plantekst.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>beleidInfo<br/>
+<tr><td align='left'>thema<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>BeleidInfo_PSV: Samengesteld attribuut met informatie over het soort beleid, bestaande uit:<br/>
+<td align='left'>Thema’s waarmee het beleid van toepassing kan worden getypeerd.<br/>
+</td>
+</tr>
+<tr><td align='left'>beleidInfo<br/>
+</td>
+<td align='left'>1..*<br/>
+</td>
+<td align='left'>BeleidInfo_PSV: Samengesteld attribuut met informatie over het soort beleid, bestaande uit:<br/>
 <ul><li>belang [1]: omschrijving van het belang dat met het beleid beoogd wordt.</li>
 <li>rol [1]: omschrijving van de rol van de provincie.</li>
 <li>instrument [0..1]: instrument dat gebruikt wordt om het belang te verwezenlijken. Domein: Instrument_PSV.</li>
@@ -2575,11 +2575,11 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarTekstInfo<br/>
+<tr><td align='left'>verwijzingNaarTekstInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar tekst.<br/>
+<td align='left'>Verwijzing naar tekst.<br/>
 Afhankelijk of als norm ook de IMROPT2012 is toegepast wordt er gebruik gemaakt van objectgerichte tekst of niet-objectgerichte tekst.<br/>
 TekstReferentie_PSV: Samengesteld attribuut waarin opgenomen:<br/>
 <ul><li>verwijzingNaarTekst [1]: Verwijzing naar de plantekst. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen. De waarde kan als een hyperlink geïmplementeerd worden.</li>
@@ -2589,15 +2589,15 @@ TekstReferentie_PSV: Samengesteld attribuut waarin opgenomen:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarIllustratieInfo<br/>
+<tr><td align='left'>verwijzingNaarIllustratieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>IllustratieReferentie_PSV: Samengesteld attribuut bestaande uit de attributen:<br/>
+<td align='left'>IllustratieReferentie_PSV: Samengesteld attribuut bestaande uit de attributen:<br/>
 <ul><li>verwijzingNaarIllustratie [1]: naam van het bestand dat de illustratie omvat. De waarde kan als een hyperlink geïmplementeerd worden.</li>
 <li>typeIllustratie [1]: soort illustratie. Domein: Illustratie.</li>
 <li>naamIllustratie [0..1]: naam van de illustratie</li>
@@ -2606,11 +2606,11 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarExternPlanInfo<br/>
+<tr><td align='left'>verwijzingNaarExternPlanInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ExternPlanReferentie_SV:<br/>
+<td align='left'>ExternPlanReferentie_SV:<br/>
 Een samengesteld attribuut bestaande uit:<br/>
 <ul><li>        naamExternPlan [1]: naam van het externe plan/besluit.</li>
 <li>        idnExternPlan [0..1]: idn van het externe plan/besluit.</li>
@@ -2619,11 +2619,11 @@ Een samengesteld attribuut bestaande uit:<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>cartografieInfo<br/>
+<tr><td align='left'>cartografieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>CartografieInfo: Samengesteld attribuut, bestaande uit een combinatie van attributen om kaartnummer, kaartnaam en symboolcode op te nemen:<br/>
+<td align='left'>CartografieInfo: Samengesteld attribuut, bestaande uit een combinatie van attributen om kaartnummer, kaartnaam en symboolcode op te nemen:<br/>
 <ul><li>kaartnummer [1]: het nummer (positief geheel getal) van de kaart waartoe dit object behoort. De hoofdkaart heeft nummer 1 en komt altijd voor. Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.</li>
 <li>kaartnaam [1]: naam van de kaart waartoe dit object behoort.</li>
 <li>symboolcode [0..1]: code van de gebruikte verbeelding voor weergave van het object uit SLD SymboolCodelijst vormvrije plannen.</li>
@@ -2632,11 +2632,11 @@ Een samengesteld attribuut bestaande uit:<br/>
 Opmerking: kaartnummer en kaartnaam zijn aan elkaar gekoppeld. Een bepaald kaartnummer heeft binnen een plan altijd een zelfde kaartnaam en andersom.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
+<tr><td align='left' colspan='3'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><ul><li>plangebied: Verwijzing naar (de identificatiecode van) het plangebied waar het object Structuurvisiegebied_P onderdeel van uitmaakt. In GML als Xlink opgenomen.</li>
+<td align='left' colspan='2'><ul><li>plangebied: Verwijzing naar (de identificatiecode van) het plangebied waar het object Structuurvisiegebied_P onderdeel van uitmaakt. In GML als Xlink opgenomen.</li>
 <li>        begrenzing [1..*]: Verwijzing naar een GeometrieStructuurvisieObject_P bestaande uit:<ul><li>geometrie [1]: Coördinaten in GML format. Domein: PuntLijnVlakMulti. Punt, lijn, vlak of multiversies daarvan. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.</li>
 <li>inwinningsschaal [0..1]: schaal waarop het object ingewonnen is; schaal van de gebruikte ondergrond. Een positief getal in het format XX…. voor een object dat op schaal 1:XX…. ingewonnen is. Alleen opgenomen indien het anders is dan bij object Structuurvisieplangebied_P.</li>
 <li>idealisatie [1]: aanduiding van de manier waarop de geometrie ruimtelijk geïnterpreteerd moet worden. Domein: Idealisatie_3.</li>
@@ -2648,9 +2648,9 @@ Opmerking: kaartnummer en kaartnaam zijn aan elkaar gekoppeld. Een bepaald kaart
 In GML als Xlink opgenomen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
+<td align='left' colspan='2'></td>
 </tr>
 </tbody>
 </table>
@@ -2662,50 +2662,50 @@ In GML als Xlink opgenomen.<br/>
 <col id='col2' style='width: 6.33747620647184%;'>
 <col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Structuurvisiecomplex_P</span><br/>
+<th align='left' colspan='2'>Structuurvisiecomplex_P<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Een samenstelling van objecten Structuurvisiegebied en of Structuurvisieverklaring en of andere Complexen binnen één structuurvisieplangebied, waarop één of meerdere beleidsuitspraken betrekking hebben en waarbij op het niveau van de samenstellende delen (gebieden, veklaringen en/of andere complexen) verschillende specifieke beleidsuitspraken gedaan moeten worden.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Een samenstelling van objecten Structuurvisiegebied en of Structuurvisieverklaring en of andere Complexen binnen één structuurvisieplangebied, waarop één of meerdere beleidsuitspraken betrekking hebben en waarbij op het niveau van de samenstellende delen (gebieden, veklaringen en/of andere complexen) verschillende specifieke beleidsuitspraken gedaan moeten worden.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van de klasse Planobject.<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van de klasse Planobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'><b><i>m</i></b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
 <li>Maximaal 32 karakters. Toegestane tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.</li>
@@ -2715,32 +2715,32 @@ In GML als Xlink opgenomen.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlanobject*<br/>
+<tr><td align='left'>typePlanobject*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van het object planobject volgens de plantekst.<br/>
+<td align='left'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>thema<br/>
+<tr><td align='left'>naam<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Keuze uit een lijst van thema’s waarmee het beleid van toepassing kan worden getypeerd.<br/>
+<td align='left'>Naam van het object planobject volgens de plantekst.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>beleidInfo<br/>
+<tr><td align='left'>thema<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>BeleidInfo_PSV: Samengesteld attribuut met informatie over het soort beleid, bestaande uit:<br/>
+<td align='left'>Keuze uit een lijst van thema’s waarmee het beleid van toepassing kan worden getypeerd.<br/>
+</td>
+</tr>
+<tr><td align='left'>beleidInfo<br/>
+</td>
+<td align='left'>0..*<br/>
+</td>
+<td align='left'>BeleidInfo_PSV: Samengesteld attribuut met informatie over het soort beleid, bestaande uit:<br/>
 <ul><li>belang [1]: omschrijving van het belang dat met het beleid beoogd wordt.</li>
 <li>rol [1]: omschrijving van de rol van de provincie.</li>
 <li>instrument [0..1]: instrument dat gebruikt wordt om het belang te verwezenlijken. Domein: Instrument_PSV</li>
@@ -2748,11 +2748,11 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarTekstInfo<br/>
+<tr><td align='left'>verwijzingNaarTekstInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar tekst.<br/>
+<td align='left'>Verwijzing naar tekst.<br/>
 Afhankelijk of als norm ook de IMROPT2012 is toegepast wordt er gebruik gemaakt van objectgerichte tekst of niet-objectgerichte tekst.<br/>
 TekstReferentie_PSV: Samengesteld attribuut waarin opgenomen:<br/>
 <ul><li>verwijzingNaarTekst [1]: Verwijzing naar de plantekst. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen. De waarde kan als een hyperlink geïmplementeerd worden.</li>
@@ -2762,15 +2762,15 @@ TekstReferentie_PSV: Samengesteld attribuut waarin opgenomen:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarIllustratieInfo<br/>
+<tr><td align='left'>verwijzingNaarIllustratieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>IllustratieReferentie_PSV: Samengesteld attribuut bestaande uit de attributen:<br/>
+<td align='left'>IllustratieReferentie_PSV: Samengesteld attribuut bestaande uit de attributen:<br/>
 <ul><li>verwijzingNaarIllustratie [1]: naam van het bestand dat de illustratie omvat. De waarde kan als een hyperlink geïmplementeerd worden.</li>
 <li>typeIllustratie [1]: soort illustratie. Domein: Illustratie.</li>
 <li>naamIllustratie [0..1]: naam van de illustratie</li>
@@ -2779,11 +2779,11 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarExternPlanInfo<br/>
+<tr><td align='left'>verwijzingNaarExternPlanInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ExternPlanReferentie_SV:<br/>
+<td align='left'>ExternPlanReferentie_SV:<br/>
 Een samengesteld attribuut bestaande uit:<br/>
 <ul><li>        naamExternPlan [1]: naam van het externe plan/besluit.</li>
 <li>        idnExternPlan [0..1]: idn van het externe plan/besluit.</li>
@@ -2792,11 +2792,11 @@ Een samengesteld attribuut bestaande uit:<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>cartografieInfo<br/>
+<tr><td align='left'>cartografieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>CartografieInfo: Samengesteld attribuut, bestaande uit een combinatie van attributen om kaartnummer, kaartnaam en symboolcode op te nemen:<br/>
+<td align='left'>CartografieInfo: Samengesteld attribuut, bestaande uit een combinatie van attributen om kaartnummer, kaartnaam en symboolcode op te nemen:<br/>
 <ul><li>kaartnummer [1]: het nummer (positief geheel getal) van de kaart waartoe dit object behoort. De hoofdkaart heeft nummer 1 en komt altijd voor. Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.</li>
 <li>kaartnaam [1]: naam van de kaart waartoe dit object behoort.</li>
 <li>symboolcode [0..1]: code van de gebruikte verbeelding voor weergave van het object uit SLD SymboolCodelijst vormvrije plannen.</li>
@@ -2805,11 +2805,11 @@ Een samengesteld attribuut bestaande uit:<br/>
 Opmerking: kaartnummer en kaartnaam zijn aan elkaar gekoppeld. Een bepaald kaartnummer heeft binnen een plan altijd een zelfde kaartnaam en andersom.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
+<tr><td align='left' colspan='3'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><ul><li>plangebied [1]: Verwijzing naar (de identificatiecode van) het plangebied waar het object Structuurvisiegcomplex_G onderdeel van uitmaakt. In GML als Xlink opgenomen.</li>
+<td align='left' colspan='2'><ul><li>plangebied [1]: Verwijzing naar (de identificatiecode van) het plangebied waar het object Structuurvisiegcomplex_G onderdeel van uitmaakt. In GML als Xlink opgenomen.</li>
 <li>planobject [1..*]: verwijzing naar (de idn van) de planobjecten die onderdeel van het complex zijn. In GML als Xlink opgenomen.</li>
 <li>        begrenzing [0..*]: Verwijzing naar een GeometrieStructuurvisieObject_P bestaande uit:<ul><li>geometrie [1]: Coördinaten in GML format. Domein: PuntLijnVlakMulti. Punt, lijn, vlak of multiversies daarvan. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.</li>
 <li>inwinningsschaal [0..1]: schaal waarop het object ingewonnen is; schaal van de gebruikte ondergrond. Een positief getal in het format XX…. voor een object dat op schaal 1:XX…. ingewonnen is. Alleen opgenomen indien het anders is dan bij object Strucutuurvisieplangebied_P.</li>
@@ -2822,9 +2822,9 @@ Opmerking: kaartnummer en kaartnaam zijn aan elkaar gekoppeld. Een bepaald kaart
 In GML als Xlink opgenomen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
+<td align='left' colspan='2'></td>
 </tr>
 </tbody>
 </table>
@@ -2836,50 +2836,50 @@ In GML als Xlink opgenomen.<br/>
 <col id='col2' style='width: 6.33747620647184%;'>
 <col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Structuurvisieverklaring_P</span><br/>
+<th align='left' colspan='2'>Structuurvisieverklaring_P<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Ruimtelijke eenheid waaraan geen beleid gekoppeld is maar die wel in de plankaart als toelichting of nadere verklaring is opgenomen.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Ruimtelijke eenheid waaraan geen beleid gekoppeld is maar die wel in de plankaart als toelichting of nadere verklaring is opgenomen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van de klasse Planobject.<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van de klasse Planobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'><b><i>m</i></b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
 <li>Maximaal 32 karakters. Toegestane tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.</li>
@@ -2889,32 +2889,32 @@ In GML als Xlink opgenomen.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlanobject*<br/>
+<tr><td align='left'>typePlanobject*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van het planobject volgens plantekst.<br/>
+<td align='left'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>thema<br/>
+<tr><td align='left'>naam<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Thema’s waarmee het beleid van toepassing kan worden getypeerd.<br/>
+<td align='left'>Naam van het planobject volgens plantekst.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarTekstInfo<br/>
+<tr><td align='left'>thema<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar tekst.<br/>
+<td align='left'>Thema’s waarmee het beleid van toepassing kan worden getypeerd.<br/>
+</td>
+</tr>
+<tr><td align='left'>verwijzingNaarTekstInfo<br/>
+</td>
+<td align='left'>0..*<br/>
+</td>
+<td align='left'>Verwijzing naar tekst.<br/>
 Afhankelijk of als norm ook de IMROPT2012 is toegepast wordt er gebruik gemaakt van objectgerichte tekst of niet-objectgerichte tekst.<br/>
 TekstReferentieV_PSV: Samengesteld attribuut waarin opgenomen:<br/>
 <ul><li>verwijzingNaarTekst [1]: Verwijzing naar de plantekst. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen. De waarde kan als een hyperlink geïmplementeerd worden.</li>
@@ -2924,15 +2924,15 @@ TekstReferentieV_PSV: Samengesteld attribuut waarin opgenomen:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarIllustratieInfo<br/>
+<tr><td align='left'>verwijzingNaarIllustratieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>IllustratieReferentie_PSV: Samengesteld attribuut bestaande uit de attributen:<br/>
+<td align='left'>IllustratieReferentie_PSV: Samengesteld attribuut bestaande uit de attributen:<br/>
 <ul><li>verwijzingNaarIllustratie [1]: naam van het bestand dat de illustratie omvat. De waarde kan als een hyperlink geïmplementeerd worden.</li>
 <li>typeIllustratie [1]: soort illustratie. Domein: Illustratie.</li>
 <li>naamIllustratie [0..1]: naam van de illustratie</li>
@@ -2941,11 +2941,11 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>cartografieInfo<br/>
+<tr><td align='left'>cartografieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>CartografieInfo: Samengesteld attribuut, bestaande uit een combinatie van attributen om kaartnummer, kaartnaam en symboolcode op te nemen:<br/>
+<td align='left'>CartografieInfo: Samengesteld attribuut, bestaande uit een combinatie van attributen om kaartnummer, kaartnaam en symboolcode op te nemen:<br/>
 <ul><li>kaartnummer [1]: het nummer (positief geheel getal) van de kaart waartoe dit object behoort. De hoofdkaart heeft nummer 1 en komt altijd voor. Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.</li>
 <li>kaartnaam [1]: naam van de kaart waartoe dit object behoort.</li>
 <li>symboolcode [0..1]: code van de gebruikte verbeelding voor weergave van het object uit SLD SymboolCodelijst vormvrije plannen.</li>
@@ -2954,11 +2954,11 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 Opmerking: kaartnummer en kaartnaam zijn aan elkaar gekoppeld. Een bepaald kaartnummer heeft binnen een plan altijd een zelfde kaartnaam en andersom.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
+<tr><td align='left' colspan='3'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><ul><li>plangebied [1]: Verwijzing naar (de identificatiecode van) het plangebied waar het object Structuurvisieverklaring_P onderdeel van uitmaakt. In GML als Xlink opgenomen.</li>
+<td align='left' colspan='2'><ul><li>plangebied [1]: Verwijzing naar (de identificatiecode van) het plangebied waar het object Structuurvisieverklaring_P onderdeel van uitmaakt. In GML als Xlink opgenomen.</li>
 <li>        begrenzing [1..*]: Verwijzing naar een GeometrieStructuurvisieObject_P bestaande uit:<ul><li>geometrie [1]: Coördinaten in GML format. Domein: PuntLijnVlakMulti. Punt, lijn, vlak of multiversies daarvan. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.</li>
 <li>inwinningsschaal [0..1]: schaal waarop het object ingewonnen is; schaal van de gebruikte ondergrond. Een positief getal in het format XX…. voor een object dat op schaal 1:XX…. ingewonnen is. Alleen opgenomen indien het anders is dan bij object Strucutuurvisieplangebied_P.</li>
 <li>idealisatie [1]: aanduiding van de manier waarop de geometrie ruimtelijk geïnterpreteerd moet worden. Domein: Idealisatie_3.</li>
@@ -2970,9 +2970,9 @@ Opmerking: kaartnummer en kaartnaam zijn aan elkaar gekoppeld. Een bepaald kaart
 In GML als Xlink opgenomen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
+<td align='left' colspan='2'></td>
 </tr>
 </tbody>
 </table>
@@ -2994,49 +2994,49 @@ De verschillende klassen en relaties worden in de volgende subparagrafen toegeli
 <col id='col2' style='width: 6.33747620647184%;'>
 <col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Structuurvisieplangebied_R</span><br/>
+<th align='left' colspan='2'>Structuurvisieplangebied_R<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Gebied, of gebieden, binnen de grenzen van een Rijksstructuurvisie.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Gebied, of gebieden, binnen de grenzen van een Rijksstructuurvisie.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van Plangebied.<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van Plangebied.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
+<td align='left'><b><i>m</i></b><br/>
+</td>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'></td>
+<td align='left'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
 </ul>
@@ -3051,53 +3051,53 @@ namespace.lokaalID-versie.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlan<br/>
+<tr><td align='left'>typePlan<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Nadere aanduiding van het type ruimtelijk instrument. Domein: RuimtelijkPlanOfBesluit_SV.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>beleidsmatigVerantwoordelijkeOverheid<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Overheid die beleidsmatig verantwoordelijk is voor het ruimtelijk instrument. Domein: Overheden_R.<br/>
+<td align='left'>Nadere aanduiding van het type ruimtelijk instrument. Domein: RuimtelijkPlanOfBesluit_SV.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naamOverheid<br/>
+<tr><td align='left'>beleidsmatigVerantwoordelijkeOverheid<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van de beleidsmatig verantwoordelijke overheid. Volgens format in de vorm: ministerie … In het geval er meerdere verantwoordelijke ministeries zijn, wordt naamOverheid evenzoveel maal opgenomen.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>overheidsCode<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>CBS-code van de beleidsmatig verantwoordelijke overheid. Bij afwezigheid CBS-code voor het Rijk wordt hier ‘0000’ ingevuld.<br/>
+<td align='left'>Overheid die beleidsmatig verantwoordelijk is voor het ruimtelijk instrument. Domein: Overheden_R.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
+<tr><td align='left'>naamOverheid<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De naam van de structuurvisie volgens de (aanhaal)titel. <br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>locatieNaam<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De naam van de locatie.<br/>
+<td align='left'>Naam van de beleidsmatig verantwoordelijke overheid. Volgens format in de vorm: ministerie … In het geval er meerdere verantwoordelijke ministeries zijn, wordt naamOverheid evenzoveel maal opgenomen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>planstatusInfo<br/>
+<tr><td align='left'>overheidsCode<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>PlanstatusEnDatum:<br/>
+<td align='left'>CBS-code van de beleidsmatig verantwoordelijke overheid. Bij afwezigheid CBS-code voor het Rijk wordt hier ‘0000’ ingevuld.<br/>
+</td>
+</tr>
+<tr><td align='left'>naam<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>De naam van de structuurvisie volgens de (aanhaal)titel. <br/>
+</td>
+</tr>
+<tr><td align='left'>locatieNaam<br/>
+</td>
+<td align='left'>0..*<br/>
+</td>
+<td align='left'>De naam van de locatie.<br/>
+</td>
+</tr>
+<tr><td align='left'>planstatusInfo<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>PlanstatusEnDatum:<br/>
 Een samengesteld attribuut waarbij de status van de structuurvisie en de datum waarop die is toegekend wordt opgenomen:<br/>
 <ul><li>Planstatus [1]: aanduiding van de planstatus. Domein: Planstatus.</li>
 <li>datum: datum [1]: waarop de planstatus toegekend is. In format jjjj-mm-dd</li>
@@ -3105,39 +3105,39 @@ Een samengesteld attribuut waarbij de status van de structuurvisie en de datum w
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>besluitnummer<br/>
+<tr><td align='left'>besluitnummer<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1<br/>
+<td align='left'>0..1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Het nummer van het vaststellingsbesluit. Alleen toegestaan en verplicht bij de planstatus vastgesteld.<br/>
+<td align='left'>Het nummer van het vaststellingsbesluit. Alleen toegestaan en verplicht bij de planstatus vastgesteld.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarVaststellingsbesluit<br/>
+<tr><td align='left'>verwijzingNaarVaststellingsbesluit<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1<br/>
+<td align='left'>0..1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar de tekst van het vaststellingsbesluit. Alleen toegestaan en verplicht bij de planstatus vastgesteld. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen.<br/>
+<td align='left'>Verwijzing naar de tekst van het vaststellingsbesluit. Alleen toegestaan en verplicht bij de planstatus vastgesteld. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen.<br/>
 De waarde kan als een hyperlink geïmplementeerd worden.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarIllustratieInfo<br/>
+<tr><td align='left'>verwijzingNaarIllustratieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>IllustratieReferentiePG: Alleen verwijzen naar illustraties op het niveau ‘plangebied’. Samengesteld attribuut bestaande uit de attributen:<br/>
+<td align='left'>IllustratieReferentiePG: Alleen verwijzen naar illustraties op het niveau ‘plangebied’. Samengesteld attribuut bestaande uit de attributen:<br/>
 <ul><li>verwijzingNaarIllustratie [1]: naam van het bestand dat de illustratie omvat. De waarde kan als een hyperlink geïmplementeerd worden.</li>
 <li>typeIllustratie [1]: soort illustratie. Domein: Illustratie.</li>
 </ul>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarTekstInfo<br/>
+<tr><td align='left'>verwijzingNaarTekstInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..3<br/>
+<td align='left'>1..3<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar tekst.<br/>
+<td align='left'>Verwijzing naar tekst.<br/>
 Afhankelijk of als norm ook de IMROPT2012 is toegepast wordt er gebruik gemaakt van objectgerichte tekst of niet-objectgerichte tekst.<br/>
 1 verwijzing naar volledige beleidsdocument(en) (verplicht) en max. 1 naar volledige bijlage(n).<br/>
 TekstReferentiePG_SV: Samengesteld attribuut waarin opgenomen:<br/>
@@ -3148,15 +3148,15 @@ TekstReferentiePG_SV: Samengesteld attribuut waarin opgenomen:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ondergrondInfo<br/>
+<tr><td align='left'>ondergrondInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>OndergrondReferentie:<br/>
+<td align='left'>OndergrondReferentie:<br/>
 Een samengesteld attribuut bestaande uit.<br/>
 <ul><li>ondergrondtypeondergrondtype [1]: naam van de ondergrond volgens domein Ondergronden.</li>
 <li>ondergronddatumondergronddatum [1]: datum van de gebruikte ondergrond.</li>
@@ -3165,11 +3165,11 @@ Een samengesteld attribuut bestaande uit.<br/>
 Indien geen gebruik is gemaakt van een ondergrond uit het domein Ondergronden wordt een eenduidige referentie naar de gebruikte ondergrond(en) gegeven.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarExternPlanInfo<br/>
+<tr><td align='left'>verwijzingNaarExternPlanInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ExternPlanReferentiePG_SV:<br/>
+<td align='left'>ExternPlanReferentiePG_SV:<br/>
 Een samengesteld attribuut bestaande uit:<br/>
 <ul><li>        naamExternPlan [1]: naam van het externe plan/besluit.</li>
 <li>        idnExternPlan [0..1]: idn van het externe plan/besluit.</li>
@@ -3179,18 +3179,18 @@ Een samengesteld attribuut bestaande uit:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNorm<br/>
+<tr><td align='left'>verwijzingNorm<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>2..3<br/>
+<td align='left'>2..3<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Opname van de norm en de praktijkrichtlijn volgens welke het instrument gecodeerd is. Vaste waarden: IMRO2012 en PRSV2012. Indien gebruik wordt gemaakt van objectgerichte planteksten wordt ook de norm IMROPT2012 opgenomen. In dat geval geldt het gebruik van objectgerichte planteksten bij alle attributen waar dit van toepassing kan zijn.<br/>
+<td align='left'>Opname van de norm en de praktijkrichtlijn volgens welke het instrument gecodeerd is. Vaste waarden: IMRO2012 en PRSV2012. Indien gebruik wordt gemaakt van objectgerichte planteksten wordt ook de norm IMROPT2012 opgenomen. In dat geval geldt het gebruik van objectgerichte planteksten bij alle attributen waar dit van toepassing kan zijn.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
+<tr><td align='left' colspan='3'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><ul><li>        begrenzing [1]: Verwijzing naar een object GeometriePlangebied bestaande uit:<ul><li>geometrie [1]: Coördinaten in GML format. Domein: VlakMultiValk. Vlak of Multivlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.</li>
+<td align='left' colspan='2'><ul><li>        begrenzing [1]: Verwijzing naar een object GeometriePlangebied bestaande uit:<ul><li>geometrie [1]: Coördinaten in GML format. Domein: VlakMultiValk. Vlak of Multivlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.</li>
 <li>idealisatie [1]: aanduiding van de manier waarop de geometrie ruimtelijk geïnterpreteerd moet worden. Domein: Idealisatie_1</li>
 </ul>
 
@@ -3200,9 +3200,9 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 In GML als Xlink opgenomen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
+<td align='left' colspan='2'></td>
 </tr>
 </tbody>
 </table>
@@ -3214,50 +3214,50 @@ In GML als Xlink opgenomen.<br/>
 <col id='col2' style='width: 6.33747620647184%;'>
 <col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Structuurvisiegebied_R</span><br/>
+<th align='left' colspan='2'>Structuurvisiegebied_R<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Een gebied waarop één of meerdere beleidsuitspraken in het kader van een Rijks structuurvisie betrekking hebben.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Een gebied waarop één of meerdere beleidsuitspraken in het kader van een Rijks structuurvisie betrekking hebben.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van de klasse Planobject.<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van de klasse Planobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'><b><i>m</i></b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
 <li>Maximaal 32 karakters. Toegestane tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.</li>
@@ -3267,32 +3267,32 @@ In GML als Xlink opgenomen.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlanobject*<br/>
+<tr><td align='left'>typePlanobject*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van het object planobject volgens plantekst.<br/>
+<td align='left'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>thema<br/>
+<tr><td align='left'>naam<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Thema’s waarmee het beleid van toepassing kan worden getypeerd.<br/>
+<td align='left'>Naam van het object planobject volgens plantekst.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>beleidInfo<br/>
+<tr><td align='left'>thema<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>BeleidInfo_RSV: Samengesteld attribuut met informatie over het soort beleid, bestaande uit:<br/>
+<td align='left'>Thema’s waarmee het beleid van toepassing kan worden getypeerd.<br/>
+</td>
+</tr>
+<tr><td align='left'>beleidInfo<br/>
+</td>
+<td align='left'>1..*<br/>
+</td>
+<td align='left'>BeleidInfo_RSV: Samengesteld attribuut met informatie over het soort beleid, bestaande uit:<br/>
 <ul><li>belang [1]: omschrijving van het belang dat met het beleid beoogd wordt.</li>
 <li>rol [1]: omschrijving van de rol van het Rijk.</li>
 <li>instrument [0..1]: instrument dat gebruikt wordt om het belang te verwezenlijken. Domein: Instrument_RSV</li>
@@ -3300,11 +3300,11 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarTekstInfo<br/>
+<tr><td align='left'>verwijzingNaarTekstInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar tekst.<br/>
+<td align='left'>Verwijzing naar tekst.<br/>
 Afhankelijk of als norm ook de IMROPT2012 is toegepast wordt er gebruik gemaakt van objectgerichte tekst of niet-objectgerichte tekst.<br/>
 TekstReferentie_SV: Samengesteld attribuut waarin opgenomen:<br/>
 <ul><li>verwijzingNaarTekst [1]: Verwijzing naar de plantekst. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen. De waarde kan als een hyperlink geïmplementeerd worden.</li>
@@ -3314,15 +3314,15 @@ TekstReferentie_SV: Samengesteld attribuut waarin opgenomen:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarIllustratieInfo<br/>
+<tr><td align='left'>verwijzingNaarIllustratieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>IllustratieReferentie: Samengesteld attribuut bestaande uit de attributen:<br/>
+<td align='left'>IllustratieReferentie: Samengesteld attribuut bestaande uit de attributen:<br/>
 <ul><li>verwijzingNaarIllustratie [1]: naam van het bestand dat de illustratie omvat. De waarde kan als een hyperlink geïmplementeerd worden.</li>
 <li>typeIllustratie [1]: soort illustratie. Domein: Illustratie.</li>
 <li>legendanaam [0..1]: naam volgens de legenda van de illustratie waarnaar verwezen wordt.</li>
@@ -3330,11 +3330,11 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarExternPlanInfo<br/>
+<tr><td align='left'>verwijzingNaarExternPlanInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ExternPlanReferentie_SV:<br/>
+<td align='left'>ExternPlanReferentie_SV:<br/>
 Een samengesteld attribuut bestaande uit:<br/>
 <ul><li>        naamExternPlan [1]: naam van het externe plan/besluit.</li>
 <li>        idnExternPlan [0..1]: idn van het externe plan/besluit.</li>
@@ -3343,11 +3343,11 @@ Een samengesteld attribuut bestaande uit:<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>cartografieInfo<br/>
+<tr><td align='left'>cartografieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>CartografieInfo: Samengesteld attribuut, bestaande uit een combinatie van attributen om kaartnummer, kaartnaam en symboolcode op te nemen:<br/>
+<td align='left'>CartografieInfo: Samengesteld attribuut, bestaande uit een combinatie van attributen om kaartnummer, kaartnaam en symboolcode op te nemen:<br/>
 <ul><li>kaartnummer [1]: het nummer (positief geheel getal) van de kaart waartoe dit object behoort. De hoofdkaart heeft nummer 1 en komt altijd voor. Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.</li>
 <li>kaartnaam [1]: naam van de kaart waartoe dit object behoort.</li>
 <li>symboolcode [0..1]: code van de gebruikte verbeelding voor weergave van het object uit SLD SymboolCodelijst vormvrije plannen.</li>
@@ -3356,11 +3356,11 @@ Een samengesteld attribuut bestaande uit:<br/>
 Opmerking: kaartnummer en kaartnaam zijn aan elkaar gekoppeld. Een bepaald kaartnummer heeft binnen een plan altijd een zelfde kaartnaam en andersom.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
+<tr><td align='left' colspan='3'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><ul><li>plangebied [1]: Verwijzing naar (de identificatiecode van) het plangebied waar het object Structuurvisiegebied_R onderdeel van uit maakt. In GML als Xlink opgenomen.</li>
+<td align='left' colspan='2'><ul><li>plangebied [1]: Verwijzing naar (de identificatiecode van) het plangebied waar het object Structuurvisiegebied_R onderdeel van uit maakt. In GML als Xlink opgenomen.</li>
 <li>        begrenzing [0..*]: Verwijzing naar een GeometrieStructuurvisieObject bestaande uit:<ul><li>geometrie [1]: Coördinaten in GML format. Domein: PuntLijnVlakMulti. Punt, lijn, vlak of multiversies daarvan. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.</li>
 <li>idealisatie [1]: aanduiding van de manier waarop de geometrie ruimtelijk geïnterpreteerd moet worden. Domein: Idealisatie_3.</li>
 </ul>
@@ -3373,9 +3373,9 @@ Verplicht indien als illustratieReferentie naar een kaart wordt verwezen.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
+<td align='left' colspan='2'></td>
 </tr>
 </tbody>
 </table>
@@ -3387,50 +3387,50 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 <col id='col2' style='width: 6.33747620647184%;'>
 <col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Structuurvisiecomplex_R</span><br/>
+<th align='left' colspan='2'>Structuurvisiecomplex_R<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Een samenstelling van objecten Structuurvisiegebied en of andere complexen binnen één structuurvisieplangebied, waarop één of meerdere beleidsuitspraken betrekking hebben en waarbij op het niveau van de samenstellende delen (gebieden en/of andere complexen) verschillende specifieke beleidsuitspraken gedaan moeten worden.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Een samenstelling van objecten Structuurvisiegebied en of andere complexen binnen één structuurvisieplangebied, waarop één of meerdere beleidsuitspraken betrekking hebben en waarbij op het niveau van de samenstellende delen (gebieden en/of andere complexen) verschillende specifieke beleidsuitspraken gedaan moeten worden.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van de klasse Planobject.<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van de klasse Planobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'><b><i>m</i></b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
 <li>Maximaal 32 karakters. Toegestane tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.</li>
@@ -3440,32 +3440,32 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlanobject*<br/>
+<tr><td align='left'>typePlanobject*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van het object planobject volgens (aanhaal)titel.<br/>
+<td align='left'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>thema<br/>
+<tr><td align='left'>naam<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Thema’s waarmee het beleid van toepassing kan worden getypeerd.<br/>
+<td align='left'>Naam van het object planobject volgens (aanhaal)titel.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>beleidInfo<br/>
+<tr><td align='left'>thema<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>BeleidInfo_RSV: Samengesteld attribuut met informatie over het soort beleid, bestaande uit:<br/>
+<td align='left'>Thema’s waarmee het beleid van toepassing kan worden getypeerd.<br/>
+</td>
+</tr>
+<tr><td align='left'>beleidInfo<br/>
+</td>
+<td align='left'>0..*<br/>
+</td>
+<td align='left'>BeleidInfo_RSV: Samengesteld attribuut met informatie over het soort beleid, bestaande uit:<br/>
 <ul><li>belang [1]: omschrijving van het belang dat met het beleid beoogd wordt.</li>
 <li>rol [1]: omschrijving van de rol van het Rijk.</li>
 <li>instrument [0..1]: instrument dat gebruikt wordt om het belang te verwezenlijken. Domein: Instrument_RSV</li>
@@ -3473,11 +3473,11 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarTekstInfo<br/>
+<tr><td align='left'>verwijzingNaarTekstInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar tekst.<br/>
+<td align='left'>Verwijzing naar tekst.<br/>
 Afhankelijk of als norm ook de IMROPT2012 is toegepast wordt er gebruik gemaakt van objectgerichte tekst of niet-objectgerichte tekst.<br/>
 TekstReferentie_SV: Samengesteld attribuut waarin opgenomen:<br/>
 <ul><li>verwijzingNaarTekst [1]: Verwijzing naar de plantekst. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen. De waarde kan als een hyperlink geïmplementeerd worden.</li>
@@ -3487,15 +3487,15 @@ TekstReferentie_SV: Samengesteld attribuut waarin opgenomen:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarIllustratieInfo<br/>
+<tr><td align='left'>verwijzingNaarIllustratieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>IllustratieReferentie: Samengesteld attribuut bestaande uit de attributen:<br/>
+<td align='left'>IllustratieReferentie: Samengesteld attribuut bestaande uit de attributen:<br/>
 <ul><li>verwijzingNaarIllustratie [1]: naam van het bestand dat de illustratie omvat. De waarde kan als een hyperlink geïmplementeerd worden.</li>
 <li>typeIllustratie [1]: soort illustratie. Domein: Illustratie.</li>
 <li>legendanaam [0..1]: naam volgens de legenda van de illustratie waarnaar verwezen wordt.</li>
@@ -3503,11 +3503,11 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarExternPlanInfo<br/>
+<tr><td align='left'>verwijzingNaarExternPlanInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ExternPlanReferentie_SV:<br/>
+<td align='left'>ExternPlanReferentie_SV:<br/>
 Een samengesteld attribuut bestaande uit:<br/>
 <ul><li>        naamExternPlan [1]: naam van het externe plan/besluit.</li>
 <li>        idnExternPlan [0..1]: idn van het externe plan/besluit.</li>
@@ -3516,11 +3516,11 @@ Een samengesteld attribuut bestaande uit:<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>cartografieInfo<br/>
+<tr><td align='left'>cartografieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>CartografieInfo: Samengesteld attribuut, bestaande uit een combinatie van attributen om kaartnummer, kaartnaam en symboolcode op te nemen:<br/>
+<td align='left'>CartografieInfo: Samengesteld attribuut, bestaande uit een combinatie van attributen om kaartnummer, kaartnaam en symboolcode op te nemen:<br/>
 <ul><li>kaartnummer [1]: het nummer (positief geheel getal) van de kaart waartoe dit object behoort. De hoofdkaart heeft nummer 1 en komt altijd voor. Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.</li>
 <li>kaartnaam [1]: naam van de kaart waartoe dit object behoort.</li>
 <li>symboolcode [0..1]: code van de gebruikte verbeelding voor weergave van het object uit SLD SymboolCodelijst vormvrije plannen.</li>
@@ -3529,11 +3529,11 @@ Een samengesteld attribuut bestaande uit:<br/>
 Opmerking: kaartnummer en kaartnaam zijn aan elkaar gekoppeld. Een bepaald kaartnummer heeft binnen een plan altijd een zelfde kaartnaam en andersom.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
+<tr><td align='left' colspan='3'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><ul><li>plangebied [1]: Verwijzing naar (de identificatiecode van) het plangebied waar het object Structuurvisiecomplex_R onderdeel van uitmaakt. In GML als Xlink opgenomen.</li>
+<td align='left' colspan='2'><ul><li>plangebied [1]: Verwijzing naar (de identificatiecode van) het plangebied waar het object Structuurvisiecomplex_R onderdeel van uitmaakt. In GML als Xlink opgenomen.</li>
 <li>planobject [1..*]: verwijzing naar (de idn van) de planobjecten die onderdeel van het complex zijn. In GML als Xlink opgenomen.</li>
 <li>        begrenzing [0..*]: Verwijzing naar een GeometrieStructuurvisieObject bestaande uit:<ul><li>geometrie [1]: Coördinaten in GML format. Domein: PuntLijnVlakMulti. Punt, lijn, vlak of multiversies daarvan. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.</li>
 <li>idealisatie [1]: aanduiding van de manier waarop de geometrie ruimtelijk geïnterpreteerd moet worden. Domein: Idealisatie_3.</li>
@@ -3547,9 +3547,9 @@ Verplicht indien als illustratieReferentie naar een kaart wordt verwezen.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
+<td align='left' colspan='2'></td>
 </tr>
 </tbody>
 </table>
@@ -3573,49 +3573,49 @@ De verschillende klassen en relaties worden in de volgende subparagrafen toegeli
 <col id='col2' style='width: 6.33747620647184%;'>
 <col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Besluitgebied_P</span><br/>
+<th align='left' colspan='2'>Besluitgebied_P<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Gebied, of gebieden, waarover het besluit uitspraken doet.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Gebied, of gebieden, waarover het besluit uitspraken doet.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van Plangebied.<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van Plangebied.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
+<td align='left'><b><i>m</i></b><br/>
+</td>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'></td>
+<td align='left'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
 </ul>
@@ -3631,62 +3631,62 @@ namespace.lokaalID-versie.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlan<br/>
+<tr><td align='left'>typePlan<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Nadere aanduiding van het type gebiedsgericht besluit. Domein: RuimtelijkPlanOfBesluit_PV.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>beleidsmatigVerantwoordelijkeOverheid<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Overheid die verantwoordelijk is voor het besluit. Domein: Overheden_P.<br/>
+<td align='left'>Nadere aanduiding van het type gebiedsgericht besluit. Domein: RuimtelijkPlanOfBesluit_PV.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naamOverheid<br/>
+<tr><td align='left'>beleidsmatigVerantwoordelijkeOverheid<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van de beleidsmatig verantwoordelijke overheid. Volgens format: provincie …. <br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>overheidsCode<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>CBS-code van de beleidsmatig verantwoordelijke overheid. CBS-code provincie met voorafgaand 2 voorloopnegens.<br/>
+<td align='left'>Overheid die verantwoordelijk is voor het besluit. Domein: Overheden_P.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
+<tr><td align='left'>naamOverheid<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De naam van het besluit volgens de (aanhaal)titel.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>normadressant<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De instantie, overheid of maatschappelijke partij waar het instrument zich tot richt. Domein: Normadressant_PV.<br/>
+<td align='left'>Naam van de beleidsmatig verantwoordelijke overheid. Volgens format: provincie …. <br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>locatieNaam<br/>
+<tr><td align='left'>overheidsCode<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De naam van de locatie.<br/>
+<td align='left'>CBS-code van de beleidsmatig verantwoordelijke overheid. CBS-code provincie met voorafgaand 2 voorloopnegens.<br/>
+</td>
+</tr>
+<tr><td align='left'>naam<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>De naam van het besluit volgens de (aanhaal)titel.<br/>
+</td>
+</tr>
+<tr><td align='left'>normadressant<br/>
+</td>
+<td align='left'>0..*<br/>
+</td>
+<td align='left'>De instantie, overheid of maatschappelijke partij waar het instrument zich tot richt. Domein: Normadressant_PV.<br/>
+</td>
+</tr>
+<tr><td align='left'>locatieNaam<br/>
+</td>
+<td align='left'>0..*<br/>
+</td>
+<td align='left'>De naam van de locatie.<br/>
 Verplicht indien beleidsmatig verantwoordelijke is provinciale - of nationale overheid.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>planstatusInfo<br/>
+<tr><td align='left'>planstatusInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>PlanstatusEnDatum:<br/>
+<td align='left'>PlanstatusEnDatum:<br/>
 Een samengesteld attribuut waarbij de status van het besluit en de datum waarop die is toegekend wordt opgenomen:<br/>
 <ul><li>planstatus [1]: aanduiding van de planstatus. Domein: Planstatus.</li>
 <li>datum [1]: waarop de planstatus toegekend is. In format jjjj-mm-dd</li>
@@ -3694,28 +3694,28 @@ Een samengesteld attribuut waarbij de status van het besluit en de datum waarop 
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>besluitnummer<br/>
+<tr><td align='left'>besluitnummer<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1<br/>
+<td align='left'>0..1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Het nummer van het vaststellingsbesluit. Alleen toegestaan en verplicht bij de planstatus vastgesteld.<br/>
+<td align='left'>Het nummer van het vaststellingsbesluit. Alleen toegestaan en verplicht bij de planstatus vastgesteld.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarVaststellingsbesluit<br/>
+<tr><td align='left'>verwijzingNaarVaststellingsbesluit<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1<br/>
+<td align='left'>0..1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar de tekst van het vaststellingsbesluit. Alleen toegestaan en verplicht bij de planstatus vastgesteld. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen.<br/>
+<td align='left'>Verwijzing naar de tekst van het vaststellingsbesluit. Alleen toegestaan en verplicht bij de planstatus vastgesteld. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen.<br/>
 De waarde kan als een hyperlink geïmplementeerd worden.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarTekstInfo<br/>
+<tr><td align='left'>verwijzingNaarTekstInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..6<br/>
+<td align='left'>1..6<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar tekst.<br/>
+<td align='left'>Verwijzing naar tekst.<br/>
 Afhankelijk of als norm ook de IMROPT2012 is toegepast wordt er gebruik gemaakt van objectgerichte tekst of niet-objectgerichte tekst.<br/>
 Maximaal 1 verwijzing naar volledig besluitdocument en/of maximaal 1 naar volledige toelichting en/of maximaal 1 naar volledige regels en/of maximaal 3 van elk typeTekst 1 naar volledige bijlage(n).<br/>
 TekstReferentieBG_PV: Samengesteld attribuut waarin opgenomen:<br/>
@@ -3726,15 +3726,15 @@ TekstReferentieBG_PV: Samengesteld attribuut waarin opgenomen:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ondergrondInfo<br/>
+<tr><td align='left'>ondergrondInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>OndergrondReferentie:<br/>
+<td align='left'>OndergrondReferentie:<br/>
 Een samengesteld attribuut bestaande uit.<br/>
 <ul><li>ondergrondtype [1]: naam van de ondergrond volgens domein Ondergronden.</li>
 <li>ondergronddatum [1]: datum van de gebruikte ondergrond.</li>
@@ -3743,22 +3743,22 @@ Een samengesteld attribuut bestaande uit.<br/>
 Indien geen gebruik is gemaakt van een ondergrond uit het domein Ondergronden wordt een eenduidige referentie naar de gebruikte ondergrond(en) gegeven.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarIllustratieInfo<br/>
+<tr><td align='left'>verwijzingNaarIllustratieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>IllustratieReferentiePG: Samengesteld attribuut bestaande uit de attributen:<br/>
+<td align='left'>IllustratieReferentiePG: Samengesteld attribuut bestaande uit de attributen:<br/>
 <ul><li>verwijzingNaarIllustratie [1]: naam van het bestand dat de illustratie omvat. De waarde kan als een hyperlink geïmplementeerd worden.</li>
 <li>typeIllustratie [1]: soort illustratie. Domein: Illustratie.</li>
 </ul>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarExternPlanInfo<br/>
+<tr><td align='left'>verwijzingNaarExternPlanInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ExternPlanReferentie_PV:<br/>
+<td align='left'>ExternPlanReferentie_PV:<br/>
 Een samengesteld attribuut bestaande uit:<br/>
 <ul><li>        naamExternPlan [1]: naam van het externe plan/besluit.</li>
 <li>        idnExternPlan [0..1]: idn van het externe plan/besluit.</li>
@@ -3768,18 +3768,18 @@ Een samengesteld attribuut bestaande uit:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNorm<br/>
+<tr><td align='left'>verwijzingNorm<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>2..3<br/>
+<td align='left'>2..3<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Opname van de norm en de praktijkrichtlijn volgens welke het instrument gecodeerd is. Vaste waarden: IMRO2012 en PRPV2012. Indien gebruik wordt gemaakt van objectgerichte planteksten wordt ook de norm IMROPT2012 opgenomen. In dat geval geldt het gebruik van objectgerichte planteksten bij alle attributen waar dit van toepassing kan zijn.<br/>
+<td align='left'>Opname van de norm en de praktijkrichtlijn volgens welke het instrument gecodeerd is. Vaste waarden: IMRO2012 en PRPV2012. Indien gebruik wordt gemaakt van objectgerichte planteksten wordt ook de norm IMROPT2012 opgenomen. In dat geval geldt het gebruik van objectgerichte planteksten bij alle attributen waar dit van toepassing kan zijn.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
+<tr><td align='left' colspan='3'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><ul><li>        begrenzing [1]: Verwijzing naar een object GeometriePlangebied bestaande uit:<ul><li>geometrie [1]: Coördinaten in GML format. Domein: VlakMultiValk. Vlak of Multivlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.</li>
+<td align='left' colspan='2'><ul><li>        begrenzing [1]: Verwijzing naar een object GeometriePlangebied bestaande uit:<ul><li>geometrie [1]: Coördinaten in GML format. Domein: VlakMultiValk. Vlak of Multivlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.</li>
 <li>idealisatie [1]: aanduiding van de manier waarop de geometrie ruimtelijk geïnterpreteerd moet worden. Domein: Idealisatie_1.</li>
 </ul>
 
@@ -3789,9 +3789,9 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 In GML als Xlink opgenomen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
+<td align='left' colspan='2'></td>
 </tr>
 </tbody>
 </table>
@@ -3803,50 +3803,50 @@ In GML als Xlink opgenomen.<br/>
 <col id='col2' style='width: 6.33747620647184%;'>
 <col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Besluitvlak_P</span><br/>
+<th align='left' colspan='2'>Besluitvlak_P<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Een gebied binnen een besluitgebied waarop één of meerdere besluiten betrekking hebben.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Een gebied binnen een besluitgebied waarop één of meerdere besluiten betrekking hebben.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van de klasse Planobject.<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van de klasse Planobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'><b><i>m</i></b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
 <li>Maximaal 32 karakters. Toegestane tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.</li>
@@ -3856,32 +3856,32 @@ In GML als Xlink opgenomen.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlanobject*<br/>
+<tr><td align='left'>typePlanobject*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van het object planobject volgens tekst van het besluit.<br/>
+<td align='left'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>thema<br/>
+<tr><td align='left'>naam<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Thema’s waarmee het beleid van toepassing kan worden getypeerd.<br/>
+<td align='left'>Naam van het object planobject volgens tekst van het besluit.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarTekstInfo<br/>
+<tr><td align='left'>thema<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar tekst.<br/>
+<td align='left'>Thema’s waarmee het beleid van toepassing kan worden getypeerd.<br/>
+</td>
+</tr>
+<tr><td align='left'>verwijzingNaarTekstInfo<br/>
+</td>
+<td align='left'>1..*<br/>
+</td>
+<td align='left'>Verwijzing naar tekst.<br/>
 Afhankelijk of als norm ook de IMROPT2012 is toegepast wordt er gebruik gemaakt van objectgerichte tekst of niet-objectgerichte tekst.<br/>
 TekstReferentie_PV: Samengesteld attribuut waarin opgenomen:<br/>
 <ul><li>        verwijzingNaarTekst [1]: Verwijzing naar de plantekst. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen. De waarde kan als een hyperlink geïmplementeerd worden.</li>
@@ -3892,15 +3892,15 @@ TekstReferentie_PV: Samengesteld attribuut waarin opgenomen:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarIllustratieInfo<br/>
+<tr><td align='left'>verwijzingNaarIllustratieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>IllustratieReferentie: Samengesteld attribuut bestaande uit de attributen:<br/>
+<td align='left'>IllustratieReferentie: Samengesteld attribuut bestaande uit de attributen:<br/>
 <ul><li>verwijzingNaarIllustratie [1]: naam van het bestand dat de illustratie omvat. De waarde kan als een hyperlink geïmplementeerd worden.</li>
 <li>typeIllustratie [1]: soort illustratie. Domein: Illustratie.</li>
 <li>legendanaam [0..1]: naam volgens de legenda van de illustratie waarnaar verwezen wordt.</li>
@@ -3908,11 +3908,11 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>cartografieInfo<br/>
+<tr><td align='left'>cartografieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>CartografieInfo: Samengesteld attribuut, bestaande uit een combinatie van attributen om kaartnummer, kaartnaam en symboolcode op te nemen:<br/>
+<td align='left'>CartografieInfo: Samengesteld attribuut, bestaande uit een combinatie van attributen om kaartnummer, kaartnaam en symboolcode op te nemen:<br/>
 <ul><li>kaartnummer [1]: het nummer (positief geheel getal) van de kaart waartoe dit object behoort. De hoofdkaart heeft nummer 1 en komt altijd voor. Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>..</li>
 <li>kaartnaam [1]: naam van de kaart waartoe dit object behoort.</li>
 <li>symboolcode [0..1]: code van de gebruikte verbeelding voor weergave van het object uit SLD SymboolCodelijst vormvrije plannen.</li>
@@ -3921,11 +3921,11 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 Opmerking: kaartnummer en kaartnaam zijn aan elkaar gekoppeld. Een bepaald kaartnummer heeft binnen een plan altijd een zelfde kaartnaam en andersom.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
+<tr><td align='left' colspan='3'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><ul><li>besluitgebied [1]: Verwijzing naar (de identificatiecode van) het besluitgebied waar het object Besluitvlak_P onderdeel van uitmaakt. In GML als Xlink opgenomen.</li>
+<td align='left' colspan='2'><ul><li>besluitgebied [1]: Verwijzing naar (de identificatiecode van) het besluitgebied waar het object Besluitvlak_P onderdeel van uitmaakt. In GML als Xlink opgenomen.</li>
 <li>        begrenzing [1..*]: Verwijzing naar een object GeometrieBesluitobject_P1 bestaande uit:<ul><li>geometrie [1]: Coördinaten in GML format. Domein: VlakMultiValk. Vlak of Multivlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.</li>
 <li>idealisatie [1]: aanduiding van de manier waarop de geometrie ruimtelijk geïnterpreteerd moet worden. Domein: Idealisatie_1.</li>
 </ul>
@@ -3936,9 +3936,9 @@ Opmerking: kaartnummer en kaartnaam zijn aan elkaar gekoppeld. Een bepaald kaart
 In GML als Xlink opgenomen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
+<td align='left' colspan='2'></td>
 </tr>
 </tbody>
 </table>
@@ -3950,50 +3950,50 @@ In GML als Xlink opgenomen.<br/>
 <col id='col2' style='width: 6.33747620647184%;'>
 <col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Besluitsubvlak_P</span><br/>
+<th align='left' colspan='2'>Besluitsubvlak_P<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Aanduiding van een gebied van een object Besluitvlak of en ander Besluitsubvlak waar een nadere betekenis of specificatie aan gegeven wordt.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Aanduiding van een gebied van een object Besluitvlak of en ander Besluitsubvlak waar een nadere betekenis of specificatie aan gegeven wordt.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van de klasse Planobject.<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van de klasse Planobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'><b><i>m</i></b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
 <li>Maximaal 32 karakters. Toegestane tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.</li>
@@ -4003,32 +4003,32 @@ In GML als Xlink opgenomen.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlanobject*<br/>
+<tr><td align='left'>typePlanobject*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van het planobject volgens tekst besluit.<br/>
+<td align='left'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>thema<br/>
+<tr><td align='left'>naam<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Thema’s waarmee het beleid van toepassing kan worden getypeerd.<br/>
+<td align='left'>Naam van het planobject volgens tekst besluit.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarTekstInfo<br/>
+<tr><td align='left'>thema<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar tekst.<br/>
+<td align='left'>Thema’s waarmee het beleid van toepassing kan worden getypeerd.<br/>
+</td>
+</tr>
+<tr><td align='left'>verwijzingNaarTekstInfo<br/>
+</td>
+<td align='left'>1..*<br/>
+</td>
+<td align='left'>Verwijzing naar tekst.<br/>
 Afhankelijk of als norm ook de IMROPT2012 is toegepast wordt er gebruik gemaakt van objectgerichte tekst of niet-objectgerichte tekst.<br/>
 TekstReferentie_PV: Samengesteld attribuut waarin opgenomen:<br/>
 <ul><li>        verwijzingNaarTekst [1]: Verwijzing naar de plantekst. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen. De waarde kan als een hyperlink geïmplementeerd worden.</li>
@@ -4039,15 +4039,15 @@ TekstReferentie_PV: Samengesteld attribuut waarin opgenomen:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarIllustratieInfo<br/>
+<tr><td align='left'>verwijzingNaarIllustratieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>IllustratieReferentie: Samengesteld attribuut bestaande uit de attributen:<br/>
+<td align='left'>IllustratieReferentie: Samengesteld attribuut bestaande uit de attributen:<br/>
 <ul><li>verwijzingNaarIllustratie [1]: naam van het bestand dat de illustratie omvat. De waarde kan als een hyperlink geïmplementeerd worden.</li>
 <li>typeIllustratie [1]: soort illustratie. Domein: Illustratie.</li>
 <li>legendanaam [0..1]: naam volgens de legenda van de illustratie waarnaar verwezen wordt.</li>
@@ -4055,11 +4055,11 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>cartografieInfo<br/>
+<tr><td align='left'>cartografieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>CartografieInfo: Samengesteld attribuut, bestaande uit een combinatie van attributen om kaartnummer, kaartnaam en symboolcode op te nemen:<br/>
+<td align='left'>CartografieInfo: Samengesteld attribuut, bestaande uit een combinatie van attributen om kaartnummer, kaartnaam en symboolcode op te nemen:<br/>
 <ul><li>kaartnummer [1]: het nummer (positief geheel getal) van de kaart waartoe dit object behoort. De hoofdkaart heeft nummer 1 en komt altijd voor. Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.</li>
 <li>kaartnaam [1]: naam van de kaart waartoe dit object behoort.</li>
 <li>symboolcode [0..1]: code van de gebruikte verbeelding voor weergave van het object uit SLD SymboolCodelijst vormvrije plannen.</li>
@@ -4068,11 +4068,11 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 Opmerking: kaartnummer en kaartnaam zijn aan elkaar gekoppeld. Een bepaald kaartnummer heeft binnen een plan altijd een zelfde kaartnaam en andersom. <br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
+<tr><td align='left' colspan='3'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><ul><li>besluitgebied [1]: Verwijzing naar (de identificatiecode van) het besluitgebied waar het object Besluitsubvlak_P onderdeel van uitmaakt. In GML als Xlink opgenomen.</li>
+<td align='left' colspan='2'><ul><li>besluitgebied [1]: Verwijzing naar (de identificatiecode van) het besluitgebied waar het object Besluitsubvlak_P onderdeel van uitmaakt. In GML als Xlink opgenomen.</li>
 <li>besluitvlak [0..*]: Verwijzing naar (de identificatiecode van) het besluitvlak waar het object Besluitsubvlak_P nadere betekenis aan geeft. In GML als Xlink opgenomen. Verplicht indien besluitsubvlak niet wordt gebruikt. Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.</li>
 <li>besluitsubvlak [0..*]: Verwijzing naar (de identificatiecode van) het besluitsubvlak waar het object Besluitsubvlak_P nadere betekenis aan geeft. In GML als Xlink opgenomen. Verplicht indien besluitvlak niet wordt gebruikt. Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.</li>
 <li>        begrenzing [1..*]: Verwijzing naar een object GeometrieBesluitobject_P3 bestaande uit:<ul><li>geometrie [1]: Coördinaten in GML format. Domein: PuntLijnVlakMulti. Punt, lijn, vlak of multiversies daarvan. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.</li>
@@ -4085,9 +4085,9 @@ Opmerking: kaartnummer en kaartnaam zijn aan elkaar gekoppeld. Een bepaald kaart
 In GML als Xlink opgenomen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
+<td align='left' colspan='2'></td>
 </tr>
 </tbody>
 </table>
@@ -4111,49 +4111,49 @@ De verschillende klassen en relaties worden in de volgende subparagrafen toegeli
 <col id='col2' style='width: 6.33747620647184%;'>
 <col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Besluitgebied_A</span><br/>
+<th align='left' colspan='2'>Besluitgebied_A<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Gebied, of gebieden, waarover het besluit uitspraken doet.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Gebied, of gebieden, waarover het besluit uitspraken doet.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van Plangebied.<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van Plangebied.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
+<td align='left'><b><i>m</i></b><br/>
+</td>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'></td>
+<td align='left'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
 </ul>
@@ -4169,60 +4169,60 @@ namespace.lokaalID-versie.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlan<br/>
+<tr><td align='left'>typePlan<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Nadere aanduiding van het type ruimtelijk instrument. Domein: RuimtelijkPlanOfBesluit_AMB<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>beleidsmatigVerantwoordelijkeOverheid<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Overheid die beleidsmatig verantwoordelijk is voor het besluit. Domein: Overheden_R.<br/>
+<td align='left'>Nadere aanduiding van het type ruimtelijk instrument. Domein: RuimtelijkPlanOfBesluit_AMB<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naamOverheid<br/>
+<tr><td align='left'>beleidsmatigVerantwoordelijkeOverheid<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van de beleidsmatig verantwoordelijke overheid. Volgens format in de vorm: ministerie…. In het geval er meerdere verantwoordelijke ministeries zijn, wordt naamOverheid evenzoveel maal opgenomen.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>overheidsCode<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>CBS-code van de beleidsmatig verantwoordelijke overheid. Bij afwezigheid CBS-code voor het Rijk wordt hier ‘0000’ ingevuld.<br/>
+<td align='left'>Overheid die beleidsmatig verantwoordelijk is voor het besluit. Domein: Overheden_R.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
+<tr><td align='left'>naamOverheid<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De naam van het besluit volgens de (aanhaal)titel.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>normadressant<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De instantie, overheid of maatschappelijke partij waar het instrument zich tot richt. Domein: Normadressant_AMB.<br/>
+<td align='left'>Naam van de beleidsmatig verantwoordelijke overheid. Volgens format in de vorm: ministerie…. In het geval er meerdere verantwoordelijke ministeries zijn, wordt naamOverheid evenzoveel maal opgenomen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>locatieNaam<br/>
+<tr><td align='left'>overheidsCode<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De naam van de locatie.<br/>
+<td align='left'>CBS-code van de beleidsmatig verantwoordelijke overheid. Bij afwezigheid CBS-code voor het Rijk wordt hier ‘0000’ ingevuld.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>planstatusInfo<br/>
+<tr><td align='left'>naam<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>PlanstatusEnDatum:<br/>
+<td align='left'>De naam van het besluit volgens de (aanhaal)titel.<br/>
+</td>
+</tr>
+<tr><td align='left'>normadressant<br/>
+</td>
+<td align='left'>1..*<br/>
+</td>
+<td align='left'>De instantie, overheid of maatschappelijke partij waar het instrument zich tot richt. Domein: Normadressant_AMB.<br/>
+</td>
+</tr>
+<tr><td align='left'>locatieNaam<br/>
+</td>
+<td align='left'>0..*<br/>
+</td>
+<td align='left'>De naam van de locatie.<br/>
+</td>
+</tr>
+<tr><td align='left'>planstatusInfo<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>PlanstatusEnDatum:<br/>
 Een samengesteld attribuut waarbij de status van het besluit en de datum waarop die is toegekend wordt opgenomen:<br/>
 <ul><li>planstatus [1]: aanduiding van de planstatus. Domein: Planstatus.</li>
 <li>datum [1]: waarop de planstatus toegekend is. In format jjjj-mm-dd</li>
@@ -4230,28 +4230,28 @@ Een samengesteld attribuut waarbij de status van het besluit en de datum waarop 
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>besluitnummer<br/>
+<tr><td align='left'>besluitnummer<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1<br/>
+<td align='left'>0..1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Het nummer van het vaststellingsbesluit. Alleen toegestaan en verplicht bij de planstatus vastgesteld.<br/>
+<td align='left'>Het nummer van het vaststellingsbesluit. Alleen toegestaan en verplicht bij de planstatus vastgesteld.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarVaststellingsbesluit<br/>
+<tr><td align='left'>verwijzingNaarVaststellingsbesluit<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1<br/>
+<td align='left'>0..1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar de tekst van het vaststellingsbesluit. Alleen toegestaan en verplicht bij de planstatus vastgesteld. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen.<br/>
+<td align='left'>Verwijzing naar de tekst van het vaststellingsbesluit. Alleen toegestaan en verplicht bij de planstatus vastgesteld. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen.<br/>
 De waarde kan als een hyperlink geïmplementeerd worden.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarTekstInfo<br/>
+<tr><td align='left'>verwijzingNaarTekstInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..6<br/>
+<td align='left'>1..6<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar tekst.<br/>
+<td align='left'>Verwijzing naar tekst.<br/>
 Afhankelijk of als norm ook de IMROPT2012 is toegepast wordt er gebruik gemaakt van objectgerichte tekst of niet-objectgerichte tekst.<br/>
 Maximaal 1 verwijzing naar volledig besluitdocument en/of maximaal 1 naar volledige toelichting en/of maximaal 1 naar volledige regels en/of maximaal 3: van elk typeTekst 1 naar volledige bijlage(n).<br/>
 TekstReferentieBG_AMB: Samengesteld attribuut waarin opgenomen:<br/>
@@ -4262,15 +4262,15 @@ TekstReferentieBG_AMB: Samengesteld attribuut waarin opgenomen:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ondergrondInfo<br/>
+<tr><td align='left'>ondergrondInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>OndergrondReferentie:<br/>
+<td align='left'>OndergrondReferentie:<br/>
 Een samengesteld attribuut bestaande uit.<br/>
 <ul><li>ondergrondtype [1]: naam van de ondergrond volgens domein Ondergronden.</li>
 <li>ondergronddatum [1]: datum van de gebruikte ondergrond.</li>
@@ -4279,22 +4279,22 @@ Een samengesteld attribuut bestaande uit.<br/>
 Indien geen gebruik is gemaakt van een ondergrond uit het domein Ondergronden wordt een eenduidige referentie naar de gebruikte ondergrond(en) gegeven.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarIllustratieInfo<br/>
+<tr><td align='left'>verwijzingNaarIllustratieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>IllustratieReferentiePG: Alleen verwijzen naar illustratie(s) op het niveau besluitgebied. Samengesteld attribuut bestaande uit de attributen:<br/>
+<td align='left'>IllustratieReferentiePG: Alleen verwijzen naar illustratie(s) op het niveau besluitgebied. Samengesteld attribuut bestaande uit de attributen:<br/>
 <ul><li>verwijzingNaarIllustratie [1]: naam van het bestand dat de illustratie omvat. De waarde kan als een hyperlink geïmplementeerd worden.</li>
 <li>typeIllustratie [1]: soort illustratie. Domein: Illustratie.</li>
 </ul>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarExternPlanInfo<br/>
+<tr><td align='left'>verwijzingNaarExternPlanInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ExternPlanReferentie_AMB:<br/>
+<td align='left'>ExternPlanReferentie_AMB:<br/>
 Een samengesteld attribuut bestaande uit:<br/>
 <ul><li>        naamExternPlan [1]: naam van het externe plan/besluit.</li>
 <li>        idnExternPlan [0..1]: idn van het externe plan/besluit.</li>
@@ -4304,18 +4304,18 @@ Een samengesteld attribuut bestaande uit:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNorm<br/>
+<tr><td align='left'>verwijzingNorm<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>2..3<br/>
+<td align='left'>2..3<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Opname van de norm en de praktijkrichtlijn volgens welke het instrument gecodeerd is. Vaste waarden: IMRO2012 en PRAMvB2012. Indien gebruik wordt gemaakt van objectgerichte planteksten wordt ook de norm IMROPT2012 opgenomen. In dat geval geldt het gebruik van objectgerichte planteksten bij alle attributen waar dit van toepassing kan zijn.<br/>
+<td align='left'>Opname van de norm en de praktijkrichtlijn volgens welke het instrument gecodeerd is. Vaste waarden: IMRO2012 en PRAMvB2012. Indien gebruik wordt gemaakt van objectgerichte planteksten wordt ook de norm IMROPT2012 opgenomen. In dat geval geldt het gebruik van objectgerichte planteksten bij alle attributen waar dit van toepassing kan zijn.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
+<tr><td align='left' colspan='3'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><ul><li>        begrenzing [1]: Verwijzing naar een object GeometriePlangebied bestaande uit:<ul><li>geometrie [1]: Coördinaten in GML format. Domein: VlakMultiValk. Vlak of Multivlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.</li>
+<td align='left' colspan='2'><ul><li>        begrenzing [1]: Verwijzing naar een object GeometriePlangebied bestaande uit:<ul><li>geometrie [1]: Coördinaten in GML format. Domein: VlakMultiValk. Vlak of Multivlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.</li>
 <li>idealisatie [1]: aanduiding van de manier waarop de geometrie ruimtelijk geïnterpreteerd moet worden. Domein: Idealisatie_1.</li>
 </ul>
 
@@ -4325,9 +4325,9 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 In GML als Xlink opgenomen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
+<td align='left' colspan='2'></td>
 </tr>
 </tbody>
 </table>
@@ -4339,50 +4339,50 @@ In GML als Xlink opgenomen.<br/>
 <col id='col2' style='width: 6.33747620647184%;'>
 <col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Besluitvlak_A</span><br/>
+<th align='left' colspan='2'>Besluitvlak_A<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Een gebied waarop één of meerdere besluiten betrekking hebben.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Een gebied waarop één of meerdere besluiten betrekking hebben.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van de klasse Planobject.<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van de klasse Planobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'><b><i>m</i></b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
 <li>Maximaal 32 karakters. Toegestane tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.</li>
@@ -4392,32 +4392,32 @@ In GML als Xlink opgenomen.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlanobject*<br/>
+<tr><td align='left'>typePlanobject*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van het planobject volgens de tekst van het besluit.<br/>
+<td align='left'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>thema<br/>
+<tr><td align='left'>naam<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Thema’s waarmee het beleid van toepassing kan worden getypeerd.<br/>
+<td align='left'>Naam van het planobject volgens de tekst van het besluit.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarTekstInfo<br/>
+<tr><td align='left'>thema<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar tekst.<br/>
+<td align='left'>Thema’s waarmee het beleid van toepassing kan worden getypeerd.<br/>
+</td>
+</tr>
+<tr><td align='left'>verwijzingNaarTekstInfo<br/>
+</td>
+<td align='left'>1..*<br/>
+</td>
+<td align='left'>Verwijzing naar tekst.<br/>
 Afhankelijk of als norm ook de IMROPT2012 is toegepast wordt er gebruik gemaakt van objectgerichte tekst of niet-objectgerichte tekst.<br/>
 TekstReferentie_AMB: Samengesteld attribuut waarin opgenomen:<br/>
 <ul><li>verwijzingNaarTekst [1]: Verwijzing naar de plantekst. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen. De waarde kan als een hyperlink geïmplementeerd worden.</li>
@@ -4428,15 +4428,15 @@ TekstReferentie_AMB: Samengesteld attribuut waarin opgenomen:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarIllustratieInfo<br/>
+<tr><td align='left'>verwijzingNaarIllustratieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>IllustratieReferentie: Samengesteld attribuut bestaande uit de attributen:<br/>
+<td align='left'>IllustratieReferentie: Samengesteld attribuut bestaande uit de attributen:<br/>
 <ul><li>verwijzingNaarIllustratie [1]: naam van het bestand dat de illustratie omvat. De waarde kan als een hyperlink geïmplementeerd worden.</li>
 <li>typeIllustratie [1]: soort illustratie. Domein: Illustratie.</li>
 <li>legendanaam [0..1]: naam volgens de legenda van de illustratie waarnaar verwezen wordt.</li>
@@ -4444,11 +4444,11 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>cartografieInfo<br/>
+<tr><td align='left'>cartografieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>CartografieInfo: Samengesteld attribuut, bestaande uit een combinatie van attributen om kaartnummer, kaartnaam en symboolcode op te nemen:<br/>
+<td align='left'>CartografieInfo: Samengesteld attribuut, bestaande uit een combinatie van attributen om kaartnummer, kaartnaam en symboolcode op te nemen:<br/>
 <ul><li>kaartnummer [1]: het nummer (positief geheel getal) van de kaart waartoe dit object behoort. De hoofdkaart heeft nummer 1 en komt altijd voor. Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.</li>
 <li>kaartnaam [1]: naam van de kaart waartoe dit object behoort.</li>
 <li>symboolcode [0..1]: code van de gebruikte verbeelding voor weergave van het object uit SLD SymboolCodelijst vormvrije plannen.</li>
@@ -4457,11 +4457,11 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 Opmerking: kaartnummer en kaartnaam zijn aan elkaar gekoppeld. Een bepaald kaartnummer heeft binnen een plan altijd een zelfde kaartnaam en andersom.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
+<tr><td align='left' colspan='3'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><ul><li>besluitgebied [1]: Verwijzing naar (de identificatiecode van) het besluitgebied waar het object Besluitvlak_A onderdeel van uitmaakt. In GML als Xlink opgenomen.</li>
+<td align='left' colspan='2'><ul><li>besluitgebied [1]: Verwijzing naar (de identificatiecode van) het besluitgebied waar het object Besluitvlak_A onderdeel van uitmaakt. In GML als Xlink opgenomen.</li>
 <li>        begrenzing [1..*]: Verwijzing naar een object GeometrieBesluitobject_A bestaande uit:<ul><li>geometrie [1]: Coördinaten in GML format. Domein: PuntLijnVlakMulti. Punt, lijn, vlak of multiversies daarvan. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.</li>
 <li>idealisatie [1]: aanduiding van de manier waarop de geometrie ruimtelijk geïnterpreteerd moet worden. Domein: Idealisatie_2</li>
 </ul>
@@ -4472,9 +4472,9 @@ Opmerking: kaartnummer en kaartnaam zijn aan elkaar gekoppeld. Een bepaald kaart
 In GML als Xlink opgenomen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
+<td align='left' colspan='2'></td>
 </tr>
 </tbody>
 </table>
@@ -4486,50 +4486,50 @@ In GML als Xlink opgenomen.<br/>
 <col id='col2' style='width: 6.33747620647184%;'>
 <col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Besluitsubvlak_A</span><br/>
+<th align='left' colspan='2'>Besluitsubvlak_A<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Aanduiding van een gebied van een object Besluitvlak of en ander Besluitsubvlak waar een nadere betekenis of specificatie aan gegeven wordt.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Aanduiding van een gebied van een object Besluitvlak of en ander Besluitsubvlak waar een nadere betekenis of specificatie aan gegeven wordt.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van de klasse Planobject.<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van de klasse Planobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'><b><i>m</i></b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
 <li>Maximaal 32 karakters. Toegestane tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.versie: [0..1]: wordt niet gebruikt</li>
@@ -4538,32 +4538,32 @@ In GML als Xlink opgenomen.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlanobject*<br/>
+<tr><td align='left'>typePlanobject*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van het planobject volgens de tekst van het besluit.<br/>
+<td align='left'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>thema<br/>
+<tr><td align='left'>naam<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Thema’s waarmee het beleid van toepassing kan worden getypeerd.<br/>
+<td align='left'>Naam van het planobject volgens de tekst van het besluit.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarTekstInfo<br/>
+<tr><td align='left'>thema<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar tekst.<br/>
+<td align='left'>Thema’s waarmee het beleid van toepassing kan worden getypeerd.<br/>
+</td>
+</tr>
+<tr><td align='left'>verwijzingNaarTekstInfo<br/>
+</td>
+<td align='left'>1..*<br/>
+</td>
+<td align='left'>Verwijzing naar tekst.<br/>
 Afhankelijk of als norm ook de IMROPT2012 is toegepast wordt er gebruik gemaakt van objectgerichte tekst of niet-objectgerichte tekst.<br/>
 TekstReferentie_AMB: Samengesteld attribuut waarin opgenomen:<br/>
 <ul><li>verwijzingNaarTekst [1]: Verwijzing naar de plantekst. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen. De waarde kan als een hyperlink geïmplementeerd worden.</li>
@@ -4574,15 +4574,15 @@ TekstReferentie_AMB: Samengesteld attribuut waarin opgenomen:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarIllustratieInfo<br/>
+<tr><td align='left'>verwijzingNaarIllustratieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>IllustratieReferentie: Samengesteld attribuut bestaande uit de attributen:<br/>
+<td align='left'>IllustratieReferentie: Samengesteld attribuut bestaande uit de attributen:<br/>
 <ul><li>verwijzingNaarIllustratie [1]: naam van het bestand dat de illustratie omvat. De waarde kan als een hyperlink geïmplementeerd worden.</li>
 <li>typeIllustratie [1]: soort illustratie. Domein: Illustratie.</li>
 <li>legendanaam [0..1]: naam volgens de legenda van de illustratie waarnaar verwezen wordt.</li>
@@ -4590,11 +4590,11 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>cartografieInfo<br/>
+<tr><td align='left'>cartografieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>CartografieInfo: Samengesteld attribuut, bestaande uit een combinatie van attributen om kaartnummer, kaartnaam en symboolcode op te nemen:<br/>
+<td align='left'>CartografieInfo: Samengesteld attribuut, bestaande uit een combinatie van attributen om kaartnummer, kaartnaam en symboolcode op te nemen:<br/>
 <ul><li>kaartnummer [1]: het nummer (positief geheel getal) van de kaart waartoe dit object behoort. De hoofdkaart heeft nummer 1 en komt altijd voor. Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.</li>
 <li>kaartnaam [1]: naam van de kaart waartoe dit object behoort.</li>
 <li>symboolcode [0..1]: code van de gebruikte verbeelding voor weergave van het object uit SLD SymboolCodelijst vormvrije plannen.</li>
@@ -4603,11 +4603,11 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 Opmerking: kaartnummer en kaartnaam zijn aan elkaar gekoppeld. Een bepaald kaartnummer heeft binnen een plan altijd een zelfde kaartnaam en andersom. <br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
+<tr><td align='left' colspan='3'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><ul><li>besluitgebied [1]: Verwijzing naar (de identificatiecode van) het besluitgebied waar het object Besluitsubvlak_A onderdeel van uitmaakt. In GML als Xlink opgenomen.</li>
+<td align='left' colspan='2'><ul><li>besluitgebied [1]: Verwijzing naar (de identificatiecode van) het besluitgebied waar het object Besluitsubvlak_A onderdeel van uitmaakt. In GML als Xlink opgenomen.</li>
 <li>besluitvlak [0..*]: Verwijzing naar (de identificatiecode van) het besluitvlak waar het object Besluitsubvlak_R nadere betekenis aan geeft. In GML als Xlink opgenomen. Verplicht indien besluitsubvlak niet wordt gebruikt. Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.</li>
 <li>besluitsubvlak [0..*]: Verwijzing naar (de identificatiecode van) het besluitsubvlak waar het object Besluitsubvlak_R nadere betekenis aan geeft. In GML als Xlink opgenomen. Verplicht indien besluitvlak niet wordt gebruikt. Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.</li>
 <li>        begrenzing [1..*]: Verwijzing naar een object GeometrieBesluitobject_A bestaande uit:<ul><li>geometrie [1]: Coördinaten in GML format. Domein: PuntLijnVlakMulti. Punt, lijn, vlak of multiversies daarvan. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.</li>
@@ -4620,9 +4620,9 @@ Opmerking: kaartnummer en kaartnaam zijn aan elkaar gekoppeld. Een bepaald kaart
 In GML als Xlink opgenomen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
+<td align='left' colspan='2'></td>
 </tr>
 </tbody>
 </table>
@@ -4656,49 +4656,49 @@ De verschillende klassen en relaties worden in de volgende subparagrafen toegeli
 <col id='col2' style='width: 6.33747620647184%;'>
 <col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Besluitgebied_X</span><br/>
+<th align='left' colspan='2'>Besluitgebied_X<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Gebied, of gebieden, waarover het besluit uitspraken doet.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Gebied, of gebieden, waarover het besluit uitspraken doet.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van Plangebied.<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van Plangebied.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
+<td align='left'><b><i>m</i></b><br/>
+</td>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'></td>
+<td align='left'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
 </ul>
@@ -4714,62 +4714,62 @@ namespace.lokaalID-versie.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlan<br/>
+<tr><td align='left'>typePlan<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Nadere aanduiding van het type ruimtelijk instrument. Domein: RuimtelijkPlanOfBesluit_XGB<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>beleidsmatigVerantwoordelijkeOverheid<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Overheid die beleidsmatig verantwoordelijk is voor het besluit. Domein: Overheden_XGB<br/>
+<td align='left'>Nadere aanduiding van het type ruimtelijk instrument. Domein: RuimtelijkPlanOfBesluit_XGB<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naamOverheid<br/>
+<tr><td align='left'>beleidsmatigVerantwoordelijkeOverheid<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van de beleidsmatig verantwoordelijke overheid. Volgens format in de vorm gemeente …, deelgemeente/ stadsdeel …, provincie …., of ministerie ….. Alleen bij ministeries kunnen er meerdere overheden verantwoordelijk zijn. In dat geval wordt de naamOverheid evenzoveel maal opgenomen.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>overheidsCode<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>CBS-code van de beleidsmatig verantwoordelijke overheid. Volgens format: 4 cijfers. Ingeval Rijk: ‘0000’. Ingeval provincie: CBS-code provincie met voorafgaand 2 voorloopnegens. Ingeval deelgemeente of stadsdeel: CBS-code gemeente.<br/>
+<td align='left'>Overheid die beleidsmatig verantwoordelijk is voor het besluit. Domein: Overheden_XGB<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
+<tr><td align='left'>naamOverheid<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De naam van het besluit volgens de (aanhaal)titel.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>normadressant<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De instantie, overheid of maatschappelijke partij waar het instrument of besluit zich tot richt. Domein: Normadressant_XGB.<br/>
+<td align='left'>Naam van de beleidsmatig verantwoordelijke overheid. Volgens format in de vorm gemeente …, deelgemeente/ stadsdeel …, provincie …., of ministerie ….. Alleen bij ministeries kunnen er meerdere overheden verantwoordelijk zijn. In dat geval wordt de naamOverheid evenzoveel maal opgenomen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>locatieNaam<br/>
+<tr><td align='left'>overheidsCode<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De naam van de locatie.<br/>
+<td align='left'>CBS-code van de beleidsmatig verantwoordelijke overheid. Volgens format: 4 cijfers. Ingeval Rijk: ‘0000’. Ingeval provincie: CBS-code provincie met voorafgaand 2 voorloopnegens. Ingeval deelgemeente of stadsdeel: CBS-code gemeente.<br/>
+</td>
+</tr>
+<tr><td align='left'>naam<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>De naam van het besluit volgens de (aanhaal)titel.<br/>
+</td>
+</tr>
+<tr><td align='left'>normadressant<br/>
+</td>
+<td align='left'>0..*<br/>
+</td>
+<td align='left'>De instantie, overheid of maatschappelijke partij waar het instrument of besluit zich tot richt. Domein: Normadressant_XGB.<br/>
+</td>
+</tr>
+<tr><td align='left'>locatieNaam<br/>
+</td>
+<td align='left'>0..*<br/>
+</td>
+<td align='left'>De naam van de locatie.<br/>
 Verplicht ingeval naamOverheid anders dan gemeente.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>planstatusInfo<br/>
+<tr><td align='left'>planstatusInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>PlanstatusEnDatum:<br/>
+<td align='left'>PlanstatusEnDatum:<br/>
 Een samengesteld attribuut waarbij de status van het besluit en de datum waarop die is toegekend wordt opgenomen:<br/>
 <ul><li>planstatus [1]: aanduiding van de planstatus. Domein: Planstatus.</li>
 <li>datum [1]: waarop de planstatus toegekend is. In format jjjj-mm-dd</li>
@@ -4777,28 +4777,28 @@ Een samengesteld attribuut waarbij de status van het besluit en de datum waarop 
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>besluitnummer<br/>
+<tr><td align='left'>besluitnummer<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1<br/>
+<td align='left'>0..1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Het nummer van het vaststellingsbesluit. Alleen toegestaan en verplicht bij de planstatus vastgesteld.<br/>
+<td align='left'>Het nummer van het vaststellingsbesluit. Alleen toegestaan en verplicht bij de planstatus vastgesteld.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarVaststellingsbesluit<br/>
+<tr><td align='left'>verwijzingNaarVaststellingsbesluit<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1<br/>
+<td align='left'>0..1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar de tekst van het vaststellingsbesluit. Alleen toegestaan en verplicht indien dit een apart document is, bij de planstatus vastgesteld. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen.<br/>
+<td align='left'>Verwijzing naar de tekst van het vaststellingsbesluit. Alleen toegestaan en verplicht indien dit een apart document is, bij de planstatus vastgesteld. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen.<br/>
 De waarde kan als een hyperlink geïmplementeerd worden.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarTekstInfo<br/>
+<tr><td align='left'>verwijzingNaarTekstInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..6<br/>
+<td align='left'>1..6<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar tekst.<br/>
+<td align='left'>Verwijzing naar tekst.<br/>
 Afhankelijk of als norm ook de IMROPT2012 is toegepast wordt er gebruik gemaakt van objectgerichte tekst of niet-objectgerichte tekst.<br/>
 Maximaal 1 verwijzing naar volledig besluitdocument en/of maximaal 1 naar volledige toelichting en/of maximaal 1 naar volledige regels en/of maximaal 3: van elk typeTekst 1 naar volledige bijlage(n).<br/>
 TekstReferentieBG_XGB: Samengesteld attribuut waarin opgenomen:<br/>
@@ -4809,15 +4809,15 @@ TekstReferentieBG_XGB: Samengesteld attribuut waarin opgenomen:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ondergrondInfo<br/>
+<tr><td align='left'>ondergrondInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>OndergrondReferentie:<br/>
+<td align='left'>OndergrondReferentie:<br/>
 Een samengesteld attribuut bestaande uit.<br/>
 <ul><li>ondergrondtype [1]: naam van de ondergrond volgens domein Ondergronden.</li>
 <li>ondergronddatum [1]: datum van de gebruikte ondergrond.</li>
@@ -4826,22 +4826,22 @@ Een samengesteld attribuut bestaande uit.<br/>
 Indien geen gebruik is gemaakt van een ondergrond uit het domein Ondergronden wordt een eenduidige referentie naar de gebruikte ondergrond(en) gegeven.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarIllustratieInfo<br/>
+<tr><td align='left'>verwijzingNaarIllustratieInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>IllustratieReferentie_XGB: Samengesteld attribuut bestaande uit de attributen:<br/>
+<td align='left'>IllustratieReferentie_XGB: Samengesteld attribuut bestaande uit de attributen:<br/>
 <ul><li>verwijzingNaarIllustratie [1]: naam van het bestand dat de illustratie omvat. De waarde kan als een hyperlink geïmplementeerd worden.</li>
 <li>typeIllustratie [1]: soort illustratie. Domein: Illustratie_XGB.</li>
 </ul>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarExternPlanInfo<br/>
+<tr><td align='left'>verwijzingNaarExternPlanInfo<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..*<br/>
+<td align='left'>0..*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ExternPlanReferentie_XGB:<br/>
+<td align='left'>ExternPlanReferentie_XGB:<br/>
 Een samengesteld attribuut bestaande uit:<br/>
 <ul><li>        naamExternPlan [1]: naam van het externe plan/besluit.</li>
 <li>        idnExternPlan [0..1]: idn van het externe plan/besluit.</li>
@@ -4851,29 +4851,29 @@ Een samengesteld attribuut bestaande uit:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNorm<br/>
+<tr><td align='left'>verwijzingNorm<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>2..3<br/>
+<td align='left'>2..3<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Opname van de norm en de praktijkrichtlijn volgens welke het instrument gecodeerd is. Vaste waarden: IMRO2012 en PRGB2012. Indien gebruik wordt gemaakt van objectgerichte planteksten wordt ook de norm IMROPT2012 opgenomen. In dat geval geldt het gebruik van objectgerichte planteksten bij alle attributen waar dit van toepassing kan zijn.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>geometrie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Coördinaten in GML format. Domein: VlakMultivlak: Een vlak of een multivlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.<br/>
+<td align='left'>Opname van de norm en de praktijkrichtlijn volgens welke het instrument gecodeerd is. Vaste waarden: IMRO2012 en PRGB2012. Indien gebruik wordt gemaakt van objectgerichte planteksten wordt ook de norm IMROPT2012 opgenomen. In dat geval geldt het gebruik van objectgerichte planteksten bij alle attributen waar dit van toepassing kan zijn.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>geometrie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
+<td align='left'>Coördinaten in GML format. Domein: VlakMultivlak: Een vlak of een multivlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.<br/>
+</td>
+</tr>
+<tr><td align='left' colspan='3'></td>
+</tr>
+<tr><td align='left'>Associaties<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
+</td>
+<td align='left' colspan='2'></td>
 </tr>
 </tbody>
 </table>
@@ -4885,50 +4885,50 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 <col id='col2' style='width: 6.33747620647184%;'>
 <col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Besluitvlak_X</span><br/>
+<th align='left' colspan='2'>Besluitvlak_X<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Een gebied waarop één of meerdere besluiten betrekking hebben.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Een gebied waarop één of meerdere besluiten betrekking hebben.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van de klasse Planobject.<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van de klasse Planobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'><b><i>m</i></b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
 <li>Maximaal 32 karakters. Toegestane tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.</li>
@@ -4938,25 +4938,25 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlanobject*<br/>
+<tr><td align='left'>typePlanobject*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van het planobject volgens tekst van het besluit.<br/>
+<td align='left'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarTekstInfo<br/>
+<tr><td align='left'>naam<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar tekst.<br/>
+<td align='left'>Naam van het planobject volgens tekst van het besluit.<br/>
+</td>
+</tr>
+<tr><td align='left'>verwijzingNaarTekstInfo<br/>
+</td>
+<td align='left'>1..*<br/>
+</td>
+<td align='left'>Verwijzing naar tekst.<br/>
 Afhankelijk of als norm ook de IMROPT2012 is toegepast wordt er gebruik gemaakt van objectgerichte tekst of niet-objectgerichte tekst.<br/>
 TekstReferentie_XGB: Samengesteld attribuut waarin opgenomen:<br/>
 <ul><li>verwijzingNaarTekst [1]: Verwijzing naar de plantekst. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen. De waarde kan als een hyperlink geïmplementeerd worden.</li>
@@ -4967,29 +4967,29 @@ TekstReferentie_XGB: Samengesteld attribuut waarin opgenomen:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>geometrie<br/>
+<tr><td align='left'>geometrie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Coördinaten in GML format. Domein: VlakMultivlak: Een vlak of een multivlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.<br/>
+<td align='left'>Coördinaten in GML format. Domein: VlakMultivlak: Een vlak of een multivlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
+<tr><td align='left' colspan='3'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><ul><li>besluitgebied [1]: Verwijzing naar (de identificatiecode van) het beluitgebied waar het object Besluitvlak_X onderdeel van uitmaakt. In GML als Xlink opgenomen.</li>
+<td align='left' colspan='2'><ul><li>besluitgebied [1]: Verwijzing naar (de identificatiecode van) het beluitgebied waar het object Besluitvlak_X onderdeel van uitmaakt. In GML als Xlink opgenomen.</li>
 </ul>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
+<td align='left' colspan='2'></td>
 </tr>
 </tbody>
 </table>
@@ -5001,50 +5001,50 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 <col id='col2' style='width: 6.33747620647184%;'>
 <col id='col3' style='width: 69.89138954204456%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'><span style='color: #auto;'>Klasse</span><br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'><span style='color: #auto;'>Besluitsubvlak_X</span><br/>
+<th align='left' colspan='2'>Besluitsubvlak_X<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Aanduiding van een gebied van een object Besluitvlak of en ander Besluitsubvlak waar een nadere betekenis of specificatie aan gegeven wordt.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMRO<br/>
+<td align='left' colspan='2'>Aanduiding van een gebied van een object Besluitvlak of en ander Besluitsubvlak waar een nadere betekenis of specificatie aan gegeven wordt.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Inwinningsregels<br/>
+<tr><td align='left'>Herkomst definitie <br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Generalisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Specialisatie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Van de klasse Planobject.<br/>
+<td align='left' colspan='2'>IMRO<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Inwinningsregels<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Generalisatie<br/>
+</td>
+<td align='left' colspan='2'></td>
+</tr>
+<tr><td align='left'>Specialisatie<br/>
+</td>
+<td align='left' colspan='2'>Van de klasse Planobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>m</i></b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b><i>Toelichting</i></b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie*<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'><b><i>m</i></b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
+<td align='left'><b><i>Toelichting</i></b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie*<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>NEN3610ID: Identificatiecode. Een attribuut samengesteld uit:<br/>
 <ul><li>namespace [1]: ‘NL.IMRO’</li>
 <li>lokaalID: [1]: unieke identificatiecode binnen IMRO.</li>
 <li>Maximaal 32 karakters. Toegestane tekens: {”A”…”Z”, “a”…”z”, ”0”…”9”, “_”, “- “, “,”, ”.”}.</li>
@@ -5054,25 +5054,25 @@ Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typePlanobject*<br/>
+<tr><td align='left'>typePlanobject*<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>naam<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Naam van het object Besluitsubvlak_X<br/>
+<td align='left'>De klasse waar het planobject toebehoort. Soort planobject. Domein: RuimtelijkPlanobject.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarTekstInfo<br/>
+<tr><td align='left'>naam<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1..*<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Verwijzing naar tekst.<br/>
+<td align='left'>Naam van het object Besluitsubvlak_X<br/>
+</td>
+</tr>
+<tr><td align='left'>verwijzingNaarTekstInfo<br/>
+</td>
+<td align='left'>1..*<br/>
+</td>
+<td align='left'>Verwijzing naar tekst.<br/>
 Afhankelijk of als norm ook de IMROPT2012 is toegepast wordt er gebruik gemaakt van objectgerichte tekst of niet-objectgerichte tekst.<br/>
 TekstReferentie_XGB: Samengesteld attribuut waarin opgenomen:<br/>
 <ul><li>verwijzingNaarTekst [1]: Verwijzing naar de plantekst. Opgenomen wordt het identificerende gedeelte van een (hyper)link naar een bestand en of locatie daarin. De locatie van het bestand zelf wordt niet opgenomen. De waarde kan als een hyperlink geïmplementeerd worden.</li>
@@ -5083,31 +5083,31 @@ TekstReferentie_XGB: Samengesteld attribuut waarin opgenomen:<br/>
 Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'></td>
+<tr><td align='left'></td>
+<td align='left'></td>
+<td align='left'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>geometrie<br/>
+<tr><td align='left'>geometrie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Coördinaten in GML format. Domein: VlakMultivlak: Een vlak of een multivlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.<br/>
+<td align='left'>Coördinaten in GML format. Domein: VlakMultivlak: Een vlak of een multivlak. Zie <a href='#1139BF9A'>hoofdstuk 7</a>: Geometrietypen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'></td>
+<tr><td align='left' colspan='3'></td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Associaties<br/>
+<tr><td align='left'>Associaties<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'><ul><li>besluitgebied [1]: Verwijzing naar (de identificatiecode van) het besluitgebied waar het object Besluitsubvlak_X onderdeel van uitmaakt. In GML als Xlink opgenomen.</li>
+<td align='left' colspan='2'><ul><li>besluitgebied [1]: Verwijzing naar (de identificatiecode van) het besluitgebied waar het object Besluitsubvlak_X onderdeel van uitmaakt. In GML als Xlink opgenomen.</li>
 <li>besluitvlak [0..*]: Verwijzing naar (de identificatiecode van) het besluitvlak waar het object Besluitsubvlak_X nadere betekenis aan geeft. In GML als Xlink opgenomen. Verplicht indien besluitsubvlak niet wordt gebruikt. Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.</li>
 <li>besluitsubvlak [0..*]: Verwijzing naar (de identificatiecode van) het besluitsubvlak waar het object Besluitsubvlak_X nadere betekenis aan geeft. Verplicht indien besluitvlak niet wordt gebruikt. In GML als Xlink opgenomen. Met constraint zie <a href='#1B9B615D'>hoofdstuk 8</a>.</li>
 </ul>
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Gebruik/voorbeelden<br/>
+<tr><td align='left'>Gebruik/voorbeelden<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'></td>
+<td align='left' colspan='2'></td>
 </tr>
 </tbody>
 </table>
