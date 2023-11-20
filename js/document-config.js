@@ -1,7 +1,6 @@
 var documentConfig =
 {
   title: "Informatiemodel Ruimtelijke Ordening 2012 (IMRO) versie 1.2.1",
-  subtitle: "Bijlage 4 behorende bij de Regeling standaarden ruimtelijke ordening",
   shortName: "imro",
   pubDomain: "ro",
   specStatus: "wv",
