@@ -1,6 +1,7 @@
 var documentConfig =
 {
   title: "Informatiemodel Ruimtelijke Ordening 2012 (IMRO) versie 1.2.1",
+  subtitle: "Geonovum Informatiemodel"
   shortName: "imro",
   pubDomain: "ro",
   specStatus: "wv",
