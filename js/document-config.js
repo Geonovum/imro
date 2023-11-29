@@ -4,7 +4,7 @@ var documentConfig =
   shortName: "imro",
   pubDomain: "ro",
   specStatus: "def",
-  specType: "no",
+  specType: "im",
   license: "cc-by-nd",
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/imro/"
