@@ -3,7 +3,7 @@ var documentConfig =
   title: "Informatiemodel Ruimtelijke Ordening 2012 (IMRO) versie 1.2.1",
   shortName: "imro",
   pubDomain: "ro",
-  specStatus: "dv",
+  specStatus: "def",
   specType: "no",
   license: "cc-by-nd",
   latestVersion: [
