@@ -12,7 +12,7 @@ var documentConfig =
   publishDate: "2023-11-29",
   publishVersion: "1.2.1",
   thisVersion: [
-    "https://geonovum.github.io/imro/"
+    "https://docs.geostandaarden.nl/ro/def-im-imro-20231129/"
   ],
   previousPublishDate: "2012-04-18",
   previousPublishVersion: "1.2.0",
