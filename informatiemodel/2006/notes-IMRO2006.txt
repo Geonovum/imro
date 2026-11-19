@@ -1,0 +1,12 @@
+IMRO2006 UML versie 1.1RC notes bij deze publicatie.
+
+Dit is een gearchiveerde versie van het IMRO2006.xsd. Op 19-11-2026 op deze url gezet.
+De oude url functioneert niet meer en in die tijd werd het schema lokaal geinstalleerd. 
+
+
+Uit de notes van het schema:
+
+	<!-- 18 december 2007: Versie 1.1RC is aangepast voor het attribuut functieInfo en typeBeleidsbeslissing bij Provinciale planobjecten. Van verplicht naar optioneel -->
+	<!-- dit in verband met mogelijkheid tot 'verkort coderen' -->
+	<!-- Deze XSD is 2 januari 2008 op de Validatie site gezet -->
+	<!-- Versie 1.0RC is de officiele IMRO2006 versie geimplementeerd in IMRO2006 software  -->
