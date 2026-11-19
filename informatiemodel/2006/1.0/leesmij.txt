@@ -1,0 +1,5 @@
+IMRO2006.xsd is intern het orginele bestand
+
+IMRO2006XML.xsd is het bestand zoals deze publiek beschikbaar is via http://ro-standaarden.geonovum.nl/2006/
+
+Deze bestanden waren identiek en IMRO2006.xsd was de meest logische naam dus die heb ik in git gezet.
